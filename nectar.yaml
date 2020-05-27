@@ -1,0 +1,57 @@
+# Common vars
+availability_zone: melbourne-qh2-uom
+
+# Volume
+volumes:
+  - vol_name: vol-couchdb-1
+    vol_size: 80
+  - vol_name: vol-couchdb-2
+    vol_size: 80
+  - vol_name: vol-couchdb-3
+    vol_size: 80
+
+# Security group
+security_groups:
+  - name: Allow couchdb from net
+    description: "Allow couchdb from net"
+    protocol: tcp
+    port_range_min: 22
+    port_range_max: 22
+    remote_ip_prefix: 0.0.0.0/0
+  - name: Allow erlang
+    description: "Allow erlang"
+    protocol: tcp
+    port_range_min: 22
+    port_range_max: 22
+    remote_ip_prefix: 0.0.0.0/0
+  - name: default
+    description: "Default security group"
+    protocol: tcp
+    port_range_min: 22
+    port_range_max: 22
+    remote_ip_prefix: 0.0.0.0/0
+  - name: http
+    description: "Allows HTTP (port 80) and HTTPS (port 443) from world"
+    protocol: tcp
+    port_range_min: 22
+    port_range_max: 22
+    remote_ip_prefix: 0.0.0.0/0
+  - name: ssh
+    description: "Allows SSH (port 22) from world"
+    protocol: tcp
+    port_range_min: 80
+    port_range_max: 80
+    remote_ip_prefix: 0.0.0.0/0
+
+# Instance
+instances:
+  - name: couchdb-1
+    volumes: ['vol-couchdb-1']
+  - name: couchdb-2
+    volumes: ['vol-couchdb-1']
+  - name: couchdb-3
+    volumes: ['vol-couchdb-1']
+
+instance_image: 215f9775-483c-4e0a-b703-d21a5c966f2e
+instance_key_name: couchdb
+instance_flavor: uom.mse.1c4g
