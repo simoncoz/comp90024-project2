@@ -13,7 +13,6 @@ umount /mnt
 
 # Set proxy in /etc/environment 
 
- PATH="/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/usr/games:/usr/local/games"
  HTTP_PROXY="http://wwwproxy.unimelb.edu.au:8000/"
  HTTPS_PROXY="http://wwwproxy.unimelb.edu.au:8000/"
  http_proxy="http://wwwproxy.unimelb.edu.au:8000/"
