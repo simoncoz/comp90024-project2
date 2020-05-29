@@ -16,7 +16,7 @@ auth.set_access_token(access_token, access_secret)
 api = tweepy.API(auth, wait_on_rate_limit=True,
 				   wait_on_rate_limit_notify=True)
 
-couch = couchdb.Server('http://wenkang:010709@localhost:5984/')
+couch = couchdb.Server('http://admin:admin@localhost:5984/')
 db = couch['tweetsdb']
 
 places = api.geo_search(query="Australia", granularity="country")
