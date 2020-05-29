@@ -11,18 +11,20 @@ mount /dev/vdb /mnt –t auto
 # Unmount volumes
 umount /mnt
 
-# Proxy settings if no public IP on the instance
- export HTTP_PROXY=http://wwwproxy.unimelb.edu.au:8000/
- export HTTPS_PROXY=http://wwwproxy.unimelb.edu.au:8000/
- export http_proxy=http://wwwproxy.unimelb.edu.au:8000/
- export https_proxy=http://wwwproxy.unimelb.edu.au:8000/
- export no_proxy=localhost,127.0.0.1,localaddress,172.16.0.0/12,.melbourne.rc.nectar.org.au,.storage.unimelb.edu.au,.cloud.unimelb.edu.au
+# Set proxy in /etc/environment 
+
+ HTTP_PROXY="http://wwwproxy.unimelb.edu.au:8000/"
+ HTTPS_PROXY="http://wwwproxy.unimelb.edu.au:8000/"
+ http_proxy="http://wwwproxy.unimelb.edu.au:8000/"
+ https_proxy="http://wwwproxy.unimelb.edu.au:8000/"
+ no_proxy="localhost,127.0.0.1,localaddress,172.16.0.0/12,.melbourne.rc.nectar.org.au,.storage.unimelb.edu.au,.cloud.unimelb.edu.au"
 
 # Add proxy to docker daemon config to enable access to external registries. 
 # https://docs.docker.com/config/daemon/systemd/
 
- sudo mkdir /etc/systemd/system/docker.service.d
- sudo nano /etc/systemd/system/docker.service.d/http-proxy.conf
+sudo mkdir /etc/systemd/system/docker.service.d
+sudo nano /etc/systemd/system/docker.service.d/http-proxy.conf
+
 [Service]
 Environment="HTTP_PROXY=http://wwwproxy.unimelb.edu.au:8000/" "HTTPS_PROXY=http://wwwproxy.unimelb.edu.au:8000/" "http_proxy=http://wwwproxy.unimelb.edu.au:8000/" "https_proxy=http://wwwproxy.unimelb.edu.au:8000/" "no_proxy=localhost,127.0.0.1,localaddress,172$"
 
