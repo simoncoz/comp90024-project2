@@ -11,18 +11,20 @@ mount /dev/vdb /mnt –t auto
 # Unmount volumes
 umount /mnt
 
-# Proxy settings if no public IP on the instance
- export HTTP_PROXY=http://wwwproxy.unimelb.edu.au:8000/
- export HTTPS_PROXY=http://wwwproxy.unimelb.edu.au:8000/
- export http_proxy=http://wwwproxy.unimelb.edu.au:8000/
- export https_proxy=http://wwwproxy.unimelb.edu.au:8000/
- export no_proxy=localhost,127.0.0.1,localaddress,172.16.0.0/12,.melbourne.rc.nectar.org.au,.storage.unimelb.edu.au,.cloud.unimelb.edu.au
+# Set proxy in /etc/environment 
+
+ HTTP_PROXY="http://wwwproxy.unimelb.edu.au:8000/"
+ HTTPS_PROXY="http://wwwproxy.unimelb.edu.au:8000/"
+ http_proxy="http://wwwproxy.unimelb.edu.au:8000/"
+ https_proxy="http://wwwproxy.unimelb.edu.au:8000/"
+ no_proxy="localhost,127.0.0.1,localaddress,172.16.0.0/12,.melbourne.rc.nectar.org.au,.storage.unimelb.edu.au,.cloud.unimelb.edu.au"
 
 # Add proxy to docker daemon config to enable access to external registries. 
 # https://docs.docker.com/config/daemon/systemd/
 
- sudo mkdir /etc/systemd/system/docker.service.d
- sudo nano /etc/systemd/system/docker.service.d/http-proxy.conf
+sudo mkdir /etc/systemd/system/docker.service.d
+sudo nano /etc/systemd/system/docker.service.d/http-proxy.conf
+
 [Service]
 Environment="HTTP_PROXY=http://wwwproxy.unimelb.edu.au:8000/" "HTTPS_PROXY=http://wwwproxy.unimelb.edu.au:8000/" "http_proxy=http://wwwproxy.unimelb.edu.au:8000/" "https_proxy=http://wwwproxy.unimelb.edu.au:8000/" "no_proxy=localhost,127.0.0.1,localaddress,172$"
 
@@ -123,6 +125,7 @@ curl -XPOST "http://${user}:${pass}@${masternode}:5984/_cluster_setup"\
 
 # Finish cluster setup on node 1 (but can be any node)
 
+<<<<<<< HEAD:commands.sh
 # This empty request is to avoid an error message when finishing the cluster setup 
 curl -XGET "http://${user}:${pass}@${masternode}:5984/"
 
@@ -141,3 +144,13 @@ for node in "${nodes[@]}"; do  curl -X GET "http://${user}:${pass}@${node}:5984/
 # Remove a node
 # First, get the rev
 curl "http://172.26.131.226/_node/_local/_nodes/node2@172.26.129.83"
+=======
+do
+    curl -XPOST "http://${user}:${pass}@172.26.133.138:5984/_cluster_setup" \
+      --header "Content-Type: application/json"\
+      --data "{\"action\": \"enable_cluster\", \"bind_address\":\"0.0.0.0\",\
+             \"username\": \"${user}\", \"password\":\"${pass}\", \"port\": \"5984\",\
+             \"remote_node\": \"172.26.133.235\", \"node_count\": \"$(echo 3 | wc -w)\",\
+             \"remote_current_user\":\"${user}\", \"remote_current_password\":\"${pass}\"}"
+done
+>>>>>>> 220c14bfa5c05073780f1ab827c4cc4c9474f8b1:Deployment/commands.sh
