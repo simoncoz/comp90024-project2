@@ -130,7 +130,7 @@ for node in "${nodes[@]}"; do  curl -X GET "http://${user}:${pass}@${node}:5984/
 
 
 # Add database to any node
-export newdb="name_of_new_db"
+export newdb="tweetsdb"
 curl -XPUT "http://${user}:${pass}@${masternode}:5984/${newdb}"
 for node in "${nodes[@]}"; do  curl -X GET "http://${user}:${pass}@${node}:5984/_all_dbs"; done
 

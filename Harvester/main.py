@@ -29,7 +29,7 @@ max_id = -1
 tweetCount = 0
 print("Downloading max {0} tweets".format(maxTweets))
 # with open(fName, 'w', encoding='utf-8') as f:
-  while tweetCount < maxTweets:
+while tweetCount < maxTweets:
     try:
       if (max_id <= 0):
         tweets = api.search(q="place:%s" % place_id)
