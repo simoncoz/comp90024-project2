@@ -53,6 +53,9 @@ erl -name bus@172.26.133.138 -setcookie 'brumbrum' -kernel inet_dist_listen_min 
 # On server 2
 erl -name car@172.26.131.221  -setcookie 'brumbrum' -kernel inet_dist_listen_min 9100 -kernel inet_dist_listen_max 9100
 
+# On server 3
+erl -name truck@172.26.133.235  -setcookie 'brumbrum' -kernel inet_dist_listen_min 9100 -kernel inet_dist_listen_max 9100
+
 # Back on server 1
 net_kernel:connect_node(car@172.26.131.221).
 

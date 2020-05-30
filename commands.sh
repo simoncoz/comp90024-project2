@@ -30,13 +30,13 @@ Environment="HTTP_PROXY=http://wwwproxy.unimelb.edu.au:8000/" "HTTPS_PROXY=http:
 sudo systemctl daemon-reload
 sudo systemctl restart docker
 
-# Set env variables for cluster setup
+# Set env variables on each node for cluster setup
 export declare -a nodes=(172.26.131.226 172.26.130.128 172.26.130.232)
 export masternode=`echo ${nodes} | cut -f1 -d' '`
 export declare -a othernodes=`echo ${nodes[@]} | sed s/${masternode}//`
 export size=${#nodes[@]}
 export user=admin
-export pass=admin
+export pass=group49xxx
 export VERSION='3.0.0'
 export cookie='a192aeb9904e6590849337933b000c99'
 export uuid='a192aeb9904e6590849337933b001159'
@@ -67,6 +67,8 @@ docker create\
       --env ERL_FLAGS="-setcookie \"${cookie}\" -name \"couchdb@${node}\""\
       apache/couchdb
 
+
+
 # Run on node 2
 export node=172.26.130.128
 docker create\
@@ -80,6 +82,18 @@ docker create\
       --env COUCHDB_SECRET=${cookie}\
       --env ERL_FLAGS="-setcookie \"${cookie}\" -name \"couchdb@${node}\""\
       apache/couchdb
+
+curl -XPOST "http://${user}:${pass}@${masternode}:5984/_cluster_setup" \
+      --header "Content-Type: application/json"\
+      --data "{\"action\": \"enable_cluster\", \"bind_address\":\"${node}\",\
+             \"username\": \"${user}\", \"password\":\"${pass}\", \"port\": \"5984\",\
+             \"remote_node\": \"${node}\", \"node_count\": \"$(echo ${nodes[@]} | wc -w)\",\
+             \"remote_current_user\":\"${user}\", \"remote_current_password\":\"${pass}\"}"
+
+curl -XPOST "http://${user}:${pass}@${masternode}:5984/_cluster_setup"\
+      --header "Content-Type: application/json"\
+      --data "{\"action\": \"add_node\", \"host\":\"${node}\",\
+             \"port\": \"5984\", \"username\": \"${user}\", \"password\":\"${pass}\"}"
 
 # Run on node 3
 export node=172.26.130.232
@@ -95,18 +109,35 @@ docker create\
       --env ERL_FLAGS="-setcookie \"${cookie}\" -name \"couchdb@${node}\""\
       apache/couchdb
 
+curl -XPOST "http://${user}:${pass}@${masternode}:5984/_cluster_setup" \
+      --header "Content-Type: application/json"\
+      --data "{\"action\": \"enable_cluster\", \"bind_address\":\"${node}\",\
+             \"username\": \"${user}\", \"password\":\"${pass}\", \"port\": \"5984\",\
+             \"remote_node\": \"${node}\", \"node_count\": \"$(echo ${nodes[@]} | wc -w)\",\
+             \"remote_current_user\":\"${user}\", \"remote_current_password\":\"${pass}\"}"
 
-curl -XPOST "http://${user}:${pass}@${node}:5984/_cluster_setup"\
+curl -XPOST "http://${user}:${pass}@${masternode}:5984/_cluster_setup"\
       --header "Content-Type: application/json"\
       --data "{\"action\": \"add_node\", \"host\":\"${node}\",\
              \"port\": \"5984\", \"username\": \"${user}\", \"password\":\"${pass}\"}"
 
+# Finish cluster setup on node 1 (but can be any node)
 
-do
-    curl -XPOST "http://${user}:${pass}@172.26.133.138:5984/_cluster_setup" \
-      --header "Content-Type: application/json"\
-      --data "{\"action\": \"enable_cluster\", \"bind_address\":\"0.0.0.0\",\
-             \"username\": \"${user}\", \"password\":\"${pass}\", \"port\": \"5984\",\
-             \"remote_node\": \"172.26.133.235\", \"node_count\": \"$(echo 3 | wc -w)\",\
-             \"remote_current_user\":\"${user}\", \"remote_current_password\":\"${pass}\"}"
-done
+# This empty request is to avoid an error message when finishing the cluster setup 
+curl -XGET "http://${user}:${pass}@${masternode}:5984/"
+
+curl -XPOST "http://${user}:${pass}@${masternode}:5984/_cluster_setup"\
+    --header "Content-Type: application/json" --data "{\"action\": \"finish_cluster\"}"
+
+export declare -a nodes=(172.26.131.226 172.26.130.128 172.26.130.232)
+for node in "${nodes[@]}"; do  curl -X GET "http://${user}:${pass}@${node}:5984/_membership"; done
+
+
+# Add database to any node
+
+curl -XPUT "http://${user}:${pass}@${masternode}:5984/twitter"
+for node in "${nodes[@]}"; do  curl -X GET "http://${user}:${pass}@${node}:5984/_all_dbs"; done
+
+# Remove a node
+# First, get the rev
+curl "http://172.26.131.226/_node/_local/_nodes/node2@172.26.129.83"
