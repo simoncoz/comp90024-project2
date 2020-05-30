@@ -32,6 +32,8 @@ Environment="HTTP_PROXY=http://wwwproxy.unimelb.edu.au:8000/" "HTTPS_PROXY=http:
 sudo systemctl daemon-reload
 sudo systemctl restart docker
 
+### Install Couchdb
+
 # Set env variables on each node for cluster setup
 export declare -a nodes=(172.26.131.226 172.26.130.128 172.26.130.232)
 export masternode=`echo ${nodes} | cut -f1 -d' '`
@@ -43,17 +45,7 @@ export VERSION='3.0.0'
 export cookie='a192aeb9904e6590849337933b000c99'
 export uuid='a192aeb9904e6590849337933b001159'
 
-curl "http://172.26.133.232/_node/_local/_nodes/node2@172.26.133.235"
-
 docker pull ibmcom/couchdb3:${VERSION}
-
-#on each aurin node
-
-if [ ! -z $(docker ps --all --filter "name=couchdb${node}" --quiet) ] 
-    then
-        docker stop $(docker ps --all --filter "name=couchdb${node}" --quiet) 
-        docker rm $(docker ps --all --filter "name=couchdb${node}" --quiet)
-fi 
 
 # Run on node 1
 export node=172.26.131.226
@@ -84,6 +76,8 @@ docker create\
       --env COUCHDB_SECRET=${cookie}\
       --env ERL_FLAGS="-setcookie \"${cookie}\" -name \"couchdb@${node}\""\
       apache/couchdb
+
+docker start
 
 curl -XPOST "http://${user}:${pass}@${masternode}:5984/_cluster_setup" \
       --header "Content-Type: application/json"\
@@ -125,7 +119,6 @@ curl -XPOST "http://${user}:${pass}@${masternode}:5984/_cluster_setup"\
 
 # Finish cluster setup on node 1 (but can be any node)
 
-<<<<<<< HEAD:commands.sh
 # This empty request is to avoid an error message when finishing the cluster setup 
 curl -XGET "http://${user}:${pass}@${masternode}:5984/"
 
@@ -137,20 +130,8 @@ for node in "${nodes[@]}"; do  curl -X GET "http://${user}:${pass}@${node}:5984/
 
 
 # Add database to any node
-
-curl -XPUT "http://${user}:${pass}@${masternode}:5984/twitter"
+export newdb="name_of_new_db"
+curl -XPUT "http://${user}:${pass}@${masternode}:5984/${newdb}"
 for node in "${nodes[@]}"; do  curl -X GET "http://${user}:${pass}@${node}:5984/_all_dbs"; done
 
-# Remove a node
-# First, get the rev
-curl "http://172.26.131.226/_node/_local/_nodes/node2@172.26.129.83"
-=======
-do
-    curl -XPOST "http://${user}:${pass}@172.26.133.138:5984/_cluster_setup" \
-      --header "Content-Type: application/json"\
-      --data "{\"action\": \"enable_cluster\", \"bind_address\":\"0.0.0.0\",\
-             \"username\": \"${user}\", \"password\":\"${pass}\", \"port\": \"5984\",\
-             \"remote_node\": \"172.26.133.235\", \"node_count\": \"$(echo 3 | wc -w)\",\
-             \"remote_current_user\":\"${user}\", \"remote_current_password\":\"${pass}\"}"
-done
->>>>>>> 220c14bfa5c05073780f1ab827c4cc4c9474f8b1:Deployment/commands.sh
+
