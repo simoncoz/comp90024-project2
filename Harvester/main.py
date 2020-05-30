@@ -16,7 +16,7 @@ auth.set_access_token(access_token, access_secret)
 api = tweepy.API(auth, wait_on_rate_limit=True,
 				   wait_on_rate_limit_notify=True)
 
-couch = couchdb.Server('http://admin:admin@localhost:5984/')
+couch = couchdb.Server('http://admin:admin@127.0.0.1:5984/')
 db = couch['tweetsdb']
 
 places = api.geo_search(query="Australia", granularity="country")
@@ -28,7 +28,7 @@ fName = 'tweets7.txt' # We'll store the tweets in a text file.
 max_id = -1
 tweetCount = 0
 print("Downloading max {0} tweets".format(maxTweets))
-with open(fName, 'w', encoding='utf-8') as f:
+# with open(fName, 'w', encoding='utf-8') as f:
   while tweetCount < maxTweets:
     try:
       if (max_id <= 0):
@@ -37,12 +37,12 @@ with open(fName, 'w', encoding='utf-8') as f:
         tweets = api.search(q="place:%s" % place_id,max_id=str(max_id - 1))
       for tweet in tweets:
         place = tweet.place.name if tweet.place else "Undefined place"
-        # doc = {'id': str(tweetCount+1), 'text': tweet.text, 'location': place, 'lang': tweet.lang}
-        # doc = {'_id': '1', 'text': 't', 'location': 'place', 'lang': 'tweet'}
-        # print(doc['id'])
-        # db.save(doc)
-        f.write(tweet.text + "\n" + place)
-        f.write("\n"+tweet.lang + "\n")
+        doc = {'id': str(tweetCount+1), 'text': tweet.text, 'location': place, 'lang': tweet.lang}
+        doc = {'_id': '1', 'text': 't', 'location': 'place', 'lang': 'tweet'}
+        print(doc['id'])
+        db.save(doc)
+        #f.write(tweet.text + "\n" + place)
+        #f.write("\n"+tweet.lang + "\n")
       tweetCount += len(tweets)
       print("Downloaded {0} tweets".format(tweetCount))
       if len(tweets)==0:
