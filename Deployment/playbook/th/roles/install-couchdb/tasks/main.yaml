@@ -1,0 +1,5 @@
+---
+- name: install requirments
+  include: req.yaml
+
+# install couchdb

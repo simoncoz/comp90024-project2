@@ -1,0 +1,51 @@
+#curl -sL https://deb.nodesource.com/setup_14.x | sudo -E bash -
+#sudo apt-get install -y nodejs
+#sudo apt install node-grunt-cli
+#sudo apt-get install jq
+#npm install
+---
+- name: Install the gpg key for nodejs LTS
+  become: yes
+  apt_key:
+    url: "https://deb.nodesource.com/gpgkey/nodesource.gpg.key"
+    state: present
+
+- name: Install the nodejs LTS repos
+  become: yes
+  apt_repository:
+    repo: "deb https://deb.nodesource.com/node_14.x {{ ansible_distribution_release }} main"
+    state: present
+    update_cache: yes
+
+- name: Install the nodejs
+  become: yes
+  apt:
+    name: nodejs
+    state: present
+
+- name: install grunt, jq
+  become: yes
+  apt:
+    name: ['node-grunt-cli', 'jq']
+    state: present
+
+- name: Install the gpg key for erlang
+  become: yes
+  apt_key:
+    url: "https://github.com/rabbitmq/signing-keys/releases/download/2.0/rabbitmq-release-signing-key.asc"
+    state: present
+
+
+- name: Install the erlang  repos
+  become: yes
+  apt_repository:
+    repo: "deb http://dl.bintray.com/rabbitmq-erlang/debian {{ ansible_distribution_release }} erlang"
+    state: present
+    update_cache: yes
+
+
+- name: Install the erlang
+  become: yes
+  apt:
+    name: erlang
+    state: present
