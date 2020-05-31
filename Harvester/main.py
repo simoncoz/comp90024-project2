@@ -45,7 +45,7 @@ while tweetCount < maxTweets:
         place = tweet.place.name if tweet.place else "Undefined place"
         doc = {'id': str(tweetCount+1), 'text': tweet.text, 'location': place, 'lang': tweet.lang}
         #doc = {'_id': '1', 'text': 't', 'location': 'place', 'lang': 'tweet'}
-        print (doc)
+        #print (doc)
         print(doc['id'])
         db.save(doc)
         #f.write(tweet.text + "\n" + place)
