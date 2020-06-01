@@ -64,7 +64,7 @@ stream = Stream(auth=api.auth, listener=myStreamListener)
 
 try:
     print('Stream starting')
-    stream.filter(track=["Trump", "Django", "Tweepy"] )
+    stream.filter(locations=[110.95,-54.83,159.29,-11.35])
 except KeyboardInterrupt as e :
     print("Stopped by user")
 finally:
