@@ -1,3 +1,10 @@
+# 2020 COMP90024 Project2
+# Simon Cozens
+# Sollie
+
+Acknowledgements
+https://manifold.co/blog/building-an-offline-first-app-with-react-and-couchdb
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
