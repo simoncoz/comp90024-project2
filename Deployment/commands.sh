@@ -41,6 +41,7 @@ sudo apt upgrade
 sudo apt -y install python3-pip
 sudo pip3 install tweepy
 sudo pip3 install couchdb
+sudo apt install jq
 
 ### Install Couchdb
 
