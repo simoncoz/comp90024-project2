@@ -15,7 +15,7 @@
 
   roles:
     - role: th-common
-    - role: th-volumes
-    - rolSe: th-docker
+#    - role: th-volumes
+    - role: th-docker
     - role: install-couchdb
     - role: th-harvester

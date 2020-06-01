@@ -3,3 +3,22 @@
   include: req.yaml
 
 # install couchdb
+
+- name: Add couchdb apt repository key
+  become: yes
+  apt_key:
+    url: "https://couchdb.apache.org/repo/bintray-pubkey.asc"
+    state: present
+
+- name: Add couchdb apt repository and update apt cache
+  become: yes
+  apt_repository:
+    repo: "deb https://apache.bintray.com/couchdb-deb bionic main"
+    state: present
+    update_cache: yes
+
+- name: Install the couchdb
+  become: yes
+  apt:
+    name: ['couchdb']
+    state: present
