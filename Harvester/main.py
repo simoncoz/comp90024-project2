@@ -1,3 +1,7 @@
+# 2020 COMP90024 Project2
+# Simon Cozens 1071589
+# Solmaz Maabi 871603
+
 import tweepy
 import sys
 import os
