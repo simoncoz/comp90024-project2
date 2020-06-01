@@ -1,6 +1,8 @@
 
+# 2020 COMP90024 Project2
 # This is a scratchpad of commands for the project. Not for execution in whole.
-# Simon Cozens
+# Simon Cozens 1071589
+# Solmaz Maabi 871603
 
 # Format volumes
 mkfs.ext4 /dev/vdb
@@ -31,6 +33,15 @@ Environment="HTTP_PROXY=http://wwwproxy.unimelb.edu.au:8000/" "HTTPS_PROXY=http:
 # Flush & restart
 sudo systemctl daemon-reload
 sudo systemctl restart docker
+
+## Install depenencies
+sudo apt update
+sudo apt upgrade
+
+sudo apt -y install python3-pip
+sudo pip3 install tweepy
+sudo pip3 install couchdb
+sudo apt install jq
 
 ### Install Couchdb
 
