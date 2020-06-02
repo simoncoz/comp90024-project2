@@ -1,6 +1,6 @@
 [
   {
-    "lga_code_2016": 10050,
+    "id": 10050,
     "location": "Albury",
     "vi": 39,
     "ko": 31,
@@ -22,11 +22,11 @@
     "el": 143,
     "tl": 123,
     "de": 136,
-    "sp_oth_lan_indo_ary_lan_ben_p": 92,
+    "bn": 92,
     "ja": 24
   },
   {
-    "lga_code_2016": 10130,
+    "id": 10130,
     "location": "Armidale Regional",
     "vi": 64,
     "ko": 15,
@@ -48,11 +48,11 @@
     "el": 40,
     "tl": 66,
     "de": 104,
-    "sp_oth_lan_indo_ary_lan_ben_p": 61,
+    "bn": 61,
     "ja": 39
   },
   {
-    "lga_code_2016": 10250,
+    "id": 10250,
     "location": "Ballina",
     "vi": 39,
     "ko": 23,
@@ -74,11 +74,11 @@
     "el": 34,
     "tl": 28,
     "de": 137,
-    "sp_oth_lan_indo_ary_lan_ben_p": 4,
+    "bn": 4,
     "ja": 72
   },
   {
-    "lga_code_2016": 10300,
+    "id": 10300,
     "location": "Balranald",
     "vi": 0,
     "ko": 0,
@@ -100,11 +100,11 @@
     "el": 4,
     "tl": 0,
     "de": 0,
-    "sp_oth_lan_indo_ary_lan_ben_p": 0,
+    "bn": 0,
     "ja": 0
   },
   {
-    "lga_code_2016": 10470,
+    "id": 10470,
     "location": "Bathurst Regional",
     "vi": 46,
     "ko": 22,
@@ -126,11 +126,11 @@
     "el": 32,
     "tl": 65,
     "de": 64,
-    "sp_oth_lan_indo_ary_lan_ben_p": 51,
+    "bn": 51,
     "ja": 38
   },
   {
-    "lga_code_2016": 10550,
+    "id": 10550,
     "location": "Bega Valley",
     "vi": 19,
     "ko": 9,
@@ -152,11 +152,11 @@
     "el": 34,
     "tl": 48,
     "de": 156,
-    "sp_oth_lan_indo_ary_lan_ben_p": 5,
+    "bn": 5,
     "ja": 17
   },
   {
-    "lga_code_2016": 10600,
+    "id": 10600,
     "location": "Bellingen",
     "vi": 4,
     "ko": 3,
@@ -178,11 +178,11 @@
     "el": 9,
     "tl": 9,
     "de": 71,
-    "sp_oth_lan_indo_ary_lan_ben_p": 0,
+    "bn": 0,
     "ja": 13
   },
   {
-    "lga_code_2016": 10650,
+    "id": 10650,
     "location": "Berrigan",
     "vi": 0,
     "ko": 3,
@@ -204,11 +204,11 @@
     "el": 0,
     "tl": 9,
     "de": 15,
-    "sp_oth_lan_indo_ary_lan_ben_p": 0,
+    "bn": 0,
     "ja": 0
   },
   {
-    "lga_code_2016": 10750,
+    "id": 10750,
     "location": "Blacktown",
     "vi": 1222,
     "ko": 1842,
@@ -230,11 +230,11 @@
     "el": 1983,
     "tl": 13517,
     "de": 584,
-    "sp_oth_lan_indo_ary_lan_ben_p": 3382,
+    "bn": 3382,
     "ja": 193
   },
   {
-    "lga_code_2016": 10800,
+    "id": 10800,
     "location": "Bland",
     "vi": 3,
     "ko": 0,
@@ -256,11 +256,11 @@
     "el": 3,
     "tl": 10,
     "de": 0,
-    "sp_oth_lan_indo_ary_lan_ben_p": 3,
+    "bn": 3,
     "ja": 0
   },
   {
-    "lga_code_2016": 10850,
+    "id": 10850,
     "location": "Blayney",
     "vi": 3,
     "ko": 0,
@@ -282,11 +282,11 @@
     "el": 4,
     "tl": 3,
     "de": 14,
-    "sp_oth_lan_indo_ary_lan_ben_p": 0,
+    "bn": 0,
     "ja": 0
   },
   {
-    "lga_code_2016": 10900,
+    "id": 10900,
     "location": "Blue Mountains",
     "vi": 128,
     "ko": 97,
@@ -308,11 +308,11 @@
     "el": 224,
     "tl": 87,
     "de": 422,
-    "sp_oth_lan_indo_ary_lan_ben_p": 6,
+    "bn": 6,
     "ja": 143
   },
   {
-    "lga_code_2016": 10950,
+    "id": 10950,
     "location": "Bogan",
     "vi": 4,
     "ko": 0,
@@ -334,11 +334,11 @@
     "el": 0,
     "tl": 0,
     "de": 4,
-    "sp_oth_lan_indo_ary_lan_ben_p": 0,
+    "bn": 0,
     "ja": 0
   },
   {
-    "lga_code_2016": 11100,
+    "id": 11100,
     "location": "Botany Bay",
     "vi": 278,
     "ko": 179,
@@ -360,11 +360,11 @@
     "el": 2080,
     "tl": 532,
     "de": 111,
-    "sp_oth_lan_indo_ary_lan_ben_p": 1535,
+    "bn": 1535,
     "ja": 165
   },
   {
-    "lga_code_2016": 11150,
+    "id": 11150,
     "location": "Bourke",
     "vi": 0,
     "ko": 0,
@@ -386,11 +386,11 @@
     "el": 3,
     "tl": 0,
     "de": 0,
-    "sp_oth_lan_indo_ary_lan_ben_p": 0,
+    "bn": 0,
     "ja": 0
   },
   {
-    "lga_code_2016": 11200,
+    "id": 11200,
     "location": "Brewarrina",
     "vi": 0,
     "ko": 0,
@@ -412,11 +412,11 @@
     "el": 0,
     "tl": 0,
     "de": 0,
-    "sp_oth_lan_indo_ary_lan_ben_p": 0,
+    "bn": 0,
     "ja": 0
   },
   {
-    "lga_code_2016": 11250,
+    "id": 11250,
     "location": "Broken Hill",
     "vi": 6,
     "ko": 5,
@@ -438,11 +438,11 @@
     "el": 18,
     "tl": 38,
     "de": 23,
-    "sp_oth_lan_indo_ary_lan_ben_p": 7,
+    "bn": 7,
     "ja": 8
   },
   {
-    "lga_code_2016": 13910,
+    "id": 13910,
     "location": "Hilltops",
     "vi": 0,
     "ko": 4,
@@ -464,11 +464,11 @@
     "el": 8,
     "tl": 26,
     "de": 15,
-    "sp_oth_lan_indo_ary_lan_ben_p": 10,
+    "bn": 10,
     "ja": 0
   },
   {
-    "lga_code_2016": 14000,
+    "id": 14000,
     "location": "Hornsby",
     "vi": 558,
     "ko": 3285,
@@ -490,11 +490,11 @@
     "el": 375,
     "tl": 894,
     "de": 508,
-    "sp_oth_lan_indo_ary_lan_ben_p": 316,
+    "bn": 316,
     "ja": 747
   },
   {
-    "lga_code_2016": 14100,
+    "id": 14100,
     "location": "Hunters Hill",
     "vi": 50,
     "ko": 82,
@@ -516,11 +516,11 @@
     "el": 267,
     "tl": 21,
     "de": 57,
-    "sp_oth_lan_indo_ary_lan_ben_p": 0,
+    "bn": 0,
     "ja": 38
   },
   {
-    "lga_code_2016": 14170,
+    "id": 14170,
     "location": "Inner West",
     "vi": 3701,
     "ko": 780,
@@ -542,11 +542,11 @@
     "el": 5322,
     "tl": 859,
     "de": 806,
-    "sp_oth_lan_indo_ary_lan_ben_p": 586,
+    "bn": 586,
     "ja": 713
   },
   {
-    "lga_code_2016": 14200,
+    "id": 14200,
     "location": "Inverell",
     "vi": 36,
     "ko": 20,
@@ -568,11 +568,11 @@
     "el": 3,
     "tl": 88,
     "de": 30,
-    "sp_oth_lan_indo_ary_lan_ben_p": 0,
+    "bn": 0,
     "ja": 8
   },
   {
-    "lga_code_2016": 14300,
+    "id": 14300,
     "location": "Junee",
     "vi": 0,
     "ko": 9,
@@ -594,11 +594,11 @@
     "el": 3,
     "tl": 0,
     "de": 0,
-    "sp_oth_lan_indo_ary_lan_ben_p": 0,
+    "bn": 0,
     "ja": 0
   },
   {
-    "lga_code_2016": 14350,
+    "id": 14350,
     "location": "Kempsey",
     "vi": 11,
     "ko": 3,
@@ -620,11 +620,11 @@
     "el": 11,
     "tl": 44,
     "de": 67,
-    "sp_oth_lan_indo_ary_lan_ben_p": 4,
+    "bn": 4,
     "ja": 3
   },
   {
-    "lga_code_2016": 14400,
+    "id": 14400,
     "location": "Kiama",
     "vi": 6,
     "ko": 14,
@@ -646,11 +646,11 @@
     "el": 52,
     "tl": 9,
     "de": 85,
-    "sp_oth_lan_indo_ary_lan_ben_p": 0,
+    "bn": 0,
     "ja": 21
   },
   {
-    "lga_code_2016": 14500,
+    "id": 14500,
     "location": "Ku-ring-gai",
     "vi": 329,
     "ko": 2952,
@@ -672,11 +672,11 @@
     "el": 384,
     "tl": 180,
     "de": 650,
-    "sp_oth_lan_indo_ary_lan_ben_p": 102,
+    "bn": 102,
     "ja": 952
   },
   {
-    "lga_code_2016": 14550,
+    "id": 14550,
     "location": "Kyogle",
     "vi": 0,
     "ko": 4,
@@ -698,11 +698,11 @@
     "el": 3,
     "tl": 11,
     "de": 40,
-    "sp_oth_lan_indo_ary_lan_ben_p": 3,
+    "bn": 3,
     "ja": 15
   },
   {
-    "lga_code_2016": 14600,
+    "id": 14600,
     "location": "Lachlan",
     "vi": 0,
     "ko": 0,
@@ -724,11 +724,11 @@
     "el": 8,
     "tl": 11,
     "de": 8,
-    "sp_oth_lan_indo_ary_lan_ben_p": 0,
+    "bn": 0,
     "ja": 0
   },
   {
-    "lga_code_2016": 14650,
+    "id": 14650,
     "location": "Lake Macquarie",
     "vi": 162,
     "ko": 176,
@@ -750,11 +750,11 @@
     "el": 308,
     "tl": 263,
     "de": 432,
-    "sp_oth_lan_indo_ary_lan_ben_p": 89,
+    "bn": 89,
     "ja": 118
   },
   {
-    "lga_code_2016": 14700,
+    "id": 14700,
     "location": "Lane Cove",
     "vi": 130,
     "ko": 329,
@@ -776,11 +776,11 @@
     "el": 234,
     "tl": 158,
     "de": 192,
-    "sp_oth_lan_indo_ary_lan_ben_p": 138,
+    "bn": 138,
     "ja": 433
   },
   {
-    "lga_code_2016": 14750,
+    "id": 14750,
     "location": "Leeton",
     "vi": 5,
     "ko": 0,
@@ -802,11 +802,11 @@
     "el": 4,
     "tl": 33,
     "de": 4,
-    "sp_oth_lan_indo_ary_lan_ben_p": 4,
+    "bn": 4,
     "ja": 8
   },
   {
-    "lga_code_2016": 14850,
+    "id": 14850,
     "location": "Lismore",
     "vi": 53,
     "ko": 19,
@@ -828,11 +828,11 @@
     "el": 26,
     "tl": 61,
     "de": 211,
-    "sp_oth_lan_indo_ary_lan_ben_p": 18,
+    "bn": 18,
     "ja": 67
   },
   {
-    "lga_code_2016": 14870,
+    "id": 14870,
     "location": "Lithgow",
     "vi": 36,
     "ko": 3,
@@ -854,11 +854,11 @@
     "el": 23,
     "tl": 27,
     "de": 44,
-    "sp_oth_lan_indo_ary_lan_ben_p": 9,
+    "bn": 9,
     "ja": 4
   },
   {
-    "lga_code_2016": 14900,
+    "id": 14900,
     "location": "Liverpool",
     "vi": 10071,
     "ko": 216,
@@ -880,11 +880,11 @@
     "el": 2963,
     "tl": 2406,
     "de": 278,
-    "sp_oth_lan_indo_ary_lan_ben_p": 940,
+    "bn": 940,
     "ja": 101
   },
   {
-    "lga_code_2016": 14920,
+    "id": 14920,
     "location": "Liverpool Plains",
     "vi": 3,
     "ko": 3,
@@ -906,11 +906,11 @@
     "el": 4,
     "tl": 3,
     "de": 3,
-    "sp_oth_lan_indo_ary_lan_ben_p": 0,
+    "bn": 0,
     "ja": 6
   },
   {
-    "lga_code_2016": 14950,
+    "id": 14950,
     "location": "Lockhart",
     "vi": 9,
     "ko": 0,
@@ -932,11 +932,11 @@
     "el": 0,
     "tl": 0,
     "de": 3,
-    "sp_oth_lan_indo_ary_lan_ben_p": 0,
+    "bn": 0,
     "ja": 4
   },
   {
-    "lga_code_2016": 15050,
+    "id": 15050,
     "location": "Maitland",
     "vi": 75,
     "ko": 40,
@@ -958,11 +958,11 @@
     "el": 63,
     "tl": 165,
     "de": 135,
-    "sp_oth_lan_indo_ary_lan_ben_p": 48,
+    "bn": 48,
     "ja": 20
   },
   {
-    "lga_code_2016": 15240,
+    "id": 15240,
     "location": "Mid-Coast",
     "vi": 34,
     "ko": 45,
@@ -984,11 +984,11 @@
     "el": 72,
     "tl": 95,
     "de": 256,
-    "sp_oth_lan_indo_ary_lan_ben_p": 25,
+    "bn": 25,
     "ja": 48
   },
   {
-    "lga_code_2016": 15270,
+    "id": 15270,
     "location": "Mid-Western Regional",
     "vi": 24,
     "ko": 15,
@@ -1010,11 +1010,11 @@
     "el": 19,
     "tl": 33,
     "de": 46,
-    "sp_oth_lan_indo_ary_lan_ben_p": 6,
+    "bn": 6,
     "ja": 3
   },
   {
-    "lga_code_2016": 15300,
+    "id": 15300,
     "location": "Moree Plains",
     "vi": 3,
     "ko": 3,
@@ -1036,11 +1036,11 @@
     "el": 11,
     "tl": 31,
     "de": 17,
-    "sp_oth_lan_indo_ary_lan_ben_p": 0,
+    "bn": 0,
     "ja": 3
   },
   {
-    "lga_code_2016": 15350,
+    "id": 15350,
     "location": "Mosman",
     "vi": 47,
     "ko": 90,
@@ -1062,11 +1062,11 @@
     "el": 159,
     "tl": 74,
     "de": 236,
-    "sp_oth_lan_indo_ary_lan_ben_p": 25,
+    "bn": 25,
     "ja": 208
   },
   {
-    "lga_code_2016": 15520,
+    "id": 15520,
     "location": "Murray River",
     "vi": 4,
     "ko": 0,
@@ -1088,11 +1088,11 @@
     "el": 10,
     "tl": 17,
     "de": 4,
-    "sp_oth_lan_indo_ary_lan_ben_p": 3,
+    "bn": 3,
     "ja": 9
   },
   {
-    "lga_code_2016": 15560,
+    "id": 15560,
     "location": "Murrumbidgee",
     "vi": 0,
     "ko": 7,
@@ -1114,11 +1114,11 @@
     "el": 0,
     "tl": 8,
     "de": 3,
-    "sp_oth_lan_indo_ary_lan_ben_p": 3,
+    "bn": 3,
     "ja": 0
   },
   {
-    "lga_code_2016": 15650,
+    "id": 15650,
     "location": "Muswellbrook",
     "vi": 6,
     "ko": 3,
@@ -1140,11 +1140,11 @@
     "el": 12,
     "tl": 44,
     "de": 18,
-    "sp_oth_lan_indo_ary_lan_ben_p": 12,
+    "bn": 12,
     "ja": 14
   },
   {
-    "lga_code_2016": 15700,
+    "id": 15700,
     "location": "Nambucca",
     "vi": 9,
     "ko": 3,
@@ -1166,11 +1166,11 @@
     "el": 8,
     "tl": 15,
     "de": 28,
-    "sp_oth_lan_indo_ary_lan_ben_p": 0,
+    "bn": 0,
     "ja": 6
   },
   {
-    "lga_code_2016": 15750,
+    "id": 15750,
     "location": "Narrabri",
     "vi": 3,
     "ko": 0,
@@ -1192,11 +1192,11 @@
     "el": 0,
     "tl": 21,
     "de": 15,
-    "sp_oth_lan_indo_ary_lan_ben_p": 7,
+    "bn": 7,
     "ja": 0
   },
   {
-    "lga_code_2016": 15800,
+    "id": 15800,
     "location": "Narrandera",
     "vi": 0,
     "ko": 4,
@@ -1218,11 +1218,11 @@
     "el": 3,
     "tl": 3,
     "de": 10,
-    "sp_oth_lan_indo_ary_lan_ben_p": 0,
+    "bn": 0,
     "ja": 0
   },
   {
-    "lga_code_2016": 15850,
+    "id": 15850,
     "location": "Narromine",
     "vi": 0,
     "ko": 3,
@@ -1244,11 +1244,11 @@
     "el": 0,
     "tl": 0,
     "de": 0,
-    "sp_oth_lan_indo_ary_lan_ben_p": 5,
+    "bn": 5,
     "ja": 0
   },
   {
-    "lga_code_2016": 15900,
+    "id": 15900,
     "location": "Newcastle",
     "vi": 485,
     "ko": 416,
@@ -1270,11 +1270,11 @@
     "el": 763,
     "tl": 326,
     "de": 389,
-    "sp_oth_lan_indo_ary_lan_ben_p": 196,
+    "bn": 196,
     "ja": 165
   },
   {
-    "lga_code_2016": 15950,
+    "id": 15950,
     "location": "North Sydney",
     "vi": 231,
     "ko": 431,
@@ -1296,11 +1296,11 @@
     "el": 243,
     "tl": 268,
     "de": 481,
-    "sp_oth_lan_indo_ary_lan_ben_p": 114,
+    "bn": 114,
     "ja": 1194
   },
   {
-    "lga_code_2016": 15990,
+    "id": 15990,
     "location": "Northern Beaches",
     "vi": 478,
     "ko": 841,
@@ -1322,11 +1322,11 @@
     "el": 980,
     "tl": 836,
     "de": 2239,
-    "sp_oth_lan_indo_ary_lan_ben_p": 128,
+    "bn": 128,
     "ja": 1128
   },
   {
-    "lga_code_2016": 16100,
+    "id": 16100,
     "location": "Oberon",
     "vi": 0,
     "ko": 0,
@@ -1348,11 +1348,11 @@
     "el": 6,
     "tl": 0,
     "de": 14,
-    "sp_oth_lan_indo_ary_lan_ben_p": 0,
+    "bn": 0,
     "ja": 0
   },
   {
-    "lga_code_2016": 16150,
+    "id": 16150,
     "location": "Orange",
     "vi": 55,
     "ko": 72,
@@ -1374,11 +1374,11 @@
     "el": 64,
     "tl": 67,
     "de": 79,
-    "sp_oth_lan_indo_ary_lan_ben_p": 21,
+    "bn": 21,
     "ja": 24
   },
   {
-    "lga_code_2016": 16200,
+    "id": 16200,
     "location": "Parkes",
     "vi": 11,
     "ko": 10,
@@ -1400,11 +1400,11 @@
     "el": 0,
     "tl": 29,
     "de": 9,
-    "sp_oth_lan_indo_ary_lan_ben_p": 3,
+    "bn": 3,
     "ja": 3
   },
   {
-    "lga_code_2016": 16260,
+    "id": 16260,
     "location": "Parramatta",
     "vi": 1129,
     "ko": 11236,
@@ -1426,11 +1426,11 @@
     "el": 1350,
     "tl": 1814,
     "de": 455,
-    "sp_oth_lan_indo_ary_lan_ben_p": 1693,
+    "bn": 1693,
     "ja": 538
   },
   {
-    "lga_code_2016": 16350,
+    "id": 16350,
     "location": "Penrith",
     "vi": 463,
     "ko": 376,
@@ -1452,11 +1452,11 @@
     "el": 1174,
     "tl": 2105,
     "de": 386,
-    "sp_oth_lan_indo_ary_lan_ben_p": 379,
+    "bn": 379,
     "ja": 93
   },
   {
-    "lga_code_2016": 11570,
+    "id": 11570,
     "location": "Canterbury-Bankstown",
     "vi": 24955,
     "ko": 4040,
@@ -1478,11 +1478,11 @@
     "el": 18556,
     "tl": 2277,
     "de": 490,
-    "sp_oth_lan_indo_ary_lan_ben_p": 8628,
+    "bn": 8628,
     "ja": 469
   },
   {
-    "lga_code_2016": 11600,
+    "id": 11600,
     "location": "Carrathool",
     "vi": 0,
     "ko": 19,
@@ -1504,11 +1504,11 @@
     "el": 4,
     "tl": 3,
     "de": 4,
-    "sp_oth_lan_indo_ary_lan_ben_p": 0,
+    "bn": 0,
     "ja": 3
   },
   {
-    "lga_code_2016": 11650,
+    "id": 11650,
     "location": "Central Coast (NSW)",
     "vi": 342,
     "ko": 639,
@@ -1530,11 +1530,11 @@
     "el": 730,
     "tl": 667,
     "de": 887,
-    "sp_oth_lan_indo_ary_lan_ben_p": 72,
+    "bn": 72,
     "ja": 418
   },
   {
-    "lga_code_2016": 11700,
+    "id": 11700,
     "location": "Central Darling",
     "vi": 0,
     "ko": 0,
@@ -1556,11 +1556,11 @@
     "el": 0,
     "tl": 0,
     "de": 4,
-    "sp_oth_lan_indo_ary_lan_ben_p": 0,
+    "bn": 0,
     "ja": 0
   },
   {
-    "lga_code_2016": 11720,
+    "id": 11720,
     "location": "Cessnock",
     "vi": 25,
     "ko": 13,
@@ -1582,11 +1582,11 @@
     "el": 30,
     "tl": 45,
     "de": 59,
-    "sp_oth_lan_indo_ary_lan_ben_p": 5,
+    "bn": 5,
     "ja": 19
   },
   {
-    "lga_code_2016": 11300,
+    "id": 11300,
     "location": "Burwood",
     "vi": 618,
     "ko": 1421,
@@ -1608,11 +1608,11 @@
     "el": 915,
     "tl": 207,
     "de": 51,
-    "sp_oth_lan_indo_ary_lan_ben_p": 144,
+    "bn": 144,
     "ja": 110
   },
   {
-    "lga_code_2016": 11350,
+    "id": 11350,
     "location": "Byron",
     "vi": 19,
     "ko": 12,
@@ -1634,11 +1634,11 @@
     "el": 51,
     "tl": 9,
     "de": 322,
-    "sp_oth_lan_indo_ary_lan_ben_p": 0,
+    "bn": 0,
     "ja": 165
   },
   {
-    "lga_code_2016": 11400,
+    "id": 11400,
     "location": "Cabonne",
     "vi": 3,
     "ko": 3,
@@ -1660,11 +1660,11 @@
     "el": 4,
     "tl": 19,
     "de": 35,
-    "sp_oth_lan_indo_ary_lan_ben_p": 0,
+    "bn": 0,
     "ja": 14
   },
   {
-    "lga_code_2016": 11450,
+    "id": 11450,
     "location": "Camden",
     "vi": 257,
     "ko": 51,
@@ -1686,11 +1686,11 @@
     "el": 381,
     "tl": 270,
     "de": 178,
-    "sp_oth_lan_indo_ary_lan_ben_p": 86,
+    "bn": 86,
     "ja": 32
   },
   {
-    "lga_code_2016": 11500,
+    "id": 11500,
     "location": "Campbelltown (NSW)",
     "vi": 1152,
     "ko": 188,
@@ -1712,11 +1712,11 @@
     "el": 868,
     "tl": 2332,
     "de": 287,
-    "sp_oth_lan_indo_ary_lan_ben_p": 4633,
+    "bn": 4633,
     "ja": 84
   },
   {
-    "lga_code_2016": 11520,
+    "id": 11520,
     "location": "Canada Bay",
     "vi": 583,
     "ko": 3541,
@@ -1738,11 +1738,11 @@
     "el": 1966,
     "tl": 297,
     "de": 266,
-    "sp_oth_lan_indo_ary_lan_ben_p": 130,
+    "bn": 130,
     "ja": 261
   },
   {
-    "lga_code_2016": 11730,
+    "id": 11730,
     "location": "Clarence Valley",
     "vi": 27,
     "ko": 7,
@@ -1764,11 +1764,11 @@
     "el": 24,
     "tl": 53,
     "de": 93,
-    "sp_oth_lan_indo_ary_lan_ben_p": 4,
+    "bn": 4,
     "ja": 31
   },
   {
-    "lga_code_2016": 11750,
+    "id": 11750,
     "location": "Cobar",
     "vi": 3,
     "ko": 0,
@@ -1790,11 +1790,11 @@
     "el": 0,
     "tl": 11,
     "de": 3,
-    "sp_oth_lan_indo_ary_lan_ben_p": 11,
+    "bn": 11,
     "ja": 7
   },
   {
-    "lga_code_2016": 11800,
+    "id": 11800,
     "location": "Coffs Harbour",
     "vi": 57,
     "ko": 38,
@@ -1816,11 +1816,11 @@
     "el": 71,
     "tl": 113,
     "de": 328,
-    "sp_oth_lan_indo_ary_lan_ben_p": 23,
+    "bn": 23,
     "ja": 93
   },
   {
-    "lga_code_2016": 12000,
+    "id": 12000,
     "location": "Coolamon",
     "vi": 3,
     "ko": 0,
@@ -1842,11 +1842,11 @@
     "el": 3,
     "tl": 0,
     "de": 4,
-    "sp_oth_lan_indo_ary_lan_ben_p": 0,
+    "bn": 0,
     "ja": 0
   },
   {
-    "lga_code_2016": 12150,
+    "id": 12150,
     "location": "Coonamble",
     "vi": 3,
     "ko": 0,
@@ -1868,11 +1868,11 @@
     "el": 6,
     "tl": 0,
     "de": 3,
-    "sp_oth_lan_indo_ary_lan_ben_p": 0,
+    "bn": 0,
     "ja": 0
   },
   {
-    "lga_code_2016": 12350,
+    "id": 12350,
     "location": "Cowra",
     "vi": 8,
     "ko": 6,
@@ -1894,11 +1894,11 @@
     "el": 23,
     "tl": 17,
     "de": 14,
-    "sp_oth_lan_indo_ary_lan_ben_p": 0,
+    "bn": 0,
     "ja": 3
   },
   {
-    "lga_code_2016": 12380,
+    "id": 12380,
     "location": "Cumberland",
     "vi": 3721,
     "ko": 5132,
@@ -1920,11 +1920,11 @@
     "el": 1693,
     "tl": 2260,
     "de": 175,
-    "sp_oth_lan_indo_ary_lan_ben_p": 1329,
+    "bn": 1329,
     "ja": 145
   },
   {
-    "lga_code_2016": 12700,
+    "id": 12700,
     "location": "Dungog",
     "vi": 0,
     "ko": 3,
@@ -1946,11 +1946,11 @@
     "el": 5,
     "tl": 7,
     "de": 9,
-    "sp_oth_lan_indo_ary_lan_ben_p": 0,
+    "bn": 0,
     "ja": 0
   },
   {
-    "lga_code_2016": 12730,
+    "id": 12730,
     "location": "Edward River",
     "vi": 0,
     "ko": 16,
@@ -1972,11 +1972,11 @@
     "el": 11,
     "tl": 6,
     "de": 7,
-    "sp_oth_lan_indo_ary_lan_ben_p": 0,
+    "bn": 0,
     "ja": 4
   },
   {
-    "lga_code_2016": 12750,
+    "id": 12750,
     "location": "Eurobodalla",
     "vi": 53,
     "ko": 7,
@@ -1998,11 +1998,11 @@
     "el": 94,
     "tl": 22,
     "de": 166,
-    "sp_oth_lan_indo_ary_lan_ben_p": 7,
+    "bn": 7,
     "ja": 7
   },
   {
-    "lga_code_2016": 12850,
+    "id": 12850,
     "location": "Fairfield",
     "vi": 40403,
     "ko": 105,
@@ -2024,11 +2024,11 @@
     "el": 1080,
     "tl": 1335,
     "de": 277,
-    "sp_oth_lan_indo_ary_lan_ben_p": 89,
+    "bn": 89,
     "ja": 77
   },
   {
-    "lga_code_2016": 12870,
+    "id": 12870,
     "location": "Federation",
     "vi": 4,
     "ko": 13,
@@ -2050,11 +2050,11 @@
     "el": 0,
     "tl": 19,
     "de": 12,
-    "sp_oth_lan_indo_ary_lan_ben_p": 5,
+    "bn": 5,
     "ja": 9
   },
   {
-    "lga_code_2016": 12900,
+    "id": 12900,
     "location": "Forbes",
     "vi": 11,
     "ko": 3,
@@ -2076,11 +2076,11 @@
     "el": 3,
     "tl": 6,
     "de": 3,
-    "sp_oth_lan_indo_ary_lan_ben_p": 5,
+    "bn": 5,
     "ja": 0
   },
   {
-    "lga_code_2016": 12930,
+    "id": 12930,
     "location": "Georges River",
     "vi": 1039,
     "ko": 587,
@@ -2102,11 +2102,11 @@
     "el": 7921,
     "tl": 1198,
     "de": 268,
-    "sp_oth_lan_indo_ary_lan_ben_p": 981,
+    "bn": 981,
     "ja": 405
   },
   {
-    "lga_code_2016": 12950,
+    "id": 12950,
     "location": "Gilgandra",
     "vi": 0,
     "ko": 0,
@@ -2128,11 +2128,11 @@
     "el": 9,
     "tl": 9,
     "de": 3,
-    "sp_oth_lan_indo_ary_lan_ben_p": 0,
+    "bn": 0,
     "ja": 3
   },
   {
-    "lga_code_2016": 13010,
+    "id": 13010,
     "location": "Glen Innes Severn",
     "vi": 0,
     "ko": 0,
@@ -2154,11 +2154,11 @@
     "el": 3,
     "tl": 4,
     "de": 12,
-    "sp_oth_lan_indo_ary_lan_ben_p": 0,
+    "bn": 0,
     "ja": 6
   },
   {
-    "lga_code_2016": 13310,
+    "id": 13310,
     "location": "Goulburn Mulwaree",
     "vi": 10,
     "ko": 65,
@@ -2180,11 +2180,11 @@
     "el": 85,
     "tl": 44,
     "de": 68,
-    "sp_oth_lan_indo_ary_lan_ben_p": 18,
+    "bn": 18,
     "ja": 6
   },
   {
-    "lga_code_2016": 13340,
+    "id": 13340,
     "location": "Greater Hume Shire",
     "vi": 0,
     "ko": 0,
@@ -2206,11 +2206,11 @@
     "el": 3,
     "tl": 6,
     "de": 32,
-    "sp_oth_lan_indo_ary_lan_ben_p": 0,
+    "bn": 0,
     "ja": 8
   },
   {
-    "lga_code_2016": 13450,
+    "id": 13450,
     "location": "Griffith",
     "vi": 4,
     "ko": 18,
@@ -2232,11 +2232,11 @@
     "el": 10,
     "tl": 102,
     "de": 30,
-    "sp_oth_lan_indo_ary_lan_ben_p": 15,
+    "bn": 15,
     "ja": 3
   },
   {
-    "lga_code_2016": 13510,
+    "id": 13510,
     "location": "Gundagai",
     "vi": 13,
     "ko": 3,
@@ -2258,11 +2258,11 @@
     "el": 4,
     "tl": 18,
     "de": 11,
-    "sp_oth_lan_indo_ary_lan_ben_p": 0,
+    "bn": 0,
     "ja": 0
   },
   {
-    "lga_code_2016": 13550,
+    "id": 13550,
     "location": "Gunnedah",
     "vi": 6,
     "ko": 7,
@@ -2284,11 +2284,11 @@
     "el": 5,
     "tl": 24,
     "de": 16,
-    "sp_oth_lan_indo_ary_lan_ben_p": 8,
+    "bn": 8,
     "ja": 8
   },
   {
-    "lga_code_2016": 13660,
+    "id": 13660,
     "location": "Gwydir",
     "vi": 0,
     "ko": 0,
@@ -2310,11 +2310,11 @@
     "el": 0,
     "tl": 3,
     "de": 9,
-    "sp_oth_lan_indo_ary_lan_ben_p": 0,
+    "bn": 0,
     "ja": 0
   },
   {
-    "lga_code_2016": 13800,
+    "id": 13800,
     "location": "Hawkesbury",
     "vi": 73,
     "ko": 45,
@@ -2336,11 +2336,11 @@
     "el": 141,
     "tl": 111,
     "de": 191,
-    "sp_oth_lan_indo_ary_lan_ben_p": 3,
+    "bn": 3,
     "ja": 27
   },
   {
-    "lga_code_2016": 13850,
+    "id": 13850,
     "location": "Hay",
     "vi": 0,
     "ko": 0,
@@ -2362,11 +2362,11 @@
     "el": 14,
     "tl": 0,
     "de": 0,
-    "sp_oth_lan_indo_ary_lan_ben_p": 0,
+    "bn": 0,
     "ja": 0
   },
   {
-    "lga_code_2016": 16380,
+    "id": 16380,
     "location": "Port Macquarie-Hastings",
     "vi": 67,
     "ko": 38,
@@ -2388,11 +2388,11 @@
     "el": 60,
     "tl": 71,
     "de": 189,
-    "sp_oth_lan_indo_ary_lan_ben_p": 13,
+    "bn": 13,
     "ja": 55
   },
   {
-    "lga_code_2016": 16400,
+    "id": 16400,
     "location": "Port Stephens",
     "vi": 47,
     "ko": 49,
@@ -2414,11 +2414,11 @@
     "el": 127,
     "tl": 102,
     "de": 153,
-    "sp_oth_lan_indo_ary_lan_ben_p": 5,
+    "bn": 5,
     "ja": 56
   },
   {
-    "lga_code_2016": 16490,
+    "id": 16490,
     "location": "Queanbeyan-Palerang Regional",
     "vi": 101,
     "ko": 46,
@@ -2440,11 +2440,11 @@
     "el": 210,
     "tl": 221,
     "de": 170,
-    "sp_oth_lan_indo_ary_lan_ben_p": 182,
+    "bn": 182,
     "ja": 44
   },
   {
-    "lga_code_2016": 16550,
+    "id": 16550,
     "location": "Randwick",
     "vi": 711,
     "ko": 598,
@@ -2466,11 +2466,11 @@
     "el": 4534,
     "tl": 475,
     "de": 901,
-    "sp_oth_lan_indo_ary_lan_ben_p": 435,
+    "bn": 435,
     "ja": 515
   },
   {
-    "lga_code_2016": 16610,
+    "id": 16610,
     "location": "Richmond Valley",
     "vi": 4,
     "ko": 3,
@@ -2492,11 +2492,11 @@
     "el": 14,
     "tl": 44,
     "de": 30,
-    "sp_oth_lan_indo_ary_lan_ben_p": 0,
+    "bn": 0,
     "ja": 0
   },
   {
-    "lga_code_2016": 16650,
+    "id": 16650,
     "location": "Rockdale",
     "vi": 1194,
     "ko": 351,
@@ -2518,11 +2518,11 @@
     "el": 8877,
     "tl": 1198,
     "de": 197,
-    "sp_oth_lan_indo_ary_lan_ben_p": 2326,
+    "bn": 2326,
     "ja": 418
   },
   {
-    "lga_code_2016": 16700,
+    "id": 16700,
     "location": "Ryde",
     "vi": 773,
     "ko": 5401,
@@ -2544,11 +2544,11 @@
     "el": 1183,
     "tl": 979,
     "de": 351,
-    "sp_oth_lan_indo_ary_lan_ben_p": 504,
+    "bn": 504,
     "ja": 807
   },
   {
-    "lga_code_2016": 16900,
+    "id": 16900,
     "location": "Shellharbour",
     "vi": 160,
     "ko": 44,
@@ -2570,11 +2570,11 @@
     "el": 309,
     "tl": 128,
     "de": 313,
-    "sp_oth_lan_indo_ary_lan_ben_p": 12,
+    "bn": 12,
     "ja": 44
   },
   {
-    "lga_code_2016": 16950,
+    "id": 16950,
     "location": "Shoalhaven",
     "vi": 89,
     "ko": 29,
@@ -2596,11 +2596,11 @@
     "el": 278,
     "tl": 157,
     "de": 268,
-    "sp_oth_lan_indo_ary_lan_ben_p": 29,
+    "bn": 29,
     "ja": 64
   },
   {
-    "lga_code_2016": 17000,
+    "id": 17000,
     "location": "Singleton",
     "vi": 31,
     "ko": 8,
@@ -2622,11 +2622,11 @@
     "el": 12,
     "tl": 49,
     "de": 35,
-    "sp_oth_lan_indo_ary_lan_ben_p": 7,
+    "bn": 7,
     "ja": 4
   },
   {
-    "lga_code_2016": 17040,
+    "id": 17040,
     "location": "Snowy Monaro Regional",
     "vi": 36,
     "ko": 35,
@@ -2648,11 +2648,11 @@
     "el": 69,
     "tl": 16,
     "de": 256,
-    "sp_oth_lan_indo_ary_lan_ben_p": 8,
+    "bn": 8,
     "ja": 27
   },
   {
-    "lga_code_2016": 17080,
+    "id": 17080,
     "location": "Snowy Valleys",
     "vi": 9,
     "ko": 8,
@@ -2674,11 +2674,11 @@
     "el": 4,
     "tl": 10,
     "de": 27,
-    "sp_oth_lan_indo_ary_lan_ben_p": 0,
+    "bn": 0,
     "ja": 3
   },
   {
-    "lga_code_2016": 17420,
+    "id": 17420,
     "location": "The Hills Shire",
     "vi": 520,
     "ko": 3081,
@@ -2700,11 +2700,11 @@
     "el": 961,
     "tl": 1134,
     "de": 503,
-    "sp_oth_lan_indo_ary_lan_ben_p": 548,
+    "bn": 548,
     "ja": 246
   },
   {
-    "lga_code_2016": 17550,
+    "id": 17550,
     "location": "Tweed",
     "vi": 44,
     "ko": 30,
@@ -2726,11 +2726,11 @@
     "el": 79,
     "tl": 190,
     "de": 332,
-    "sp_oth_lan_indo_ary_lan_ben_p": 18,
+    "bn": 18,
     "ja": 282
   },
   {
-    "lga_code_2016": 17620,
+    "id": 17620,
     "location": "Upper Hunter Shire",
     "vi": 38,
     "ko": 5,
@@ -2752,11 +2752,11 @@
     "el": 0,
     "tl": 28,
     "de": 17,
-    "sp_oth_lan_indo_ary_lan_ben_p": 6,
+    "bn": 6,
     "ja": 0
   },
   {
-    "lga_code_2016": 17640,
+    "id": 17640,
     "location": "Upper Lachlan Shire",
     "vi": 0,
     "ko": 0,
@@ -2778,11 +2778,11 @@
     "el": 7,
     "tl": 0,
     "de": 20,
-    "sp_oth_lan_indo_ary_lan_ben_p": 0,
+    "bn": 0,
     "ja": 0
   },
   {
-    "lga_code_2016": 17650,
+    "id": 17650,
     "location": "Uralla",
     "vi": 3,
     "ko": 0,
@@ -2804,11 +2804,11 @@
     "el": 0,
     "tl": 3,
     "de": 15,
-    "sp_oth_lan_indo_ary_lan_ben_p": 0,
+    "bn": 0,
     "ja": 8
   },
   {
-    "lga_code_2016": 17750,
+    "id": 17750,
     "location": "Wagga Wagga",
     "vi": 78,
     "ko": 58,
@@ -2830,11 +2830,11 @@
     "el": 89,
     "tl": 195,
     "de": 92,
-    "sp_oth_lan_indo_ary_lan_ben_p": 87,
+    "bn": 87,
     "ja": 26
   },
   {
-    "lga_code_2016": 17850,
+    "id": 17850,
     "location": "Walcha",
     "vi": 0,
     "ko": 0,
@@ -2856,11 +2856,11 @@
     "el": 0,
     "tl": 0,
     "de": 3,
-    "sp_oth_lan_indo_ary_lan_ben_p": 0,
+    "bn": 0,
     "ja": 0
   },
   {
-    "lga_code_2016": 17900,
+    "id": 17900,
     "location": "Walgett",
     "vi": 3,
     "ko": 3,
@@ -2882,11 +2882,11 @@
     "el": 3,
     "tl": 12,
     "de": 40,
-    "sp_oth_lan_indo_ary_lan_ben_p": 0,
+    "bn": 0,
     "ja": 0
   },
   {
-    "lga_code_2016": 17950,
+    "id": 17950,
     "location": "Warren",
     "vi": 0,
     "ko": 0,
@@ -2908,11 +2908,11 @@
     "el": 0,
     "tl": 4,
     "de": 7,
-    "sp_oth_lan_indo_ary_lan_ben_p": 0,
+    "bn": 0,
     "ja": 3
   },
   {
-    "lga_code_2016": 18020,
+    "id": 18020,
     "location": "Warrumbungle Shire",
     "vi": 4,
     "ko": 4,
@@ -2934,11 +2934,11 @@
     "el": 15,
     "tl": 6,
     "de": 22,
-    "sp_oth_lan_indo_ary_lan_ben_p": 7,
+    "bn": 7,
     "ja": 0
   },
   {
-    "lga_code_2016": 18050,
+    "id": 18050,
     "location": "Waverley",
     "vi": 98,
     "ko": 165,
@@ -2960,11 +2960,11 @@
     "el": 674,
     "tl": 189,
     "de": 633,
-    "sp_oth_lan_indo_ary_lan_ben_p": 56,
+    "bn": 56,
     "ja": 345
   },
   {
-    "lga_code_2016": 18100,
+    "id": 18100,
     "location": "Weddin",
     "vi": 3,
     "ko": 0,
@@ -2986,11 +2986,11 @@
     "el": 3,
     "tl": 5,
     "de": 0,
-    "sp_oth_lan_indo_ary_lan_ben_p": 0,
+    "bn": 0,
     "ja": 0
   },
   {
-    "lga_code_2016": 18200,
+    "id": 18200,
     "location": "Wentworth",
     "vi": 0,
     "ko": 0,
@@ -3012,11 +3012,11 @@
     "el": 8,
     "tl": 4,
     "de": 3,
-    "sp_oth_lan_indo_ary_lan_ben_p": 0,
+    "bn": 0,
     "ja": 0
   },
   {
-    "lga_code_2016": 18230,
+    "id": 18230,
     "location": "Western Plains Regional",
     "vi": 60,
     "ko": 52,
@@ -3038,11 +3038,11 @@
     "el": 52,
     "tl": 117,
     "de": 52,
-    "sp_oth_lan_indo_ary_lan_ben_p": 68,
+    "bn": 68,
     "ja": 13
   },
   {
-    "lga_code_2016": 18250,
+    "id": 18250,
     "location": "Willoughby",
     "vi": 297,
     "ko": 2433,
@@ -3064,11 +3064,11 @@
     "el": 383,
     "tl": 363,
     "de": 289,
-    "sp_oth_lan_indo_ary_lan_ben_p": 125,
+    "bn": 125,
     "ja": 1762
   },
   {
-    "lga_code_2016": 18350,
+    "id": 18350,
     "location": "Wingecarribee",
     "vi": 61,
     "ko": 22,
@@ -3090,11 +3090,11 @@
     "el": 174,
     "tl": 62,
     "de": 199,
-    "sp_oth_lan_indo_ary_lan_ben_p": 16,
+    "bn": 16,
     "ja": 42
   },
   {
-    "lga_code_2016": 18400,
+    "id": 18400,
     "location": "Wollondilly",
     "vi": 54,
     "ko": 7,
@@ -3116,11 +3116,11 @@
     "el": 150,
     "tl": 30,
     "de": 100,
-    "sp_oth_lan_indo_ary_lan_ben_p": 10,
+    "bn": 10,
     "ja": 9
   },
   {
-    "lga_code_2016": 18450,
+    "id": 18450,
     "location": "Wollongong",
     "vi": 1128,
     "ko": 330,
@@ -3142,11 +3142,11 @@
     "el": 1707,
     "tl": 457,
     "de": 713,
-    "sp_oth_lan_indo_ary_lan_ben_p": 154,
+    "bn": 154,
     "ja": 227
   },
   {
-    "lga_code_2016": 18500,
+    "id": 18500,
     "location": "Woollahra",
     "vi": 135,
     "ko": 135,
@@ -3168,11 +3168,11 @@
     "el": 680,
     "tl": 133,
     "de": 369,
-    "sp_oth_lan_indo_ary_lan_ben_p": 20,
+    "bn": 20,
     "ja": 182
   },
   {
-    "lga_code_2016": 18710,
+    "id": 18710,
     "location": "Yass Valley",
     "vi": 20,
     "ko": 3,
@@ -3194,11 +3194,11 @@
     "el": 14,
     "tl": 6,
     "de": 58,
-    "sp_oth_lan_indo_ary_lan_ben_p": 3,
+    "bn": 3,
     "ja": 3
   },
   {
-    "lga_code_2016": 19399,
+    "id": 19399,
     "location": "Unincorporated NSW",
     "vi": 0,
     "ko": 0,
@@ -3220,11 +3220,11 @@
     "el": 0,
     "tl": 0,
     "de": 9,
-    "sp_oth_lan_indo_ary_lan_ben_p": 0,
+    "bn": 0,
     "ja": 0
   },
   {
-    "lga_code_2016": 20110,
+    "id": 20110,
     "location": "Alpine",
     "vi": 5,
     "ko": 8,
@@ -3246,11 +3246,11 @@
     "el": 27,
     "tl": 16,
     "de": 78,
-    "sp_oth_lan_indo_ary_lan_ben_p": 0,
+    "bn": 0,
     "ja": 15
   },
   {
-    "lga_code_2016": 20260,
+    "id": 20260,
     "location": "Ararat",
     "vi": 19,
     "ko": 3,
@@ -3272,11 +3272,11 @@
     "el": 8,
     "tl": 13,
     "de": 25,
-    "sp_oth_lan_indo_ary_lan_ben_p": 0,
+    "bn": 0,
     "ja": 0
   },
   {
-    "lga_code_2016": 20570,
+    "id": 20570,
     "location": "Ballarat",
     "vi": 117,
     "ko": 38,
@@ -3298,11 +3298,11 @@
     "el": 139,
     "tl": 167,
     "de": 166,
-    "sp_oth_lan_indo_ary_lan_ben_p": 80,
+    "bn": 80,
     "ja": 148
   },
   {
-    "lga_code_2016": 20660,
+    "id": 20660,
     "location": "Banyule",
     "vi": 854,
     "ko": 230,
@@ -3324,11 +3324,11 @@
     "el": 2561,
     "tl": 230,
     "de": 497,
-    "sp_oth_lan_indo_ary_lan_ben_p": 67,
+    "bn": 67,
     "ja": 371
   },
   {
-    "lga_code_2016": 20740,
+    "id": 20740,
     "location": "Bass Coast",
     "vi": 33,
     "ko": 4,
@@ -3350,11 +3350,11 @@
     "el": 111,
     "tl": 30,
     "de": 112,
-    "sp_oth_lan_indo_ary_lan_ben_p": 7,
+    "bn": 7,
     "ja": 19
   },
   {
-    "lga_code_2016": 20830,
+    "id": 20830,
     "location": "Baw Baw",
     "vi": 40,
     "ko": 8,
@@ -3376,11 +3376,11 @@
     "el": 68,
     "tl": 30,
     "de": 120,
-    "sp_oth_lan_indo_ary_lan_ben_p": 13,
+    "bn": 13,
     "ja": 36
   },
   {
-    "lga_code_2016": 20910,
+    "id": 20910,
     "location": "Bayside",
     "vi": 182,
     "ko": 94,
@@ -3402,11 +3402,11 @@
     "el": 2095,
     "tl": 66,
     "de": 741,
-    "sp_oth_lan_indo_ary_lan_ben_p": 26,
+    "bn": 26,
     "ja": 394
   },
   {
-    "lga_code_2016": 21010,
+    "id": 21010,
     "location": "Benalla",
     "vi": 3,
     "ko": 0,
@@ -3428,11 +3428,11 @@
     "el": 5,
     "tl": 10,
     "de": 37,
-    "sp_oth_lan_indo_ary_lan_ben_p": 4,
+    "bn": 4,
     "ja": 3
   },
   {
-    "lga_code_2016": 21110,
+    "id": 21110,
     "location": "Boroondara",
     "vi": 2056,
     "ko": 721,
@@ -3454,11 +3454,11 @@
     "el": 4745,
     "tl": 191,
     "de": 661,
-    "sp_oth_lan_indo_ary_lan_ben_p": 224,
+    "bn": 224,
     "ja": 555
   },
   {
-    "lga_code_2016": 21180,
+    "id": 21180,
     "location": "Brimbank",
     "vi": 31344,
     "ko": 148,
@@ -3480,11 +3480,11 @@
     "el": 5265,
     "tl": 3090,
     "de": 455,
-    "sp_oth_lan_indo_ary_lan_ben_p": 596,
+    "bn": 596,
     "ja": 124
   },
   {
-    "lga_code_2016": 21270,
+    "id": 21270,
     "location": "Buloke",
     "vi": 3,
     "ko": 0,
@@ -3506,11 +3506,11 @@
     "el": 3,
     "tl": 12,
     "de": 5,
-    "sp_oth_lan_indo_ary_lan_ben_p": 0,
+    "bn": 0,
     "ja": 0
   },
   {
-    "lga_code_2016": 21370,
+    "id": 21370,
     "location": "Campaspe",
     "vi": 9,
     "ko": 32,
@@ -3532,11 +3532,11 @@
     "el": 48,
     "tl": 69,
     "de": 47,
-    "sp_oth_lan_indo_ary_lan_ben_p": 0,
+    "bn": 0,
     "ja": 3
   },
   {
-    "lga_code_2016": 21450,
+    "id": 21450,
     "location": "Cardinia",
     "vi": 125,
     "ko": 64,
@@ -3558,11 +3558,11 @@
     "el": 251,
     "tl": 230,
     "de": 277,
-    "sp_oth_lan_indo_ary_lan_ben_p": 126,
+    "bn": 126,
     "ja": 71
   },
   {
-    "lga_code_2016": 21610,
+    "id": 21610,
     "location": "Casey",
     "vi": 2246,
     "ko": 513,
@@ -3584,11 +3584,11 @@
     "el": 2466,
     "tl": 2106,
     "de": 709,
-    "sp_oth_lan_indo_ary_lan_ben_p": 640,
+    "bn": 640,
     "ja": 203
   },
   {
-    "lga_code_2016": 21670,
+    "id": 21670,
     "location": "Central Goldfields",
     "vi": 3,
     "ko": 0,
@@ -3610,11 +3610,11 @@
     "el": 23,
     "tl": 19,
     "de": 19,
-    "sp_oth_lan_indo_ary_lan_ben_p": 0,
+    "bn": 0,
     "ja": 0
   },
   {
-    "lga_code_2016": 21750,
+    "id": 21750,
     "location": "Colac-Otway",
     "vi": 23,
     "ko": 3,
@@ -3636,11 +3636,11 @@
     "el": 43,
     "tl": 13,
     "de": 35,
-    "sp_oth_lan_indo_ary_lan_ben_p": 0,
+    "bn": 0,
     "ja": 22
   },
   {
-    "lga_code_2016": 21830,
+    "id": 21830,
     "location": "Corangamite",
     "vi": 0,
     "ko": 0,
@@ -3662,11 +3662,11 @@
     "el": 9,
     "tl": 22,
     "de": 22,
-    "sp_oth_lan_indo_ary_lan_ben_p": 0,
+    "bn": 0,
     "ja": 0
   },
   {
-    "lga_code_2016": 21890,
+    "id": 21890,
     "location": "Darebin",
     "vi": 3373,
     "ko": 177,
@@ -3688,11 +3688,11 @@
     "el": 9210,
     "tl": 414,
     "de": 451,
-    "sp_oth_lan_indo_ary_lan_ben_p": 420,
+    "bn": 420,
     "ja": 404
   },
   {
-    "lga_code_2016": 22110,
+    "id": 22110,
     "location": "East Gippsland",
     "vi": 78,
     "ko": 10,
@@ -3714,11 +3714,11 @@
     "el": 65,
     "tl": 62,
     "de": 154,
-    "sp_oth_lan_indo_ary_lan_ben_p": 0,
+    "bn": 0,
     "ja": 16
   },
   {
-    "lga_code_2016": 22170,
+    "id": 22170,
     "location": "Frankston",
     "vi": 237,
     "ko": 78,
@@ -3740,11 +3740,11 @@
     "el": 1154,
     "tl": 456,
     "de": 574,
-    "sp_oth_lan_indo_ary_lan_ben_p": 42,
+    "bn": 42,
     "ja": 135
   },
   {
-    "lga_code_2016": 22250,
+    "id": 22250,
     "location": "Gannawarra",
     "vi": 3,
     "ko": 0,
@@ -3766,11 +3766,11 @@
     "el": 11,
     "tl": 18,
     "de": 9,
-    "sp_oth_lan_indo_ary_lan_ben_p": 4,
+    "bn": 4,
     "ja": 0
   },
   {
-    "lga_code_2016": 22830,
+    "id": 22830,
     "location": "Greater Shepparton",
     "vi": 56,
     "ko": 30,
@@ -3792,11 +3792,11 @@
     "el": 221,
     "tl": 159,
     "de": 76,
-    "sp_oth_lan_indo_ary_lan_ben_p": 44,
+    "bn": 44,
     "ja": 32
   },
   {
-    "lga_code_2016": 22910,
+    "id": 22910,
     "location": "Hepburn",
     "vi": 9,
     "ko": 0,
@@ -3818,11 +3818,11 @@
     "el": 55,
     "tl": 15,
     "de": 57,
-    "sp_oth_lan_indo_ary_lan_ben_p": 3,
+    "bn": 3,
     "ja": 8
   },
   {
-    "lga_code_2016": 22980,
+    "id": 22980,
     "location": "Hindmarsh",
     "vi": 0,
     "ko": 0,
@@ -3844,11 +3844,11 @@
     "el": 7,
     "tl": 13,
     "de": 6,
-    "sp_oth_lan_indo_ary_lan_ben_p": 0,
+    "bn": 0,
     "ja": 0
   },
   {
-    "lga_code_2016": 23110,
+    "id": 23110,
     "location": "Hobsons Bay",
     "vi": 1793,
     "ko": 72,
@@ -3870,11 +3870,11 @@
     "el": 2346,
     "tl": 404,
     "de": 373,
-    "sp_oth_lan_indo_ary_lan_ben_p": 169,
+    "bn": 169,
     "ja": 186
   },
   {
-    "lga_code_2016": 23190,
+    "id": 23190,
     "location": "Horsham",
     "vi": 9,
     "ko": 8,
@@ -3896,11 +3896,11 @@
     "el": 20,
     "tl": 31,
     "de": 26,
-    "sp_oth_lan_indo_ary_lan_ben_p": 12,
+    "bn": 12,
     "ja": 9
   },
   {
-    "lga_code_2016": 23270,
+    "id": 23270,
     "location": "Hume",
     "vi": 1960,
     "ko": 90,
@@ -3922,11 +3922,11 @@
     "el": 2822,
     "tl": 1342,
     "de": 255,
-    "sp_oth_lan_indo_ary_lan_ben_p": 399,
+    "bn": 399,
     "ja": 103
   },
   {
-    "lga_code_2016": 23350,
+    "id": 23350,
     "location": "Indigo",
     "vi": 0,
     "ko": 0,
@@ -3948,11 +3948,11 @@
     "el": 6,
     "tl": 16,
     "de": 56,
-    "sp_oth_lan_indo_ary_lan_ben_p": 0,
+    "bn": 0,
     "ja": 15
   },
   {
-    "lga_code_2016": 23430,
+    "id": 23430,
     "location": "Kingston (VIC)",
     "vi": 1575,
     "ko": 315,
@@ -3974,11 +3974,11 @@
     "el": 6796,
     "tl": 617,
     "de": 631,
-    "sp_oth_lan_indo_ary_lan_ben_p": 206,
+    "bn": 206,
     "ja": 492
   },
   {
-    "lga_code_2016": 23670,
+    "id": 23670,
     "location": "Knox",
     "vi": 1186,
     "ko": 706,
@@ -4000,11 +4000,11 @@
     "el": 1818,
     "tl": 611,
     "de": 1077,
-    "sp_oth_lan_indo_ary_lan_ben_p": 153,
+    "bn": 153,
     "ja": 201
   },
   {
-    "lga_code_2016": 23810,
+    "id": 23810,
     "location": "Latrobe (VIC)",
     "vi": 79,
     "ko": 28,
@@ -4026,11 +4026,11 @@
     "el": 358,
     "tl": 140,
     "de": 200,
-    "sp_oth_lan_indo_ary_lan_ben_p": 61,
+    "bn": 61,
     "ja": 31
   },
   {
-    "lga_code_2016": 23940,
+    "id": 23940,
     "location": "Loddon",
     "vi": 0,
     "ko": 0,
@@ -4052,11 +4052,11 @@
     "el": 17,
     "tl": 28,
     "de": 18,
-    "sp_oth_lan_indo_ary_lan_ben_p": 0,
+    "bn": 0,
     "ja": 0
   },
   {
-    "lga_code_2016": 24130,
+    "id": 24130,
     "location": "Macedon Ranges",
     "vi": 28,
     "ko": 5,
@@ -4078,11 +4078,11 @@
     "el": 123,
     "tl": 31,
     "de": 189,
-    "sp_oth_lan_indo_ary_lan_ben_p": 5,
+    "bn": 5,
     "ja": 29
   },
   {
-    "lga_code_2016": 24210,
+    "id": 24210,
     "location": "Manningham",
     "vi": 728,
     "ko": 901,
@@ -4104,11 +4104,11 @@
     "el": 7032,
     "tl": 157,
     "de": 391,
-    "sp_oth_lan_indo_ary_lan_ben_p": 91,
+    "bn": 91,
     "ja": 275
   },
   {
-    "lga_code_2016": 24250,
+    "id": 24250,
     "location": "Mansfield",
     "vi": 3,
     "ko": 3,
@@ -4130,11 +4130,11 @@
     "el": 15,
     "tl": 3,
     "de": 52,
-    "sp_oth_lan_indo_ary_lan_ben_p": 0,
+    "bn": 0,
     "ja": 13
   },
   {
-    "lga_code_2016": 24330,
+    "id": 24330,
     "location": "Maribyrnong",
     "vi": 9730,
     "ko": 211,
@@ -4156,11 +4156,11 @@
     "el": 1773,
     "tl": 504,
     "de": 215,
-    "sp_oth_lan_indo_ary_lan_ben_p": 640,
+    "bn": 640,
     "ja": 233
   },
   {
-    "lga_code_2016": 24410,
+    "id": 24410,
     "location": "Maroondah",
     "vi": 428,
     "ko": 284,
@@ -4182,11 +4182,11 @@
     "el": 621,
     "tl": 204,
     "de": 511,
-    "sp_oth_lan_indo_ary_lan_ben_p": 69,
+    "bn": 69,
     "ja": 155
   },
   {
-    "lga_code_2016": 24600,
+    "id": 24600,
     "location": "Melbourne",
     "vi": 2065,
     "ko": 2903,
@@ -4208,11 +4208,11 @@
     "el": 731,
     "tl": 417,
     "de": 612,
-    "sp_oth_lan_indo_ary_lan_ben_p": 344,
+    "bn": 344,
     "ja": 1101
   },
   {
-    "lga_code_2016": 24650,
+    "id": 24650,
     "location": "Melton",
     "vi": 2757,
     "ko": 172,
@@ -4234,11 +4234,11 @@
     "el": 1559,
     "tl": 2079,
     "de": 217,
-    "sp_oth_lan_indo_ary_lan_ben_p": 285,
+    "bn": 285,
     "ja": 103
   },
   {
-    "lga_code_2016": 24780,
+    "id": 24780,
     "location": "Mildura",
     "vi": 192,
     "ko": 53,
@@ -4260,11 +4260,11 @@
     "el": 318,
     "tl": 77,
     "de": 62,
-    "sp_oth_lan_indo_ary_lan_ben_p": 30,
+    "bn": 30,
     "ja": 51
   },
   {
-    "lga_code_2016": 24850,
+    "id": 24850,
     "location": "Mitchell",
     "vi": 27,
     "ko": 15,
@@ -4286,11 +4286,11 @@
     "el": 122,
     "tl": 88,
     "de": 98,
-    "sp_oth_lan_indo_ary_lan_ben_p": 13,
+    "bn": 13,
     "ja": 41
   },
   {
-    "lga_code_2016": 24900,
+    "id": 24900,
     "location": "Moira",
     "vi": 0,
     "ko": 0,
@@ -4312,11 +4312,11 @@
     "el": 21,
     "tl": 49,
     "de": 36,
-    "sp_oth_lan_indo_ary_lan_ben_p": 6,
+    "bn": 6,
     "ja": 7
   },
   {
-    "lga_code_2016": 24970,
+    "id": 24970,
     "location": "Monash",
     "vi": 2975,
     "ko": 2355,
@@ -4338,11 +4338,11 @@
     "el": 10277,
     "tl": 472,
     "de": 690,
-    "sp_oth_lan_indo_ary_lan_ben_p": 907,
+    "bn": 907,
     "ja": 884
   },
   {
-    "lga_code_2016": 25060,
+    "id": 25060,
     "location": "Moonee Valley",
     "vi": 2752,
     "ko": 267,
@@ -4364,11 +4364,11 @@
     "el": 3638,
     "tl": 268,
     "de": 321,
-    "sp_oth_lan_indo_ary_lan_ben_p": 140,
+    "bn": 140,
     "ja": 270
   },
   {
-    "lga_code_2016": 25150,
+    "id": 25150,
     "location": "Moorabool",
     "vi": 48,
     "ko": 0,
@@ -4390,11 +4390,11 @@
     "el": 89,
     "tl": 30,
     "de": 89,
-    "sp_oth_lan_indo_ary_lan_ben_p": 0,
+    "bn": 0,
     "ja": 14
   },
   {
-    "lga_code_2016": 25250,
+    "id": 25250,
     "location": "Moreland",
     "vi": 1451,
     "ko": 283,
@@ -4416,11 +4416,11 @@
     "el": 7365,
     "tl": 471,
     "de": 591,
-    "sp_oth_lan_indo_ary_lan_ben_p": 726,
+    "bn": 726,
     "ja": 442
   },
   {
-    "lga_code_2016": 25340,
+    "id": 25340,
     "location": "Mornington Peninsula",
     "vi": 57,
     "ko": 23,
@@ -4442,11 +4442,11 @@
     "el": 1200,
     "tl": 154,
     "de": 645,
-    "sp_oth_lan_indo_ary_lan_ben_p": 3,
+    "bn": 3,
     "ja": 141
   },
   {
-    "lga_code_2016": 17100,
+    "id": 17100,
     "location": "Strathfield",
     "vi": 885,
     "ko": 3554,
@@ -4468,11 +4468,11 @@
     "el": 596,
     "tl": 277,
     "de": 37,
-    "sp_oth_lan_indo_ary_lan_ben_p": 240,
+    "bn": 240,
     "ja": 91
   },
   {
-    "lga_code_2016": 17150,
+    "id": 17150,
     "location": "Sutherland Shire",
     "vi": 439,
     "ko": 221,
@@ -4494,11 +4494,11 @@
     "el": 4128,
     "tl": 469,
     "de": 782,
-    "sp_oth_lan_indo_ary_lan_ben_p": 125,
+    "bn": 125,
     "ja": 410
   },
   {
-    "lga_code_2016": 17200,
+    "id": 17200,
     "location": "Sydney",
     "vi": 2279,
     "ko": 3290,
@@ -4520,11 +4520,11 @@
     "el": 1962,
     "tl": 678,
     "de": 1302,
-    "sp_oth_lan_indo_ary_lan_ben_p": 350,
+    "bn": 350,
     "ja": 1754
   },
   {
-    "lga_code_2016": 17310,
+    "id": 17310,
     "location": "Tamworth Regional",
     "vi": 63,
     "ko": 152,
@@ -4546,11 +4546,11 @@
     "el": 27,
     "tl": 226,
     "de": 71,
-    "sp_oth_lan_indo_ary_lan_ben_p": 36,
+    "bn": 36,
     "ja": 11
   },
   {
-    "lga_code_2016": 17350,
+    "id": 17350,
     "location": "Temora",
     "vi": 14,
     "ko": 0,
@@ -4572,11 +4572,11 @@
     "el": 3,
     "tl": 14,
     "de": 7,
-    "sp_oth_lan_indo_ary_lan_ben_p": 0,
+    "bn": 0,
     "ja": 0
   },
   {
-    "lga_code_2016": 17400,
+    "id": 17400,
     "location": "Tenterfield",
     "vi": 3,
     "ko": 0,
@@ -4598,11 +4598,11 @@
     "el": 0,
     "tl": 4,
     "de": 11,
-    "sp_oth_lan_indo_ary_lan_ben_p": 0,
+    "bn": 0,
     "ja": 10
   },
   {
-    "lga_code_2016": 22410,
+    "id": 22410,
     "location": "Glenelg",
     "vi": 9,
     "ko": 0,
@@ -4624,11 +4624,11 @@
     "el": 13,
     "tl": 36,
     "de": 27,
-    "sp_oth_lan_indo_ary_lan_ben_p": 10,
+    "bn": 10,
     "ja": 0
   },
   {
-    "lga_code_2016": 22490,
+    "id": 22490,
     "location": "Golden Plains",
     "vi": 9,
     "ko": 3,
@@ -4650,11 +4650,11 @@
     "el": 33,
     "tl": 3,
     "de": 51,
-    "sp_oth_lan_indo_ary_lan_ben_p": 0,
+    "bn": 0,
     "ja": 14
   },
   {
-    "lga_code_2016": 22620,
+    "id": 22620,
     "location": "Greater Bendigo",
     "vi": 106,
     "ko": 60,
@@ -4676,11 +4676,11 @@
     "el": 152,
     "tl": 143,
     "de": 126,
-    "sp_oth_lan_indo_ary_lan_ben_p": 58,
+    "bn": 58,
     "ja": 50
   },
   {
-    "lga_code_2016": 22670,
+    "id": 22670,
     "location": "Greater Dandenong",
     "vi": 17058,
     "ko": 420,
@@ -4702,11 +4702,11 @@
     "el": 3608,
     "tl": 979,
     "de": 305,
-    "sp_oth_lan_indo_ary_lan_ben_p": 690,
+    "bn": 690,
     "ja": 169
   },
   {
-    "lga_code_2016": 22750,
+    "id": 22750,
     "location": "Greater Geelong",
     "vi": 730,
     "ko": 151,
@@ -4728,11 +4728,11 @@
     "el": 936,
     "tl": 510,
     "de": 828,
-    "sp_oth_lan_indo_ary_lan_ben_p": 125,
+    "bn": 125,
     "ja": 253
   },
   {
-    "lga_code_2016": 25430,
+    "id": 25430,
     "location": "Mount Alexander",
     "vi": 8,
     "ko": 3,
@@ -4754,11 +4754,11 @@
     "el": 34,
     "tl": 8,
     "de": 64,
-    "sp_oth_lan_indo_ary_lan_ben_p": 0,
+    "bn": 0,
     "ja": 22
   },
   {
-    "lga_code_2016": 25490,
+    "id": 25490,
     "location": "Moyne",
     "vi": 3,
     "ko": 0,
@@ -4780,11 +4780,11 @@
     "el": 10,
     "tl": 27,
     "de": 21,
-    "sp_oth_lan_indo_ary_lan_ben_p": 0,
+    "bn": 0,
     "ja": 11
   },
   {
-    "lga_code_2016": 25620,
+    "id": 25620,
     "location": "Murrindindi",
     "vi": 3,
     "ko": 3,
@@ -4806,11 +4806,11 @@
     "el": 44,
     "tl": 5,
     "de": 36,
-    "sp_oth_lan_indo_ary_lan_ben_p": 0,
+    "bn": 0,
     "ja": 0
   },
   {
-    "lga_code_2016": 22310,
+    "id": 22310,
     "location": "Glen Eira",
     "vi": 744,
     "ko": 761,
@@ -4832,11 +4832,11 @@
     "el": 5424,
     "tl": 290,
     "de": 635,
-    "sp_oth_lan_indo_ary_lan_ben_p": 230,
+    "bn": 230,
     "ja": 893
   },
   {
-    "lga_code_2016": 25710,
+    "id": 25710,
     "location": "Nillumbik",
     "vi": 83,
     "ko": 20,
@@ -4858,11 +4858,11 @@
     "el": 539,
     "tl": 23,
     "de": 288,
-    "sp_oth_lan_indo_ary_lan_ben_p": 0,
+    "bn": 0,
     "ja": 105
   },
   {
-    "lga_code_2016": 25810,
+    "id": 25810,
     "location": "Northern Grampians",
     "vi": 14,
     "ko": 8,
@@ -4884,11 +4884,11 @@
     "el": 13,
     "tl": 17,
     "de": 16,
-    "sp_oth_lan_indo_ary_lan_ben_p": 3,
+    "bn": 3,
     "ja": 5
   },
   {
-    "lga_code_2016": 25900,
+    "id": 25900,
     "location": "Port Phillip",
     "vi": 419,
     "ko": 234,
@@ -4910,11 +4910,11 @@
     "el": 2616,
     "tl": 163,
     "de": 700,
-    "sp_oth_lan_indo_ary_lan_ben_p": 108,
+    "bn": 108,
     "ja": 380
   },
   {
-    "lga_code_2016": 25990,
+    "id": 25990,
     "location": "Pyrenees",
     "vi": 11,
     "ko": 0,
@@ -4936,11 +4936,11 @@
     "el": 4,
     "tl": 0,
     "de": 8,
-    "sp_oth_lan_indo_ary_lan_ben_p": 0,
+    "bn": 0,
     "ja": 8
   },
   {
-    "lga_code_2016": 26080,
+    "id": 26080,
     "location": "Queenscliffe",
     "vi": 0,
     "ko": 0,
@@ -4962,11 +4962,11 @@
     "el": 5,
     "tl": 0,
     "de": 4,
-    "sp_oth_lan_indo_ary_lan_ben_p": 0,
+    "bn": 0,
     "ja": 6
   },
   {
-    "lga_code_2016": 26170,
+    "id": 26170,
     "location": "South Gippsland",
     "vi": 19,
     "ko": 16,
@@ -4988,11 +4988,11 @@
     "el": 42,
     "tl": 21,
     "de": 86,
-    "sp_oth_lan_indo_ary_lan_ben_p": 4,
+    "bn": 4,
     "ja": 15
   },
   {
-    "lga_code_2016": 26260,
+    "id": 26260,
     "location": "Southern Grampians",
     "vi": 7,
     "ko": 3,
@@ -5014,11 +5014,11 @@
     "el": 10,
     "tl": 13,
     "de": 31,
-    "sp_oth_lan_indo_ary_lan_ben_p": 7,
+    "bn": 7,
     "ja": 3
   },
   {
-    "lga_code_2016": 26350,
+    "id": 26350,
     "location": "Stonnington",
     "vi": 602,
     "ko": 314,
@@ -5040,11 +5040,11 @@
     "el": 3513,
     "tl": 201,
     "de": 449,
-    "sp_oth_lan_indo_ary_lan_ben_p": 122,
+    "bn": 122,
     "ja": 468
   },
   {
-    "lga_code_2016": 26430,
+    "id": 26430,
     "location": "Strathbogie",
     "vi": 11,
     "ko": 16,
@@ -5066,11 +5066,11 @@
     "el": 16,
     "tl": 14,
     "de": 25,
-    "sp_oth_lan_indo_ary_lan_ben_p": 0,
+    "bn": 0,
     "ja": 10
   },
   {
-    "lga_code_2016": 26490,
+    "id": 26490,
     "location": "Surf Coast",
     "vi": 18,
     "ko": 7,
@@ -5092,11 +5092,11 @@
     "el": 67,
     "tl": 19,
     "de": 129,
-    "sp_oth_lan_indo_ary_lan_ben_p": 0,
+    "bn": 0,
     "ja": 39
   },
   {
-    "lga_code_2016": 26610,
+    "id": 26610,
     "location": "Swan Hill",
     "vi": 222,
     "ko": 23,
@@ -5118,11 +5118,11 @@
     "el": 67,
     "tl": 49,
     "de": 24,
-    "sp_oth_lan_indo_ary_lan_ben_p": 17,
+    "bn": 17,
     "ja": 6
   },
   {
-    "lga_code_2016": 26670,
+    "id": 26670,
     "location": "Towong",
     "vi": 0,
     "ko": 0,
@@ -5144,11 +5144,11 @@
     "el": 3,
     "tl": 12,
     "de": 32,
-    "sp_oth_lan_indo_ary_lan_ben_p": 0,
+    "bn": 0,
     "ja": 0
   },
   {
-    "lga_code_2016": 26700,
+    "id": 26700,
     "location": "Wangaratta",
     "vi": 13,
     "ko": 0,
@@ -5170,11 +5170,11 @@
     "el": 42,
     "tl": 36,
     "de": 54,
-    "sp_oth_lan_indo_ary_lan_ben_p": 3,
+    "bn": 3,
     "ja": 26
   },
   {
-    "lga_code_2016": 26730,
+    "id": 26730,
     "location": "Warrnambool",
     "vi": 16,
     "ko": 80,
@@ -5196,11 +5196,11 @@
     "el": 32,
     "tl": 35,
     "de": 38,
-    "sp_oth_lan_indo_ary_lan_ben_p": 4,
+    "bn": 4,
     "ja": 53
   },
   {
-    "lga_code_2016": 26810,
+    "id": 26810,
     "location": "Wellington",
     "vi": 63,
     "ko": 3,
@@ -5222,11 +5222,11 @@
     "el": 43,
     "tl": 85,
     "de": 68,
-    "sp_oth_lan_indo_ary_lan_ben_p": 9,
+    "bn": 9,
     "ja": 20
   },
   {
-    "lga_code_2016": 26890,
+    "id": 26890,
     "location": "West Wimmera",
     "vi": 0,
     "ko": 0,
@@ -5248,11 +5248,11 @@
     "el": 3,
     "tl": 0,
     "de": 20,
-    "sp_oth_lan_indo_ary_lan_ben_p": 0,
+    "bn": 0,
     "ja": 0
   },
   {
-    "lga_code_2016": 26980,
+    "id": 26980,
     "location": "Whitehorse",
     "vi": 2067,
     "ko": 1222,
@@ -5274,11 +5274,11 @@
     "el": 4132,
     "tl": 402,
     "de": 614,
-    "sp_oth_lan_indo_ary_lan_ben_p": 301,
+    "bn": 301,
     "ja": 569
   },
   {
-    "lga_code_2016": 27070,
+    "id": 27070,
     "location": "Whittlesea",
     "vi": 4691,
     "ko": 242,
@@ -5300,11 +5300,11 @@
     "el": 7283,
     "tl": 1070,
     "de": 236,
-    "sp_oth_lan_indo_ary_lan_ben_p": 389,
+    "bn": 389,
     "ja": 171
   },
   {
-    "lga_code_2016": 27170,
+    "id": 27170,
     "location": "Wodonga",
     "vi": 18,
     "ko": 21,
@@ -5326,11 +5326,11 @@
     "el": 32,
     "tl": 98,
     "de": 161,
-    "sp_oth_lan_indo_ary_lan_ben_p": 17,
+    "bn": 17,
     "ja": 24
   },
   {
-    "lga_code_2016": 27260,
+    "id": 27260,
     "location": "Wyndham",
     "vi": 2201,
     "ko": 840,
@@ -5352,11 +5352,11 @@
     "el": 1403,
     "tl": 2846,
     "de": 341,
-    "sp_oth_lan_indo_ary_lan_ben_p": 2279,
+    "bn": 2279,
     "ja": 336
   },
   {
-    "lga_code_2016": 27350,
+    "id": 27350,
     "location": "Yarra",
     "vi": 3383,
     "ko": 146,
@@ -5378,11 +5378,11 @@
     "el": 2284,
     "tl": 104,
     "de": 418,
-    "sp_oth_lan_indo_ary_lan_ben_p": 39,
+    "bn": 39,
     "ja": 283
   },
   {
-    "lga_code_2016": 27450,
+    "id": 27450,
     "location": "Yarra Ranges",
     "vi": 141,
     "ko": 60,
@@ -5404,11 +5404,11 @@
     "el": 351,
     "tl": 190,
     "de": 888,
-    "sp_oth_lan_indo_ary_lan_ben_p": 8,
+    "bn": 8,
     "ja": 195
   },
   {
-    "lga_code_2016": 27630,
+    "id": 27630,
     "location": "Yarriambiack",
     "vi": 0,
     "ko": 0,
@@ -5430,11 +5430,11 @@
     "el": 12,
     "tl": 0,
     "de": 10,
-    "sp_oth_lan_indo_ary_lan_ben_p": 0,
+    "bn": 0,
     "ja": 3
   },
   {
-    "lga_code_2016": 29399,
+    "id": 29399,
     "location": "Unincorporated Vic",
     "vi": 3,
     "ko": 11,
@@ -5456,11 +5456,11 @@
     "el": 21,
     "tl": 4,
     "de": 63,
-    "sp_oth_lan_indo_ary_lan_ben_p": 0,
+    "bn": 0,
     "ja": 15
   },
   {
-    "lga_code_2016": 30250,
+    "id": 30250,
     "location": "Aurukun",
     "vi": 0,
     "ko": 0,
@@ -5482,11 +5482,11 @@
     "el": 0,
     "tl": 0,
     "de": 0,
-    "sp_oth_lan_indo_ary_lan_ben_p": 0,
+    "bn": 0,
     "ja": 0
   },
   {
-    "lga_code_2016": 30300,
+    "id": 30300,
     "location": "Balonne",
     "vi": 4,
     "ko": 3,
@@ -5508,11 +5508,11 @@
     "el": 0,
     "tl": 7,
     "de": 8,
-    "sp_oth_lan_indo_ary_lan_ben_p": 0,
+    "bn": 0,
     "ja": 0
   },
   {
-    "lga_code_2016": 30370,
+    "id": 30370,
     "location": "Banana",
     "vi": 110,
     "ko": 3,
@@ -5534,11 +5534,11 @@
     "el": 7,
     "tl": 62,
     "de": 15,
-    "sp_oth_lan_indo_ary_lan_ben_p": 12,
+    "bn": 12,
     "ja": 0
   },
   {
-    "lga_code_2016": 30410,
+    "id": 30410,
     "location": "Barcaldine",
     "vi": 0,
     "ko": 0,
@@ -5560,11 +5560,11 @@
     "el": 0,
     "tl": 0,
     "de": 10,
-    "sp_oth_lan_indo_ary_lan_ben_p": 0,
+    "bn": 0,
     "ja": 0
   },
   {
-    "lga_code_2016": 30450,
+    "id": 30450,
     "location": "Barcoo",
     "vi": 0,
     "ko": 0,
@@ -5586,11 +5586,11 @@
     "el": 0,
     "tl": 0,
     "de": 0,
-    "sp_oth_lan_indo_ary_lan_ben_p": 0,
+    "bn": 0,
     "ja": 0
   },
   {
-    "lga_code_2016": 30760,
+    "id": 30760,
     "location": "Blackall-Tambo",
     "vi": 0,
     "ko": 0,
@@ -5612,11 +5612,11 @@
     "el": 0,
     "tl": 3,
     "de": 0,
-    "sp_oth_lan_indo_ary_lan_ben_p": 0,
+    "bn": 0,
     "ja": 0
   },
   {
-    "lga_code_2016": 34710,
+    "id": 34710,
     "location": "Longreach",
     "vi": 0,
     "ko": 0,
@@ -5638,11 +5638,11 @@
     "el": 0,
     "tl": 4,
     "de": 3,
-    "sp_oth_lan_indo_ary_lan_ben_p": 0,
+    "bn": 0,
     "ja": 0
   },
   {
-    "lga_code_2016": 34770,
+    "id": 34770,
     "location": "Mackay",
     "vi": 90,
     "ko": 26,
@@ -5664,11 +5664,11 @@
     "el": 37,
     "tl": 801,
     "de": 255,
-    "sp_oth_lan_indo_ary_lan_ben_p": 73,
+    "bn": 73,
     "ja": 75
   },
   {
-    "lga_code_2016": 34800,
+    "id": 34800,
     "location": "McKinlay",
     "vi": 0,
     "ko": 0,
@@ -5690,11 +5690,11 @@
     "el": 0,
     "tl": 0,
     "de": 3,
-    "sp_oth_lan_indo_ary_lan_ben_p": 0,
+    "bn": 0,
     "ja": 0
   },
   {
-    "lga_code_2016": 34830,
+    "id": 34830,
     "location": "Mapoon",
     "vi": 0,
     "ko": 0,
@@ -5716,11 +5716,11 @@
     "el": 0,
     "tl": 0,
     "de": 0,
-    "sp_oth_lan_indo_ary_lan_ben_p": 0,
+    "bn": 0,
     "ja": 0
   },
   {
-    "lga_code_2016": 34860,
+    "id": 34860,
     "location": "Maranoa",
     "vi": 3,
     "ko": 11,
@@ -5742,11 +5742,11 @@
     "el": 3,
     "tl": 104,
     "de": 17,
-    "sp_oth_lan_indo_ary_lan_ben_p": 5,
+    "bn": 5,
     "ja": 0
   },
   {
-    "lga_code_2016": 34880,
+    "id": 34880,
     "location": "Mareeba",
     "vi": 14,
     "ko": 34,
@@ -5768,11 +5768,11 @@
     "el": 29,
     "tl": 27,
     "de": 197,
-    "sp_oth_lan_indo_ary_lan_ben_p": 0,
+    "bn": 0,
     "ja": 62
   },
   {
-    "lga_code_2016": 35010,
+    "id": 35010,
     "location": "Moreton Bay",
     "vi": 508,
     "ko": 622,
@@ -5794,11 +5794,11 @@
     "el": 353,
     "tl": 1551,
     "de": 1243,
-    "sp_oth_lan_indo_ary_lan_ben_p": 113,
+    "bn": 113,
     "ja": 623
   },
   {
-    "lga_code_2016": 35250,
+    "id": 35250,
     "location": "Mornington",
     "vi": 0,
     "ko": 0,
@@ -5820,11 +5820,11 @@
     "el": 0,
     "tl": 8,
     "de": 3,
-    "sp_oth_lan_indo_ary_lan_ben_p": 0,
+    "bn": 0,
     "ja": 0
   },
   {
-    "lga_code_2016": 35300,
+    "id": 35300,
     "location": "Mount Isa",
     "vi": 11,
     "ko": 7,
@@ -5846,11 +5846,11 @@
     "el": 28,
     "tl": 148,
     "de": 41,
-    "sp_oth_lan_indo_ary_lan_ben_p": 3,
+    "bn": 3,
     "ja": 8
   },
   {
-    "lga_code_2016": 35600,
+    "id": 35600,
     "location": "Murweh",
     "vi": 106,
     "ko": 0,
@@ -5872,11 +5872,11 @@
     "el": 3,
     "tl": 6,
     "de": 8,
-    "sp_oth_lan_indo_ary_lan_ben_p": 0,
+    "bn": 0,
     "ja": 0
   },
   {
-    "lga_code_2016": 35670,
+    "id": 35670,
     "location": "Napranum",
     "vi": 0,
     "ko": 0,
@@ -5898,11 +5898,11 @@
     "el": 0,
     "tl": 0,
     "de": 0,
-    "sp_oth_lan_indo_ary_lan_ben_p": 0,
+    "bn": 0,
     "ja": 3
   },
   {
-    "lga_code_2016": 35740,
+    "id": 35740,
     "location": "Noosa",
     "vi": 29,
     "ko": 31,
@@ -5924,11 +5924,11 @@
     "el": 69,
     "tl": 59,
     "de": 477,
-    "sp_oth_lan_indo_ary_lan_ben_p": 6,
+    "bn": 6,
     "ja": 101
   },
   {
-    "lga_code_2016": 35760,
+    "id": 35760,
     "location": "North Burnett",
     "vi": 3,
     "ko": 86,
@@ -5950,11 +5950,11 @@
     "el": 0,
     "tl": 28,
     "de": 14,
-    "sp_oth_lan_indo_ary_lan_ben_p": 0,
+    "bn": 0,
     "ja": 10
   },
   {
-    "lga_code_2016": 35780,
+    "id": 35780,
     "location": "Northern Peninsula Area",
     "vi": 0,
     "ko": 0,
@@ -5976,11 +5976,11 @@
     "el": 0,
     "tl": 5,
     "de": 4,
-    "sp_oth_lan_indo_ary_lan_ben_p": 0,
+    "bn": 0,
     "ja": 0
   },
   {
-    "lga_code_2016": 35790,
+    "id": 35790,
     "location": "Palm Island",
     "vi": 0,
     "ko": 0,
@@ -6002,11 +6002,11 @@
     "el": 0,
     "tl": 3,
     "de": 0,
-    "sp_oth_lan_indo_ary_lan_ben_p": 0,
+    "bn": 0,
     "ja": 0
   },
   {
-    "lga_code_2016": 35800,
+    "id": 35800,
     "location": "Paroo",
     "vi": 0,
     "ko": 0,
@@ -6028,11 +6028,11 @@
     "el": 0,
     "tl": 0,
     "de": 6,
-    "sp_oth_lan_indo_ary_lan_ben_p": 0,
+    "bn": 0,
     "ja": 0
   },
   {
-    "lga_code_2016": 36070,
+    "id": 36070,
     "location": "Pormpuraaw",
     "vi": 0,
     "ko": 0,
@@ -6054,11 +6054,11 @@
     "el": 0,
     "tl": 0,
     "de": 0,
-    "sp_oth_lan_indo_ary_lan_ben_p": 0,
+    "bn": 0,
     "ja": 0
   },
   {
-    "lga_code_2016": 36150,
+    "id": 36150,
     "location": "Quilpie",
     "vi": 0,
     "ko": 0,
@@ -6080,11 +6080,11 @@
     "el": 0,
     "tl": 0,
     "de": 0,
-    "sp_oth_lan_indo_ary_lan_ben_p": 0,
+    "bn": 0,
     "ja": 0
   },
   {
-    "lga_code_2016": 36250,
+    "id": 36250,
     "location": "Redland",
     "vi": 184,
     "ko": 89,
@@ -6106,11 +6106,11 @@
     "el": 336,
     "tl": 311,
     "de": 544,
-    "sp_oth_lan_indo_ary_lan_ben_p": 11,
+    "bn": 11,
     "ja": 232
   },
   {
-    "lga_code_2016": 36300,
+    "id": 36300,
     "location": "Richmond",
     "vi": 0,
     "ko": 0,
@@ -6132,11 +6132,11 @@
     "el": 0,
     "tl": 0,
     "de": 0,
-    "sp_oth_lan_indo_ary_lan_ben_p": 0,
+    "bn": 0,
     "ja": 7
   },
   {
-    "lga_code_2016": 36370,
+    "id": 36370,
     "location": "Rockhampton",
     "vi": 414,
     "ko": 78,
@@ -6158,11 +6158,11 @@
     "el": 29,
     "tl": 360,
     "de": 122,
-    "sp_oth_lan_indo_ary_lan_ben_p": 111,
+    "bn": 111,
     "ja": 47
   },
   {
-    "lga_code_2016": 36510,
+    "id": 36510,
     "location": "Scenic Rim",
     "vi": 10,
     "ko": 90,
@@ -6184,11 +6184,11 @@
     "el": 17,
     "tl": 37,
     "de": 187,
-    "sp_oth_lan_indo_ary_lan_ben_p": 0,
+    "bn": 0,
     "ja": 74
   },
   {
-    "lga_code_2016": 36580,
+    "id": 36580,
     "location": "Somerset",
     "vi": 89,
     "ko": 37,
@@ -6210,11 +6210,11 @@
     "el": 12,
     "tl": 165,
     "de": 98,
-    "sp_oth_lan_indo_ary_lan_ben_p": 18,
+    "bn": 18,
     "ja": 13
   },
   {
-    "lga_code_2016": 36630,
+    "id": 36630,
     "location": "South Burnett",
     "vi": 30,
     "ko": 9,
@@ -6236,11 +6236,11 @@
     "el": 3,
     "tl": 80,
     "de": 78,
-    "sp_oth_lan_indo_ary_lan_ben_p": 7,
+    "bn": 7,
     "ja": 8
   },
   {
-    "lga_code_2016": 36660,
+    "id": 36660,
     "location": "Southern Downs",
     "vi": 17,
     "ko": 79,
@@ -6262,11 +6262,11 @@
     "el": 13,
     "tl": 62,
     "de": 104,
-    "sp_oth_lan_indo_ary_lan_ben_p": 6,
+    "bn": 6,
     "ja": 22
   },
   {
-    "lga_code_2016": 36720,
+    "id": 36720,
     "location": "Sunshine Coast",
     "vi": 229,
     "ko": 366,
@@ -6288,11 +6288,11 @@
     "el": 260,
     "tl": 409,
     "de": 1589,
-    "sp_oth_lan_indo_ary_lan_ben_p": 46,
+    "bn": 46,
     "ja": 479
   },
   {
-    "lga_code_2016": 36820,
+    "id": 36820,
     "location": "Tablelands",
     "vi": 7,
     "ko": 9,
@@ -6314,11 +6314,11 @@
     "el": 10,
     "tl": 33,
     "de": 158,
-    "sp_oth_lan_indo_ary_lan_ben_p": 0,
+    "bn": 0,
     "ja": 48
   },
   {
-    "lga_code_2016": 36910,
+    "id": 36910,
     "location": "Toowoomba",
     "vi": 118,
     "ko": 212,
@@ -6340,11 +6340,11 @@
     "el": 63,
     "tl": 483,
     "de": 289,
-    "sp_oth_lan_indo_ary_lan_ben_p": 146,
+    "bn": 146,
     "ja": 149
   },
   {
-    "lga_code_2016": 36950,
+    "id": 36950,
     "location": "Torres",
     "vi": 0,
     "ko": 0,
@@ -6366,11 +6366,11 @@
     "el": 0,
     "tl": 0,
     "de": 0,
-    "sp_oth_lan_indo_ary_lan_ben_p": 0,
+    "bn": 0,
     "ja": 8
   },
   {
-    "lga_code_2016": 36960,
+    "id": 36960,
     "location": "Torres Strait Island",
     "vi": 0,
     "ko": 0,
@@ -6392,11 +6392,11 @@
     "el": 0,
     "tl": 0,
     "de": 5,
-    "sp_oth_lan_indo_ary_lan_ben_p": 0,
+    "bn": 0,
     "ja": 0
   },
   {
-    "lga_code_2016": 37010,
+    "id": 37010,
     "location": "Townsville",
     "vi": 353,
     "ko": 280,
@@ -6418,11 +6418,11 @@
     "el": 391,
     "tl": 779,
     "de": 542,
-    "sp_oth_lan_indo_ary_lan_ben_p": 83,
+    "bn": 83,
     "ja": 231
   },
   {
-    "lga_code_2016": 31000,
+    "id": 31000,
     "location": "Brisbane",
     "vi": 18548,
     "ko": 11031,
@@ -6444,11 +6444,11 @@
     "el": 6243,
     "tl": 5178,
     "de": 4346,
-    "sp_oth_lan_indo_ary_lan_ben_p": 2107,
+    "bn": 2107,
     "ja": 5198
   },
   {
-    "lga_code_2016": 32080,
+    "id": 32080,
     "location": "Cairns",
     "vi": 294,
     "ko": 969,
@@ -6470,11 +6470,11 @@
     "el": 234,
     "tl": 789,
     "de": 1023,
-    "sp_oth_lan_indo_ary_lan_ben_p": 60,
+    "bn": 60,
     "ja": 2390
   },
   {
-    "lga_code_2016": 32250,
+    "id": 32250,
     "location": "Carpentaria",
     "vi": 0,
     "ko": 0,
@@ -6496,11 +6496,11 @@
     "el": 3,
     "tl": 0,
     "de": 13,
-    "sp_oth_lan_indo_ary_lan_ben_p": 0,
+    "bn": 0,
     "ja": 6
   },
   {
-    "lga_code_2016": 32260,
+    "id": 32260,
     "location": "Cassowary Coast",
     "vi": 10,
     "ko": 44,
@@ -6522,11 +6522,11 @@
     "el": 80,
     "tl": 117,
     "de": 95,
-    "sp_oth_lan_indo_ary_lan_ben_p": 3,
+    "bn": 3,
     "ja": 89
   },
   {
-    "lga_code_2016": 30900,
+    "id": 30900,
     "location": "Boulia",
     "vi": 0,
     "ko": 0,
@@ -6548,11 +6548,11 @@
     "el": 0,
     "tl": 0,
     "de": 3,
-    "sp_oth_lan_indo_ary_lan_ben_p": 0,
+    "bn": 0,
     "ja": 0
   },
   {
-    "lga_code_2016": 31750,
+    "id": 31750,
     "location": "Bulloo",
     "vi": 0,
     "ko": 0,
@@ -6574,11 +6574,11 @@
     "el": 0,
     "tl": 0,
     "de": 0,
-    "sp_oth_lan_indo_ary_lan_ben_p": 0,
+    "bn": 0,
     "ja": 0
   },
   {
-    "lga_code_2016": 31820,
+    "id": 31820,
     "location": "Bundaberg",
     "vi": 158,
     "ko": 158,
@@ -6600,11 +6600,11 @@
     "el": 31,
     "tl": 180,
     "de": 275,
-    "sp_oth_lan_indo_ary_lan_ben_p": 27,
+    "bn": 27,
     "ja": 104
   },
   {
-    "lga_code_2016": 31900,
+    "id": 31900,
     "location": "Burdekin",
     "vi": 25,
     "ko": 46,
@@ -6626,11 +6626,11 @@
     "el": 53,
     "tl": 24,
     "de": 16,
-    "sp_oth_lan_indo_ary_lan_ben_p": 4,
+    "bn": 4,
     "ja": 50
   },
   {
-    "lga_code_2016": 31950,
+    "id": 31950,
     "location": "Burke",
     "vi": 0,
     "ko": 3,
@@ -6652,11 +6652,11 @@
     "el": 0,
     "tl": 0,
     "de": 4,
-    "sp_oth_lan_indo_ary_lan_ben_p": 0,
+    "bn": 0,
     "ja": 0
   },
   {
-    "lga_code_2016": 32270,
+    "id": 32270,
     "location": "Central Highlands (QLD)",
     "vi": 8,
     "ko": 33,
@@ -6678,11 +6678,11 @@
     "el": 14,
     "tl": 141,
     "de": 55,
-    "sp_oth_lan_indo_ary_lan_ben_p": 11,
+    "bn": 11,
     "ja": 15
   },
   {
-    "lga_code_2016": 32310,
+    "id": 32310,
     "location": "Charters Towers",
     "vi": 11,
     "ko": 3,
@@ -6704,11 +6704,11 @@
     "el": 3,
     "tl": 15,
     "de": 17,
-    "sp_oth_lan_indo_ary_lan_ben_p": 0,
+    "bn": 0,
     "ja": 11
   },
   {
-    "lga_code_2016": 32330,
+    "id": 32330,
     "location": "Cherbourg",
     "vi": 0,
     "ko": 0,
@@ -6730,11 +6730,11 @@
     "el": 0,
     "tl": 0,
     "de": 0,
-    "sp_oth_lan_indo_ary_lan_ben_p": 0,
+    "bn": 0,
     "ja": 0
   },
   {
-    "lga_code_2016": 32450,
+    "id": 32450,
     "location": "Cloncurry",
     "vi": 4,
     "ko": 0,
@@ -6756,11 +6756,11 @@
     "el": 0,
     "tl": 25,
     "de": 11,
-    "sp_oth_lan_indo_ary_lan_ben_p": 0,
+    "bn": 0,
     "ja": 0
   },
   {
-    "lga_code_2016": 32500,
+    "id": 32500,
     "location": "Cook",
     "vi": 3,
     "ko": 3,
@@ -6782,11 +6782,11 @@
     "el": 0,
     "tl": 15,
     "de": 41,
-    "sp_oth_lan_indo_ary_lan_ben_p": 0,
+    "bn": 0,
     "ja": 24
   },
   {
-    "lga_code_2016": 32600,
+    "id": 32600,
     "location": "Croydon",
     "vi": 0,
     "ko": 0,
@@ -6808,11 +6808,11 @@
     "el": 0,
     "tl": 0,
     "de": 0,
-    "sp_oth_lan_indo_ary_lan_ben_p": 0,
+    "bn": 0,
     "ja": 0
   },
   {
-    "lga_code_2016": 37300,
+    "id": 37300,
     "location": "Weipa",
     "vi": 0,
     "ko": 0,
@@ -6834,11 +6834,11 @@
     "el": 0,
     "tl": 24,
     "de": 8,
-    "sp_oth_lan_indo_ary_lan_ben_p": 0,
+    "bn": 0,
     "ja": 9
   },
   {
-    "lga_code_2016": 37310,
+    "id": 37310,
     "location": "Western Downs",
     "vi": 29,
     "ko": 15,
@@ -6860,11 +6860,11 @@
     "el": 5,
     "tl": 193,
     "de": 34,
-    "sp_oth_lan_indo_ary_lan_ben_p": 4,
+    "bn": 4,
     "ja": 11
   },
   {
-    "lga_code_2016": 37340,
+    "id": 37340,
     "location": "Whitsunday",
     "vi": 85,
     "ko": 170,
@@ -6886,11 +6886,11 @@
     "el": 69,
     "tl": 142,
     "de": 157,
-    "sp_oth_lan_indo_ary_lan_ben_p": 3,
+    "bn": 3,
     "ja": 90
   },
   {
-    "lga_code_2016": 33200,
+    "id": 33200,
     "location": "Flinders (QLD)",
     "vi": 0,
     "ko": 0,
@@ -6912,11 +6912,11 @@
     "el": 0,
     "tl": 0,
     "de": 0,
-    "sp_oth_lan_indo_ary_lan_ben_p": 0,
+    "bn": 0,
     "ja": 0
   },
   {
-    "lga_code_2016": 33220,
+    "id": 33220,
     "location": "Fraser Coast",
     "vi": 60,
     "ko": 16,
@@ -6938,11 +6938,11 @@
     "el": 53,
     "tl": 185,
     "de": 428,
-    "sp_oth_lan_indo_ary_lan_ben_p": 14,
+    "bn": 14,
     "ja": 50
   },
   {
-    "lga_code_2016": 33360,
+    "id": 33360,
     "location": "Gladstone",
     "vi": 53,
     "ko": 51,
@@ -6964,11 +6964,11 @@
     "el": 55,
     "tl": 428,
     "de": 122,
-    "sp_oth_lan_indo_ary_lan_ben_p": 71,
+    "bn": 71,
     "ja": 29
   },
   {
-    "lga_code_2016": 33430,
+    "id": 33430,
     "location": "Gold Coast",
     "vi": 971,
     "ko": 3475,
@@ -6990,11 +6990,11 @@
     "el": 1620,
     "tl": 1601,
     "de": 2350,
-    "sp_oth_lan_indo_ary_lan_ben_p": 400,
+    "bn": 400,
     "ja": 5758
   },
   {
-    "lga_code_2016": 33610,
+    "id": 33610,
     "location": "Goondiwindi",
     "vi": 7,
     "ko": 4,
@@ -7016,11 +7016,11 @@
     "el": 0,
     "tl": 20,
     "de": 10,
-    "sp_oth_lan_indo_ary_lan_ben_p": 0,
+    "bn": 0,
     "ja": 7
   },
   {
-    "lga_code_2016": 32750,
+    "id": 32750,
     "location": "Diamantina",
     "vi": 0,
     "ko": 0,
@@ -7042,11 +7042,11 @@
     "el": 0,
     "tl": 0,
     "de": 0,
-    "sp_oth_lan_indo_ary_lan_ben_p": 0,
+    "bn": 0,
     "ja": 0
   },
   {
-    "lga_code_2016": 41140,
+    "id": 41140,
     "location": "Clare and Gilbert Valleys",
     "vi": 0,
     "ko": 0,
@@ -7068,11 +7068,11 @@
     "el": 6,
     "tl": 4,
     "de": 18,
-    "sp_oth_lan_indo_ary_lan_ben_p": 0,
+    "bn": 0,
     "ja": 17
   },
   {
-    "lga_code_2016": 32770,
+    "id": 32770,
     "location": "Doomadgee",
     "vi": 0,
     "ko": 0,
@@ -7094,11 +7094,11 @@
     "el": 0,
     "tl": 0,
     "de": 0,
-    "sp_oth_lan_indo_ary_lan_ben_p": 0,
+    "bn": 0,
     "ja": 0
   },
   {
-    "lga_code_2016": 32810,
+    "id": 32810,
     "location": "Douglas",
     "vi": 23,
     "ko": 39,
@@ -7120,11 +7120,11 @@
     "el": 31,
     "tl": 17,
     "de": 143,
-    "sp_oth_lan_indo_ary_lan_ben_p": 0,
+    "bn": 0,
     "ja": 34
   },
   {
-    "lga_code_2016": 33100,
+    "id": 33100,
     "location": "Etheridge",
     "vi": 0,
     "ko": 0,
@@ -7146,11 +7146,11 @@
     "el": 0,
     "tl": 0,
     "de": 4,
-    "sp_oth_lan_indo_ary_lan_ben_p": 0,
+    "bn": 0,
     "ja": 0
   },
   {
-    "lga_code_2016": 33620,
+    "id": 33620,
     "location": "Gympie",
     "vi": 32,
     "ko": 10,
@@ -7172,11 +7172,11 @@
     "el": 13,
     "tl": 73,
     "de": 166,
-    "sp_oth_lan_indo_ary_lan_ben_p": 4,
+    "bn": 4,
     "ja": 40
   },
   {
-    "lga_code_2016": 33800,
+    "id": 33800,
     "location": "Hinchinbrook",
     "vi": 3,
     "ko": 0,
@@ -7198,11 +7198,11 @@
     "el": 4,
     "tl": 15,
     "de": 18,
-    "sp_oth_lan_indo_ary_lan_ben_p": 0,
+    "bn": 0,
     "ja": 0
   },
   {
-    "lga_code_2016": 33830,
+    "id": 33830,
     "location": "Hope Vale",
     "vi": 0,
     "ko": 0,
@@ -7224,11 +7224,11 @@
     "el": 0,
     "tl": 0,
     "de": 0,
-    "sp_oth_lan_indo_ary_lan_ben_p": 0,
+    "bn": 0,
     "ja": 0
   },
   {
-    "lga_code_2016": 33960,
+    "id": 33960,
     "location": "Ipswich",
     "vi": 1829,
     "ko": 215,
@@ -7250,11 +7250,11 @@
     "el": 121,
     "tl": 760,
     "de": 361,
-    "sp_oth_lan_indo_ary_lan_ben_p": 102,
+    "bn": 102,
     "ja": 214
   },
   {
-    "lga_code_2016": 33980,
+    "id": 33980,
     "location": "Isaac",
     "vi": 17,
     "ko": 7,
@@ -7276,11 +7276,11 @@
     "el": 7,
     "tl": 154,
     "de": 23,
-    "sp_oth_lan_indo_ary_lan_ben_p": 9,
+    "bn": 9,
     "ja": 23
   },
   {
-    "lga_code_2016": 34420,
+    "id": 34420,
     "location": "Kowanyama",
     "vi": 0,
     "ko": 0,
@@ -7302,11 +7302,11 @@
     "el": 0,
     "tl": 0,
     "de": 0,
-    "sp_oth_lan_indo_ary_lan_ben_p": 0,
+    "bn": 0,
     "ja": 0
   },
   {
-    "lga_code_2016": 34530,
+    "id": 34530,
     "location": "Livingstone",
     "vi": 13,
     "ko": 7,
@@ -7328,11 +7328,11 @@
     "el": 16,
     "tl": 44,
     "de": 103,
-    "sp_oth_lan_indo_ary_lan_ben_p": 0,
+    "bn": 0,
     "ja": 47
   },
   {
-    "lga_code_2016": 34570,
+    "id": 34570,
     "location": "Lockhart River",
     "vi": 0,
     "ko": 0,
@@ -7354,11 +7354,11 @@
     "el": 0,
     "tl": 0,
     "de": 0,
-    "sp_oth_lan_indo_ary_lan_ben_p": 0,
+    "bn": 0,
     "ja": 0
   },
   {
-    "lga_code_2016": 34580,
+    "id": 34580,
     "location": "Lockyer Valley",
     "vi": 74,
     "ko": 129,
@@ -7380,11 +7380,11 @@
     "el": 4,
     "tl": 46,
     "de": 105,
-    "sp_oth_lan_indo_ary_lan_ben_p": 41,
+    "bn": 41,
     "ja": 85
   },
   {
-    "lga_code_2016": 34590,
+    "id": 34590,
     "location": "Logan",
     "vi": 1364,
     "ko": 1104,
@@ -7406,11 +7406,11 @@
     "el": 466,
     "tl": 1229,
     "de": 787,
-    "sp_oth_lan_indo_ary_lan_ben_p": 198,
+    "bn": 198,
     "ja": 448
   },
   {
-    "lga_code_2016": 40310,
+    "id": 40310,
     "location": "Barossa",
     "vi": 3,
     "ko": 3,
@@ -7432,11 +7432,11 @@
     "el": 7,
     "tl": 7,
     "de": 147,
-    "sp_oth_lan_indo_ary_lan_ben_p": 0,
+    "bn": 0,
     "ja": 17
   },
   {
-    "lga_code_2016": 40430,
+    "id": 40430,
     "location": "Barunga West",
     "vi": 0,
     "ko": 0,
@@ -7458,11 +7458,11 @@
     "el": 0,
     "tl": 0,
     "de": 0,
-    "sp_oth_lan_indo_ary_lan_ben_p": 0,
+    "bn": 0,
     "ja": 0
   },
   {
-    "lga_code_2016": 40520,
+    "id": 40520,
     "location": "Berri and Barmera",
     "vi": 3,
     "ko": 8,
@@ -7484,11 +7484,11 @@
     "el": 392,
     "tl": 23,
     "de": 17,
-    "sp_oth_lan_indo_ary_lan_ben_p": 12,
+    "bn": 12,
     "ja": 3
   },
   {
-    "lga_code_2016": 37400,
+    "id": 37400,
     "location": "Winton",
     "vi": 0,
     "ko": 0,
@@ -7510,11 +7510,11 @@
     "el": 3,
     "tl": 0,
     "de": 3,
-    "sp_oth_lan_indo_ary_lan_ben_p": 0,
+    "bn": 0,
     "ja": 0
   },
   {
-    "lga_code_2016": 40700,
+    "id": 40700,
     "location": "Burnside",
     "vi": 241,
     "ko": 402,
@@ -7536,11 +7536,11 @@
     "el": 707,
     "tl": 84,
     "de": 248,
-    "sp_oth_lan_indo_ary_lan_ben_p": 98,
+    "bn": 98,
     "ja": 186
   },
   {
-    "lga_code_2016": 37550,
+    "id": 37550,
     "location": "Woorabinda",
     "vi": 0,
     "ko": 0,
@@ -7562,11 +7562,11 @@
     "el": 0,
     "tl": 0,
     "de": 0,
-    "sp_oth_lan_indo_ary_lan_ben_p": 0,
+    "bn": 0,
     "ja": 0
   },
   {
-    "lga_code_2016": 40910,
+    "id": 40910,
     "location": "Campbelltown (SA)",
     "vi": 211,
     "ko": 556,
@@ -7588,11 +7588,11 @@
     "el": 1058,
     "tl": 111,
     "de": 171,
-    "sp_oth_lan_indo_ary_lan_ben_p": 99,
+    "bn": 99,
     "ja": 88
   },
   {
-    "lga_code_2016": 41010,
+    "id": 41010,
     "location": "Ceduna",
     "vi": 0,
     "ko": 11,
@@ -7614,11 +7614,11 @@
     "el": 55,
     "tl": 10,
     "de": 5,
-    "sp_oth_lan_indo_ary_lan_ben_p": 0,
+    "bn": 0,
     "ja": 0
   },
   {
-    "lga_code_2016": 41060,
+    "id": 41060,
     "location": "Charles Sturt",
     "vi": 2972,
     "ko": 131,
@@ -7640,11 +7640,11 @@
     "el": 4513,
     "tl": 423,
     "de": 432,
-    "sp_oth_lan_indo_ary_lan_ben_p": 125,
+    "bn": 125,
     "ja": 120
   },
   {
-    "lga_code_2016": 37570,
+    "id": 37570,
     "location": "Wujal Wujal",
     "vi": 0,
     "ko": 0,
@@ -7666,11 +7666,11 @@
     "el": 0,
     "tl": 0,
     "de": 0,
-    "sp_oth_lan_indo_ary_lan_ben_p": 0,
+    "bn": 0,
     "ja": 0
   },
   {
-    "lga_code_2016": 37600,
+    "id": 37600,
     "location": "Yarrabah",
     "vi": 0,
     "ko": 0,
@@ -7692,11 +7692,11 @@
     "el": 0,
     "tl": 0,
     "de": 0,
-    "sp_oth_lan_indo_ary_lan_ben_p": 0,
+    "bn": 0,
     "ja": 0
   },
   {
-    "lga_code_2016": 41330,
+    "id": 41330,
     "location": "Coober Pedy",
     "vi": 0,
     "ko": 4,
@@ -7718,11 +7718,11 @@
     "el": 85,
     "tl": 12,
     "de": 23,
-    "sp_oth_lan_indo_ary_lan_ben_p": 8,
+    "bn": 8,
     "ja": 0
   },
   {
-    "lga_code_2016": 40070,
+    "id": 40070,
     "location": "Adelaide",
     "vi": 263,
     "ko": 298,
@@ -7744,11 +7744,11 @@
     "el": 274,
     "tl": 48,
     "de": 88,
-    "sp_oth_lan_indo_ary_lan_ben_p": 67,
+    "bn": 67,
     "ja": 135
   },
   {
-    "lga_code_2016": 40120,
+    "id": 40120,
     "location": "Adelaide Hills",
     "vi": 86,
     "ko": 6,
@@ -7770,11 +7770,11 @@
     "el": 91,
     "tl": 29,
     "de": 301,
-    "sp_oth_lan_indo_ary_lan_ben_p": 0,
+    "bn": 0,
     "ja": 60
   },
   {
-    "lga_code_2016": 40220,
+    "id": 40220,
     "location": "Alexandrina",
     "vi": 10,
     "ko": 4,
@@ -7796,11 +7796,11 @@
     "el": 23,
     "tl": 26,
     "de": 109,
-    "sp_oth_lan_indo_ary_lan_ben_p": 0,
+    "bn": 0,
     "ja": 19
   },
   {
-    "lga_code_2016": 40250,
+    "id": 40250,
     "location": "Anangu Pitjantjatjara",
     "vi": 0,
     "ko": 0,
@@ -7822,11 +7822,11 @@
     "el": 0,
     "tl": 0,
     "de": 0,
-    "sp_oth_lan_indo_ary_lan_ben_p": 0,
+    "bn": 0,
     "ja": 0
   },
   {
-    "lga_code_2016": 41190,
+    "id": 41190,
     "location": "Cleve",
     "vi": 0,
     "ko": 0,
@@ -7848,11 +7848,11 @@
     "el": 0,
     "tl": 0,
     "de": 3,
-    "sp_oth_lan_indo_ary_lan_ben_p": 0,
+    "bn": 0,
     "ja": 0
   },
   {
-    "lga_code_2016": 41560,
+    "id": 41560,
     "location": "Copper Coast",
     "vi": 8,
     "ko": 0,
@@ -7874,11 +7874,11 @@
     "el": 29,
     "tl": 7,
     "de": 17,
-    "sp_oth_lan_indo_ary_lan_ben_p": 3,
+    "bn": 3,
     "ja": 0
   },
   {
-    "lga_code_2016": 41750,
+    "id": 41750,
     "location": "Elliston",
     "vi": 0,
     "ko": 0,
@@ -7900,11 +7900,11 @@
     "el": 0,
     "tl": 0,
     "de": 0,
-    "sp_oth_lan_indo_ary_lan_ben_p": 0,
+    "bn": 0,
     "ja": 0
   },
   {
-    "lga_code_2016": 42030,
+    "id": 42030,
     "location": "Gawler",
     "vi": 56,
     "ko": 3,
@@ -7926,11 +7926,11 @@
     "el": 69,
     "tl": 38,
     "de": 57,
-    "sp_oth_lan_indo_ary_lan_ben_p": 0,
+    "bn": 0,
     "ja": 3
   },
   {
-    "lga_code_2016": 42110,
+    "id": 42110,
     "location": "Goyder",
     "vi": 0,
     "ko": 0,
@@ -7952,11 +7952,11 @@
     "el": 0,
     "tl": 3,
     "de": 14,
-    "sp_oth_lan_indo_ary_lan_ben_p": 0,
+    "bn": 0,
     "ja": 0
   },
   {
-    "lga_code_2016": 42250,
+    "id": 42250,
     "location": "Grant",
     "vi": 0,
     "ko": 0,
@@ -7978,11 +7978,11 @@
     "el": 8,
     "tl": 6,
     "de": 20,
-    "sp_oth_lan_indo_ary_lan_ben_p": 0,
+    "bn": 0,
     "ja": 0
   },
   {
-    "lga_code_2016": 42750,
+    "id": 42750,
     "location": "Kangaroo Island",
     "vi": 6,
     "ko": 0,
@@ -8004,11 +8004,11 @@
     "el": 11,
     "tl": 10,
     "de": 22,
-    "sp_oth_lan_indo_ary_lan_ben_p": 0,
+    "bn": 0,
     "ja": 4
   },
   {
-    "lga_code_2016": 43080,
+    "id": 43080,
     "location": "Karoonda East Murray",
     "vi": 0,
     "ko": 0,
@@ -8030,11 +8030,11 @@
     "el": 0,
     "tl": 0,
     "de": 0,
-    "sp_oth_lan_indo_ary_lan_ben_p": 0,
+    "bn": 0,
     "ja": 0
   },
   {
-    "lga_code_2016": 43650,
+    "id": 43650,
     "location": "Light",
     "vi": 16,
     "ko": 0,
@@ -8056,11 +8056,11 @@
     "el": 11,
     "tl": 8,
     "de": 53,
-    "sp_oth_lan_indo_ary_lan_ben_p": 0,
+    "bn": 0,
     "ja": 9
   },
   {
-    "lga_code_2016": 43710,
+    "id": 43710,
     "location": "Lower Eyre Peninsula",
     "vi": 0,
     "ko": 0,
@@ -8082,11 +8082,11 @@
     "el": 7,
     "tl": 4,
     "de": 16,
-    "sp_oth_lan_indo_ary_lan_ben_p": 0,
+    "bn": 0,
     "ja": 0
   },
   {
-    "lga_code_2016": 43790,
+    "id": 43790,
     "location": "Loxton Waikerie",
     "vi": 9,
     "ko": 5,
@@ -8108,11 +8108,11 @@
     "el": 111,
     "tl": 11,
     "de": 21,
-    "sp_oth_lan_indo_ary_lan_ben_p": 0,
+    "bn": 0,
     "ja": 7
   },
   {
-    "lga_code_2016": 43920,
+    "id": 43920,
     "location": "Mallala",
     "vi": 59,
     "ko": 0,
@@ -8134,11 +8134,11 @@
     "el": 76,
     "tl": 3,
     "de": 4,
-    "sp_oth_lan_indo_ary_lan_ben_p": 0,
+    "bn": 0,
     "ja": 3
   },
   {
-    "lga_code_2016": 50560,
+    "id": 50560,
     "location": "Beverley",
     "vi": 6,
     "ko": 0,
@@ -8160,11 +8160,11 @@
     "el": 0,
     "tl": 3,
     "de": 6,
-    "sp_oth_lan_indo_ary_lan_ben_p": 0,
+    "bn": 0,
     "ja": 0
   },
   {
-    "lga_code_2016": 50630,
+    "id": 50630,
     "location": "Boddington",
     "vi": 0,
     "ko": 0,
@@ -8186,11 +8186,11 @@
     "el": 0,
     "tl": 0,
     "de": 3,
-    "sp_oth_lan_indo_ary_lan_ben_p": 0,
+    "bn": 0,
     "ja": 8
   },
   {
-    "lga_code_2016": 41830,
+    "id": 41830,
     "location": "Flinders Ranges",
     "vi": 0,
     "ko": 0,
@@ -8212,11 +8212,11 @@
     "el": 0,
     "tl": 0,
     "de": 6,
-    "sp_oth_lan_indo_ary_lan_ben_p": 0,
+    "bn": 0,
     "ja": 0
   },
   {
-    "lga_code_2016": 41960,
+    "id": 41960,
     "location": "Franklin Harbour",
     "vi": 0,
     "ko": 0,
@@ -8238,11 +8238,11 @@
     "el": 3,
     "tl": 0,
     "de": 0,
-    "sp_oth_lan_indo_ary_lan_ben_p": 0,
+    "bn": 0,
     "ja": 0
   },
   {
-    "lga_code_2016": 42600,
+    "id": 42600,
     "location": "Holdfast Bay",
     "vi": 38,
     "ko": 50,
@@ -8264,11 +8264,11 @@
     "el": 306,
     "tl": 46,
     "de": 174,
-    "sp_oth_lan_indo_ary_lan_ben_p": 19,
+    "bn": 19,
     "ja": 70
   },
   {
-    "lga_code_2016": 43220,
+    "id": 43220,
     "location": "Kimba",
     "vi": 0,
     "ko": 0,
@@ -8290,11 +8290,11 @@
     "el": 0,
     "tl": 0,
     "de": 5,
-    "sp_oth_lan_indo_ary_lan_ben_p": 0,
+    "bn": 0,
     "ja": 0
   },
   {
-    "lga_code_2016": 43360,
+    "id": 43360,
     "location": "Kingston (SA)",
     "vi": 0,
     "ko": 0,
@@ -8316,11 +8316,11 @@
     "el": 0,
     "tl": 0,
     "de": 6,
-    "sp_oth_lan_indo_ary_lan_ben_p": 0,
+    "bn": 0,
     "ja": 0
   },
   {
-    "lga_code_2016": 44000,
+    "id": 44000,
     "location": "Maralinga Tjarutja",
     "vi": 0,
     "ko": 0,
@@ -8342,11 +8342,11 @@
     "el": 0,
     "tl": 0,
     "de": 0,
-    "sp_oth_lan_indo_ary_lan_ben_p": 0,
+    "bn": 0,
     "ja": 0
   },
   {
-    "lga_code_2016": 44060,
+    "id": 44060,
     "location": "Marion",
     "vi": 291,
     "ko": 176,
@@ -8368,11 +8368,11 @@
     "el": 1114,
     "tl": 452,
     "de": 423,
-    "sp_oth_lan_indo_ary_lan_ben_p": 182,
+    "bn": 182,
     "ja": 199
   },
   {
-    "lga_code_2016": 44210,
+    "id": 44210,
     "location": "Mid Murray",
     "vi": 0,
     "ko": 3,
@@ -8394,11 +8394,11 @@
     "el": 3,
     "tl": 11,
     "de": 24,
-    "sp_oth_lan_indo_ary_lan_ben_p": 0,
+    "bn": 0,
     "ja": 3
   },
   {
-    "lga_code_2016": 44340,
+    "id": 44340,
     "location": "Mitcham",
     "vi": 255,
     "ko": 175,
@@ -8420,11 +8420,11 @@
     "el": 1386,
     "tl": 99,
     "de": 410,
-    "sp_oth_lan_indo_ary_lan_ben_p": 111,
+    "bn": 111,
     "ja": 142
   },
   {
-    "lga_code_2016": 44550,
+    "id": 44550,
     "location": "Mount Barker",
     "vi": 13,
     "ko": 16,
@@ -8446,11 +8446,11 @@
     "el": 44,
     "tl": 31,
     "de": 180,
-    "sp_oth_lan_indo_ary_lan_ben_p": 0,
+    "bn": 0,
     "ja": 54
   },
   {
-    "lga_code_2016": 44620,
+    "id": 44620,
     "location": "Mount Gambier",
     "vi": 28,
     "ko": 4,
@@ -8472,11 +8472,11 @@
     "el": 56,
     "tl": 46,
     "de": 59,
-    "sp_oth_lan_indo_ary_lan_ben_p": 0,
+    "bn": 0,
     "ja": 22
   },
   {
-    "lga_code_2016": 44830,
+    "id": 44830,
     "location": "Mount Remarkable",
     "vi": 0,
     "ko": 0,
@@ -8498,11 +8498,11 @@
     "el": 5,
     "tl": 0,
     "de": 3,
-    "sp_oth_lan_indo_ary_lan_ben_p": 0,
+    "bn": 0,
     "ja": 4
   },
   {
-    "lga_code_2016": 45040,
+    "id": 45040,
     "location": "Murray Bridge",
     "vi": 130,
     "ko": 10,
@@ -8524,11 +8524,11 @@
     "el": 17,
     "tl": 209,
     "de": 56,
-    "sp_oth_lan_indo_ary_lan_ben_p": 33,
+    "bn": 33,
     "ja": 5
   },
   {
-    "lga_code_2016": 45400,
+    "id": 45400,
     "location": "Orroroo/Carrieton",
     "vi": 0,
     "ko": 0,
@@ -8550,11 +8550,11 @@
     "el": 0,
     "tl": 0,
     "de": 0,
-    "sp_oth_lan_indo_ary_lan_ben_p": 0,
+    "bn": 0,
     "ja": 0
   },
   {
-    "lga_code_2016": 50770,
+    "id": 50770,
     "location": "Boyup Brook",
     "vi": 0,
     "ko": 0,
@@ -8576,11 +8576,11 @@
     "el": 0,
     "tl": 0,
     "de": 3,
-    "sp_oth_lan_indo_ary_lan_ben_p": 0,
+    "bn": 0,
     "ja": 0
   },
   {
-    "lga_code_2016": 50840,
+    "id": 50840,
     "location": "Bridgetown-Greenbushes",
     "vi": 0,
     "ko": 0,
@@ -8602,11 +8602,11 @@
     "el": 4,
     "tl": 8,
     "de": 16,
-    "sp_oth_lan_indo_ary_lan_ben_p": 0,
+    "bn": 0,
     "ja": 7
   },
   {
-    "lga_code_2016": 45090,
+    "id": 45090,
     "location": "Naracoorte and Lucindale",
     "vi": 30,
     "ko": 23,
@@ -8628,11 +8628,11 @@
     "el": 13,
     "tl": 72,
     "de": 17,
-    "sp_oth_lan_indo_ary_lan_ben_p": 0,
+    "bn": 0,
     "ja": 5
   },
   {
-    "lga_code_2016": 45120,
+    "id": 45120,
     "location": "Northern Areas",
     "vi": 0,
     "ko": 0,
@@ -8654,11 +8654,11 @@
     "el": 3,
     "tl": 4,
     "de": 6,
-    "sp_oth_lan_indo_ary_lan_ben_p": 0,
+    "bn": 0,
     "ja": 0
   },
   {
-    "lga_code_2016": 45290,
+    "id": 45290,
     "location": "Norwood Payneham St Peters",
     "vi": 251,
     "ko": 246,
@@ -8680,11 +8680,11 @@
     "el": 780,
     "tl": 102,
     "de": 186,
-    "sp_oth_lan_indo_ary_lan_ben_p": 60,
+    "bn": 60,
     "ja": 105
   },
   {
-    "lga_code_2016": 45340,
+    "id": 45340,
     "location": "Onkaparinga",
     "vi": 135,
     "ko": 114,
@@ -8706,11 +8706,11 @@
     "el": 617,
     "tl": 396,
     "de": 751,
-    "sp_oth_lan_indo_ary_lan_ben_p": 38,
+    "bn": 38,
     "ja": 147
   },
   {
-    "lga_code_2016": 47700,
+    "id": 47700,
     "location": "Tea Tree Gully",
     "vi": 180,
     "ko": 278,
@@ -8732,11 +8732,11 @@
     "el": 615,
     "tl": 215,
     "de": 445,
-    "sp_oth_lan_indo_ary_lan_ben_p": 138,
+    "bn": 138,
     "ja": 117
   },
   {
-    "lga_code_2016": 47800,
+    "id": 47800,
     "location": "The Coorong",
     "vi": 0,
     "ko": 0,
@@ -8758,11 +8758,11 @@
     "el": 3,
     "tl": 11,
     "de": 23,
-    "sp_oth_lan_indo_ary_lan_ben_p": 0,
+    "bn": 0,
     "ja": 0
   },
   {
-    "lga_code_2016": 45540,
+    "id": 45540,
     "location": "Peterborough",
     "vi": 0,
     "ko": 0,
@@ -8784,11 +8784,11 @@
     "el": 0,
     "tl": 0,
     "de": 5,
-    "sp_oth_lan_indo_ary_lan_ben_p": 0,
+    "bn": 0,
     "ja": 0
   },
   {
-    "lga_code_2016": 45680,
+    "id": 45680,
     "location": "Playford",
     "vi": 845,
     "ko": 12,
@@ -8810,11 +8810,11 @@
     "el": 400,
     "tl": 248,
     "de": 177,
-    "sp_oth_lan_indo_ary_lan_ben_p": 73,
+    "bn": 73,
     "ja": 25
   },
   {
-    "lga_code_2016": 45890,
+    "id": 45890,
     "location": "Port Adelaide Enfield",
     "vi": 6188,
     "ko": 421,
@@ -8836,11 +8836,11 @@
     "el": 2028,
     "tl": 792,
     "de": 403,
-    "sp_oth_lan_indo_ary_lan_ben_p": 423,
+    "bn": 423,
     "ja": 157
   },
   {
-    "lga_code_2016": 46090,
+    "id": 46090,
     "location": "Port Augusta",
     "vi": 23,
     "ko": 3,
@@ -8862,11 +8862,11 @@
     "el": 5,
     "tl": 20,
     "de": 25,
-    "sp_oth_lan_indo_ary_lan_ben_p": 15,
+    "bn": 15,
     "ja": 3
   },
   {
-    "lga_code_2016": 46300,
+    "id": 46300,
     "location": "Port Lincoln",
     "vi": 5,
     "ko": 5,
@@ -8888,11 +8888,11 @@
     "el": 31,
     "tl": 43,
     "de": 26,
-    "sp_oth_lan_indo_ary_lan_ben_p": 0,
+    "bn": 0,
     "ja": 10
   },
   {
-    "lga_code_2016": 46450,
+    "id": 46450,
     "location": "Port Pirie City and Dists",
     "vi": 20,
     "ko": 0,
@@ -8914,11 +8914,11 @@
     "el": 92,
     "tl": 47,
     "de": 27,
-    "sp_oth_lan_indo_ary_lan_ben_p": 3,
+    "bn": 3,
     "ja": 3
   },
   {
-    "lga_code_2016": 47910,
+    "id": 47910,
     "location": "Tumby Bay",
     "vi": 0,
     "ko": 0,
@@ -8940,11 +8940,11 @@
     "el": 0,
     "tl": 0,
     "de": 5,
-    "sp_oth_lan_indo_ary_lan_ben_p": 0,
+    "bn": 0,
     "ja": 0
   },
   {
-    "lga_code_2016": 50910,
+    "id": 50910,
     "location": "Brookton",
     "vi": 0,
     "ko": 0,
@@ -8966,11 +8966,11 @@
     "el": 0,
     "tl": 0,
     "de": 0,
-    "sp_oth_lan_indo_ary_lan_ben_p": 0,
+    "bn": 0,
     "ja": 0
   },
   {
-    "lga_code_2016": 46510,
+    "id": 46510,
     "location": "Prospect",
     "vi": 463,
     "ko": 29,
@@ -8992,11 +8992,11 @@
     "el": 921,
     "tl": 46,
     "de": 70,
-    "sp_oth_lan_indo_ary_lan_ben_p": 84,
+    "bn": 84,
     "ja": 21
   },
   {
-    "lga_code_2016": 46670,
+    "id": 46670,
     "location": "Renmark Paringa",
     "vi": 80,
     "ko": 4,
@@ -9018,11 +9018,11 @@
     "el": 371,
     "tl": 8,
     "de": 18,
-    "sp_oth_lan_indo_ary_lan_ben_p": 0,
+    "bn": 0,
     "ja": 7
   },
   {
-    "lga_code_2016": 46860,
+    "id": 46860,
     "location": "Robe",
     "vi": 0,
     "ko": 0,
@@ -9044,11 +9044,11 @@
     "el": 0,
     "tl": 0,
     "de": 0,
-    "sp_oth_lan_indo_ary_lan_ben_p": 0,
+    "bn": 0,
     "ja": 0
   },
   {
-    "lga_code_2016": 46970,
+    "id": 46970,
     "location": "Roxby Downs",
     "vi": 3,
     "ko": 0,
@@ -9070,11 +9070,11 @@
     "el": 5,
     "tl": 38,
     "de": 6,
-    "sp_oth_lan_indo_ary_lan_ben_p": 5,
+    "bn": 5,
     "ja": 0
   },
   {
-    "lga_code_2016": 47140,
+    "id": 47140,
     "location": "Salisbury",
     "vi": 5369,
     "ko": 192,
@@ -9096,11 +9096,11 @@
     "el": 1255,
     "tl": 1030,
     "de": 407,
-    "sp_oth_lan_indo_ary_lan_ben_p": 353,
+    "bn": 353,
     "ja": 97
   },
   {
-    "lga_code_2016": 47290,
+    "id": 47290,
     "location": "Southern Mallee",
     "vi": 0,
     "ko": 0,
@@ -9122,11 +9122,11 @@
     "el": 0,
     "tl": 7,
     "de": 0,
-    "sp_oth_lan_indo_ary_lan_ben_p": 0,
+    "bn": 0,
     "ja": 3
   },
   {
-    "lga_code_2016": 47490,
+    "id": 47490,
     "location": "Streaky Bay",
     "vi": 5,
     "ko": 0,
@@ -9148,11 +9148,11 @@
     "el": 0,
     "tl": 0,
     "de": 6,
-    "sp_oth_lan_indo_ary_lan_ben_p": 3,
+    "bn": 3,
     "ja": 0
   },
   {
-    "lga_code_2016": 47630,
+    "id": 47630,
     "location": "Tatiara",
     "vi": 8,
     "ko": 7,
@@ -9174,11 +9174,11 @@
     "el": 0,
     "tl": 37,
     "de": 15,
-    "sp_oth_lan_indo_ary_lan_ben_p": 0,
+    "bn": 0,
     "ja": 0
   },
   {
-    "lga_code_2016": 47980,
+    "id": 47980,
     "location": "Unley",
     "vi": 133,
     "ko": 168,
@@ -9200,11 +9200,11 @@
     "el": 1294,
     "tl": 54,
     "de": 216,
-    "sp_oth_lan_indo_ary_lan_ben_p": 133,
+    "bn": 133,
     "ja": 120
   },
   {
-    "lga_code_2016": 48050,
+    "id": 48050,
     "location": "Victor Harbor",
     "vi": 8,
     "ko": 0,
@@ -9226,11 +9226,11 @@
     "el": 20,
     "tl": 10,
     "de": 65,
-    "sp_oth_lan_indo_ary_lan_ben_p": 0,
+    "bn": 0,
     "ja": 14
   },
   {
-    "lga_code_2016": 48130,
+    "id": 48130,
     "location": "Wakefield",
     "vi": 8,
     "ko": 0,
@@ -9252,11 +9252,11 @@
     "el": 7,
     "tl": 55,
     "de": 11,
-    "sp_oth_lan_indo_ary_lan_ben_p": 8,
+    "bn": 8,
     "ja": 0
   },
   {
-    "lga_code_2016": 48410,
+    "id": 48410,
     "location": "West Torrens",
     "vi": 396,
     "ko": 162,
@@ -9278,11 +9278,11 @@
     "el": 3653,
     "tl": 271,
     "de": 151,
-    "sp_oth_lan_indo_ary_lan_ben_p": 255,
+    "bn": 255,
     "ja": 131
   },
   {
-    "lga_code_2016": 48540,
+    "id": 48540,
     "location": "Whyalla",
     "vi": 15,
     "ko": 3,
@@ -9304,11 +9304,11 @@
     "el": 106,
     "tl": 126,
     "de": 73,
-    "sp_oth_lan_indo_ary_lan_ben_p": 29,
+    "bn": 29,
     "ja": 6
   },
   {
-    "lga_code_2016": 50980,
+    "id": 50980,
     "location": "Broome",
     "vi": 16,
     "ko": 35,
@@ -9330,11 +9330,11 @@
     "el": 19,
     "tl": 98,
     "de": 118,
-    "sp_oth_lan_indo_ary_lan_ben_p": 3,
+    "bn": 3,
     "ja": 45
   },
   {
-    "lga_code_2016": 51190,
+    "id": 51190,
     "location": "Bunbury",
     "vi": 69,
     "ko": 119,
@@ -9356,11 +9356,11 @@
     "el": 56,
     "tl": 236,
     "de": 59,
-    "sp_oth_lan_indo_ary_lan_ben_p": 39,
+    "bn": 39,
     "ja": 50
   },
   {
-    "lga_code_2016": 51260,
+    "id": 51260,
     "location": "Busselton",
     "vi": 58,
     "ko": 30,
@@ -9382,11 +9382,11 @@
     "el": 12,
     "tl": 61,
     "de": 162,
-    "sp_oth_lan_indo_ary_lan_ben_p": 3,
+    "bn": 3,
     "ja": 61
   },
   {
-    "lga_code_2016": 51960,
+    "id": 51960,
     "location": "Coolgardie",
     "vi": 0,
     "ko": 6,
@@ -9408,11 +9408,11 @@
     "el": 0,
     "tl": 15,
     "de": 4,
-    "sp_oth_lan_indo_ary_lan_ben_p": 0,
+    "bn": 0,
     "ja": 3
   },
   {
-    "lga_code_2016": 52030,
+    "id": 52030,
     "location": "Coorow",
     "vi": 0,
     "ko": 0,
@@ -9434,11 +9434,11 @@
     "el": 0,
     "tl": 0,
     "de": 10,
-    "sp_oth_lan_indo_ary_lan_ben_p": 0,
+    "bn": 0,
     "ja": 0
   },
   {
-    "lga_code_2016": 50210,
+    "id": 50210,
     "location": "Armadale",
     "vi": 122,
     "ko": 147,
@@ -9460,11 +9460,11 @@
     "el": 35,
     "tl": 633,
     "de": 224,
-    "sp_oth_lan_indo_ary_lan_ben_p": 98,
+    "bn": 98,
     "ja": 121
   },
   {
-    "lga_code_2016": 50250,
+    "id": 50250,
     "location": "Ashburton",
     "vi": 37,
     "ko": 78,
@@ -9486,11 +9486,11 @@
     "el": 26,
     "tl": 269,
     "de": 66,
-    "sp_oth_lan_indo_ary_lan_ben_p": 16,
+    "bn": 16,
     "ja": 19
   },
   {
-    "lga_code_2016": 50280,
+    "id": 50280,
     "location": "Augusta-Margaret River",
     "vi": 10,
     "ko": 41,
@@ -9512,11 +9512,11 @@
     "el": 7,
     "tl": 53,
     "de": 110,
-    "sp_oth_lan_indo_ary_lan_ben_p": 0,
+    "bn": 0,
     "ja": 38
   },
   {
-    "lga_code_2016": 50350,
+    "id": 50350,
     "location": "Bassendean",
     "vi": 147,
     "ko": 14,
@@ -9538,11 +9538,11 @@
     "el": 15,
     "tl": 94,
     "de": 60,
-    "sp_oth_lan_indo_ary_lan_ben_p": 6,
+    "bn": 6,
     "ja": 60
   },
   {
-    "lga_code_2016": 50420,
+    "id": 50420,
     "location": "Bayswater",
     "vi": 2183,
     "ko": 215,
@@ -9564,11 +9564,11 @@
     "el": 372,
     "tl": 447,
     "de": 252,
-    "sp_oth_lan_indo_ary_lan_ben_p": 128,
+    "bn": 128,
     "ja": 257
   },
   {
-    "lga_code_2016": 50490,
+    "id": 50490,
     "location": "Belmont",
     "vi": 355,
     "ko": 382,
@@ -9590,11 +9590,11 @@
     "el": 59,
     "tl": 551,
     "de": 99,
-    "sp_oth_lan_indo_ary_lan_ben_p": 257,
+    "bn": 257,
     "ja": 92
   },
   {
-    "lga_code_2016": 48260,
+    "id": 48260,
     "location": "Walkerville",
     "vi": 105,
     "ko": 30,
@@ -9616,11 +9616,11 @@
     "el": 183,
     "tl": 10,
     "de": 27,
-    "sp_oth_lan_indo_ary_lan_ben_p": 4,
+    "bn": 4,
     "ja": 20
   },
   {
-    "lga_code_2016": 48340,
+    "id": 48340,
     "location": "Wattle Range",
     "vi": 9,
     "ko": 0,
@@ -9642,11 +9642,11 @@
     "el": 3,
     "tl": 14,
     "de": 12,
-    "sp_oth_lan_indo_ary_lan_ben_p": 0,
+    "bn": 0,
     "ja": 11
   },
   {
-    "lga_code_2016": 48640,
+    "id": 48640,
     "location": "Wudinna",
     "vi": 0,
     "ko": 0,
@@ -9668,11 +9668,11 @@
     "el": 0,
     "tl": 4,
     "de": 0,
-    "sp_oth_lan_indo_ary_lan_ben_p": 0,
+    "bn": 0,
     "ja": 0
   },
   {
-    "lga_code_2016": 48750,
+    "id": 48750,
     "location": "Yankalilla",
     "vi": 0,
     "ko": 3,
@@ -9694,11 +9694,11 @@
     "el": 19,
     "tl": 5,
     "de": 20,
-    "sp_oth_lan_indo_ary_lan_ben_p": 0,
+    "bn": 0,
     "ja": 3
   },
   {
-    "lga_code_2016": 48830,
+    "id": 48830,
     "location": "Yorke Peninsula",
     "vi": 3,
     "ko": 0,
@@ -9720,11 +9720,11 @@
     "el": 13,
     "tl": 10,
     "de": 21,
-    "sp_oth_lan_indo_ary_lan_ben_p": 0,
+    "bn": 0,
     "ja": 0
   },
   {
-    "lga_code_2016": 49399,
+    "id": 49399,
     "location": "Unincorporated SA",
     "vi": 7,
     "ko": 0,
@@ -9746,11 +9746,11 @@
     "el": 12,
     "tl": 8,
     "de": 20,
-    "sp_oth_lan_indo_ary_lan_ben_p": 0,
+    "bn": 0,
     "ja": 5
   },
   {
-    "lga_code_2016": 50080,
+    "id": 50080,
     "location": "Albany",
     "vi": 42,
     "ko": 8,
@@ -9772,11 +9772,11 @@
     "el": 15,
     "tl": 215,
     "de": 146,
-    "sp_oth_lan_indo_ary_lan_ben_p": 3,
+    "bn": 3,
     "ja": 33
   },
   {
-    "lga_code_2016": 51080,
+    "id": 51080,
     "location": "Broomehill-Tambellup",
     "vi": 0,
     "ko": 0,
@@ -9798,11 +9798,11 @@
     "el": 0,
     "tl": 3,
     "de": 0,
-    "sp_oth_lan_indo_ary_lan_ben_p": 0,
+    "bn": 0,
     "ja": 0
   },
   {
-    "lga_code_2016": 51120,
+    "id": 51120,
     "location": "Bruce Rock",
     "vi": 0,
     "ko": 0,
@@ -9824,11 +9824,11 @@
     "el": 0,
     "tl": 9,
     "de": 3,
-    "sp_oth_lan_indo_ary_lan_ben_p": 0,
+    "bn": 0,
     "ja": 0
   },
   {
-    "lga_code_2016": 51310,
+    "id": 51310,
     "location": "Cambridge",
     "vi": 78,
     "ko": 39,
@@ -9850,11 +9850,11 @@
     "el": 207,
     "tl": 37,
     "de": 168,
-    "sp_oth_lan_indo_ary_lan_ben_p": 23,
+    "bn": 23,
     "ja": 137
   },
   {
-    "lga_code_2016": 51330,
+    "id": 51330,
     "location": "Canning",
     "vi": 548,
     "ko": 1264,
@@ -9876,11 +9876,11 @@
     "el": 89,
     "tl": 824,
     "de": 246,
-    "sp_oth_lan_indo_ary_lan_ben_p": 488,
+    "bn": 488,
     "ja": 283
   },
   {
-    "lga_code_2016": 51400,
+    "id": 51400,
     "location": "Capel",
     "vi": 18,
     "ko": 13,
@@ -9902,11 +9902,11 @@
     "el": 7,
     "tl": 87,
     "de": 38,
-    "sp_oth_lan_indo_ary_lan_ben_p": 11,
+    "bn": 11,
     "ja": 12
   },
   {
-    "lga_code_2016": 51470,
+    "id": 51470,
     "location": "Carnamah",
     "vi": 0,
     "ko": 0,
@@ -9928,11 +9928,11 @@
     "el": 0,
     "tl": 3,
     "de": 7,
-    "sp_oth_lan_indo_ary_lan_ben_p": 0,
+    "bn": 0,
     "ja": 0
   },
   {
-    "lga_code_2016": 51540,
+    "id": 51540,
     "location": "Carnarvon",
     "vi": 210,
     "ko": 6,
@@ -9954,11 +9954,11 @@
     "el": 11,
     "tl": 26,
     "de": 37,
-    "sp_oth_lan_indo_ary_lan_ben_p": 0,
+    "bn": 0,
     "ja": 14
   },
   {
-    "lga_code_2016": 51610,
+    "id": 51610,
     "location": "Chapman Valley",
     "vi": 0,
     "ko": 0,
@@ -9980,11 +9980,11 @@
     "el": 0,
     "tl": 0,
     "de": 16,
-    "sp_oth_lan_indo_ary_lan_ben_p": 0,
+    "bn": 0,
     "ja": 0
   },
   {
-    "lga_code_2016": 52380,
+    "id": 52380,
     "location": "Cue",
     "vi": 0,
     "ko": 0,
@@ -10006,11 +10006,11 @@
     "el": 0,
     "tl": 0,
     "de": 0,
-    "sp_oth_lan_indo_ary_lan_ben_p": 0,
+    "bn": 0,
     "ja": 0
   },
   {
-    "lga_code_2016": 52450,
+    "id": 52450,
     "location": "Cunderdin",
     "vi": 0,
     "ko": 0,
@@ -10032,11 +10032,11 @@
     "el": 0,
     "tl": 41,
     "de": 3,
-    "sp_oth_lan_indo_ary_lan_ben_p": 0,
+    "bn": 0,
     "ja": 0
   },
   {
-    "lga_code_2016": 52520,
+    "id": 52520,
     "location": "Dalwallinu",
     "vi": 0,
     "ko": 0,
@@ -10058,11 +10058,11 @@
     "el": 0,
     "tl": 49,
     "de": 0,
-    "sp_oth_lan_indo_ary_lan_ben_p": 0,
+    "bn": 0,
     "ja": 0
   },
   {
-    "lga_code_2016": 51680,
+    "id": 51680,
     "location": "Chittering",
     "vi": 4,
     "ko": 0,
@@ -10084,11 +10084,11 @@
     "el": 5,
     "tl": 8,
     "de": 11,
-    "sp_oth_lan_indo_ary_lan_ben_p": 0,
+    "bn": 0,
     "ja": 0
   },
   {
-    "lga_code_2016": 51750,
+    "id": 51750,
     "location": "Claremont",
     "vi": 16,
     "ko": 16,
@@ -10110,11 +10110,11 @@
     "el": 17,
     "tl": 9,
     "de": 67,
-    "sp_oth_lan_indo_ary_lan_ben_p": 7,
+    "bn": 7,
     "ja": 90
   },
   {
-    "lga_code_2016": 51820,
+    "id": 51820,
     "location": "Cockburn",
     "vi": 261,
     "ko": 427,
@@ -10136,11 +10136,11 @@
     "el": 90,
     "tl": 1330,
     "de": 420,
-    "sp_oth_lan_indo_ary_lan_ben_p": 169,
+    "bn": 169,
     "ja": 253
   },
   {
-    "lga_code_2016": 51890,
+    "id": 51890,
     "location": "Collie",
     "vi": 9,
     "ko": 3,
@@ -10162,11 +10162,11 @@
     "el": 0,
     "tl": 5,
     "de": 17,
-    "sp_oth_lan_indo_ary_lan_ben_p": 3,
+    "bn": 3,
     "ja": 7
   },
   {
-    "lga_code_2016": 52100,
+    "id": 52100,
     "location": "Corrigin",
     "vi": 0,
     "ko": 0,
@@ -10188,11 +10188,11 @@
     "el": 0,
     "tl": 7,
     "de": 3,
-    "sp_oth_lan_indo_ary_lan_ben_p": 0,
+    "bn": 0,
     "ja": 0
   },
   {
-    "lga_code_2016": 52170,
+    "id": 52170,
     "location": "Cottesloe",
     "vi": 10,
     "ko": 3,
@@ -10214,11 +10214,11 @@
     "el": 42,
     "tl": 0,
     "de": 58,
-    "sp_oth_lan_indo_ary_lan_ben_p": 0,
+    "bn": 0,
     "ja": 14
   },
   {
-    "lga_code_2016": 52240,
+    "id": 52240,
     "location": "Cranbrook",
     "vi": 0,
     "ko": 0,
@@ -10240,11 +10240,11 @@
     "el": 0,
     "tl": 3,
     "de": 0,
-    "sp_oth_lan_indo_ary_lan_ben_p": 0,
+    "bn": 0,
     "ja": 0
   },
   {
-    "lga_code_2016": 52310,
+    "id": 52310,
     "location": "Cuballing",
     "vi": 0,
     "ko": 0,
@@ -10266,11 +10266,11 @@
     "el": 0,
     "tl": 4,
     "de": 3,
-    "sp_oth_lan_indo_ary_lan_ben_p": 0,
+    "bn": 0,
     "ja": 0
   },
   {
-    "lga_code_2016": 52590,
+    "id": 52590,
     "location": "Dandaragan",
     "vi": 0,
     "ko": 0,
@@ -10292,11 +10292,11 @@
     "el": 3,
     "tl": 0,
     "de": 13,
-    "sp_oth_lan_indo_ary_lan_ben_p": 3,
+    "bn": 3,
     "ja": 3
   },
   {
-    "lga_code_2016": 52660,
+    "id": 52660,
     "location": "Dardanup",
     "vi": 6,
     "ko": 29,
@@ -10318,11 +10318,11 @@
     "el": 0,
     "tl": 30,
     "de": 25,
-    "sp_oth_lan_indo_ary_lan_ben_p": 3,
+    "bn": 3,
     "ja": 12
   },
   {
-    "lga_code_2016": 52730,
+    "id": 52730,
     "location": "Denmark",
     "vi": 14,
     "ko": 0,
@@ -10344,11 +10344,11 @@
     "el": 0,
     "tl": 6,
     "de": 55,
-    "sp_oth_lan_indo_ary_lan_ben_p": 0,
+    "bn": 0,
     "ja": 0
   },
   {
-    "lga_code_2016": 52800,
+    "id": 52800,
     "location": "Derby-West Kimberley",
     "vi": 7,
     "ko": 4,
@@ -10370,11 +10370,11 @@
     "el": 3,
     "tl": 12,
     "de": 24,
-    "sp_oth_lan_indo_ary_lan_ben_p": 0,
+    "bn": 0,
     "ja": 6
   },
   {
-    "lga_code_2016": 52870,
+    "id": 52870,
     "location": "Donnybrook-Balingup",
     "vi": 12,
     "ko": 6,
@@ -10396,11 +10396,11 @@
     "el": 3,
     "tl": 3,
     "de": 22,
-    "sp_oth_lan_indo_ary_lan_ben_p": 0,
+    "bn": 0,
     "ja": 9
   },
   {
-    "lga_code_2016": 52940,
+    "id": 52940,
     "location": "Dowerin",
     "vi": 0,
     "ko": 0,
@@ -10422,11 +10422,11 @@
     "el": 0,
     "tl": 0,
     "de": 0,
-    "sp_oth_lan_indo_ary_lan_ben_p": 0,
+    "bn": 0,
     "ja": 0
   },
   {
-    "lga_code_2016": 53150,
+    "id": 53150,
     "location": "East Fremantle",
     "vi": 9,
     "ko": 5,
@@ -10448,11 +10448,11 @@
     "el": 0,
     "tl": 4,
     "de": 48,
-    "sp_oth_lan_indo_ary_lan_ben_p": 0,
+    "bn": 0,
     "ja": 18
   },
   {
-    "lga_code_2016": 53220,
+    "id": 53220,
     "location": "East Pilbara",
     "vi": 19,
     "ko": 15,
@@ -10474,11 +10474,11 @@
     "el": 17,
     "tl": 141,
     "de": 37,
-    "sp_oth_lan_indo_ary_lan_ben_p": 6,
+    "bn": 6,
     "ja": 8
   },
   {
-    "lga_code_2016": 53290,
+    "id": 53290,
     "location": "Esperance",
     "vi": 3,
     "ko": 9,
@@ -10500,11 +10500,11 @@
     "el": 6,
     "tl": 17,
     "de": 47,
-    "sp_oth_lan_indo_ary_lan_ben_p": 5,
+    "bn": 5,
     "ja": 0
   },
   {
-    "lga_code_2016": 53360,
+    "id": 53360,
     "location": "Exmouth",
     "vi": 0,
     "ko": 0,
@@ -10526,11 +10526,11 @@
     "el": 6,
     "tl": 17,
     "de": 39,
-    "sp_oth_lan_indo_ary_lan_ben_p": 0,
+    "bn": 0,
     "ja": 0
   },
   {
-    "lga_code_2016": 53430,
+    "id": 53430,
     "location": "Fremantle",
     "vi": 33,
     "ko": 34,
@@ -10552,11 +10552,11 @@
     "el": 57,
     "tl": 74,
     "de": 248,
-    "sp_oth_lan_indo_ary_lan_ben_p": 4,
+    "bn": 4,
     "ja": 97
   },
   {
-    "lga_code_2016": 53010,
+    "id": 53010,
     "location": "Dumbleyung",
     "vi": 0,
     "ko": 0,
@@ -10578,11 +10578,11 @@
     "el": 0,
     "tl": 0,
     "de": 0,
-    "sp_oth_lan_indo_ary_lan_ben_p": 0,
+    "bn": 0,
     "ja": 0
   },
   {
-    "lga_code_2016": 53080,
+    "id": 53080,
     "location": "Dundas",
     "vi": 0,
     "ko": 3,
@@ -10604,11 +10604,11 @@
     "el": 0,
     "tl": 4,
     "de": 3,
-    "sp_oth_lan_indo_ary_lan_ben_p": 0,
+    "bn": 0,
     "ja": 0
   },
   {
-    "lga_code_2016": 53570,
+    "id": 53570,
     "location": "Gingin",
     "vi": 24,
     "ko": 4,
@@ -10630,11 +10630,11 @@
     "el": 3,
     "tl": 33,
     "de": 32,
-    "sp_oth_lan_indo_ary_lan_ben_p": 0,
+    "bn": 0,
     "ja": 7
   },
   {
-    "lga_code_2016": 53640,
+    "id": 53640,
     "location": "Gnowangerup",
     "vi": 0,
     "ko": 0,
@@ -10656,11 +10656,11 @@
     "el": 0,
     "tl": 17,
     "de": 11,
-    "sp_oth_lan_indo_ary_lan_ben_p": 0,
+    "bn": 0,
     "ja": 0
   },
   {
-    "lga_code_2016": 54280,
+    "id": 54280,
     "location": "Kalgoorlie/Boulder",
     "vi": 34,
     "ko": 12,
@@ -10682,11 +10682,11 @@
     "el": 24,
     "tl": 312,
     "de": 65,
-    "sp_oth_lan_indo_ary_lan_ben_p": 25,
+    "bn": 25,
     "ja": 11
   },
   {
-    "lga_code_2016": 54310,
+    "id": 54310,
     "location": "Karratha",
     "vi": 39,
     "ko": 17,
@@ -10708,11 +10708,11 @@
     "el": 20,
     "tl": 289,
     "de": 58,
-    "sp_oth_lan_indo_ary_lan_ben_p": 30,
+    "bn": 30,
     "ja": 21
   },
   {
-    "lga_code_2016": 53920,
+    "id": 53920,
     "location": "Halls Creek",
     "vi": 0,
     "ko": 0,
@@ -10734,11 +10734,11 @@
     "el": 0,
     "tl": 3,
     "de": 6,
-    "sp_oth_lan_indo_ary_lan_ben_p": 0,
+    "bn": 0,
     "ja": 4
   },
   {
-    "lga_code_2016": 53990,
+    "id": 53990,
     "location": "Harvey",
     "vi": 16,
     "ko": 26,
@@ -10760,11 +10760,11 @@
     "el": 5,
     "tl": 177,
     "de": 48,
-    "sp_oth_lan_indo_ary_lan_ben_p": 0,
+    "bn": 0,
     "ja": 26
   },
   {
-    "lga_code_2016": 54060,
+    "id": 54060,
     "location": "Irwin",
     "vi": 4,
     "ko": 0,
@@ -10786,11 +10786,11 @@
     "el": 0,
     "tl": 0,
     "de": 25,
-    "sp_oth_lan_indo_ary_lan_ben_p": 0,
+    "bn": 0,
     "ja": 0
   },
   {
-    "lga_code_2016": 54130,
+    "id": 54130,
     "location": "Jerramungup",
     "vi": 0,
     "ko": 0,
@@ -10812,11 +10812,11 @@
     "el": 4,
     "tl": 5,
     "de": 10,
-    "sp_oth_lan_indo_ary_lan_ben_p": 0,
+    "bn": 0,
     "ja": 0
   },
   {
-    "lga_code_2016": 54170,
+    "id": 54170,
     "location": "Joondalup",
     "vi": 437,
     "ko": 116,
@@ -10838,11 +10838,11 @@
     "el": 309,
     "tl": 271,
     "de": 894,
-    "sp_oth_lan_indo_ary_lan_ben_p": 80,
+    "bn": 80,
     "ja": 368
   },
   {
-    "lga_code_2016": 53710,
+    "id": 53710,
     "location": "Goomalling",
     "vi": 0,
     "ko": 0,
@@ -10864,11 +10864,11 @@
     "el": 0,
     "tl": 0,
     "de": 6,
-    "sp_oth_lan_indo_ary_lan_ben_p": 0,
+    "bn": 0,
     "ja": 0
   },
   {
-    "lga_code_2016": 53780,
+    "id": 53780,
     "location": "Gosnells",
     "vi": 566,
     "ko": 547,
@@ -10890,11 +10890,11 @@
     "el": 70,
     "tl": 1551,
     "de": 211,
-    "sp_oth_lan_indo_ary_lan_ben_p": 501,
+    "bn": 501,
     "ja": 195
   },
   {
-    "lga_code_2016": 53800,
+    "id": 53800,
     "location": "Greater Geraldton",
     "vi": 106,
     "ko": 0,
@@ -10916,11 +10916,11 @@
     "el": 14,
     "tl": 229,
     "de": 133,
-    "sp_oth_lan_indo_ary_lan_ben_p": 13,
+    "bn": 13,
     "ja": 22
   },
   {
-    "lga_code_2016": 54200,
+    "id": 54200,
     "location": "Kalamunda",
     "vi": 70,
     "ko": 37,
@@ -10942,11 +10942,11 @@
     "el": 32,
     "tl": 351,
     "de": 235,
-    "sp_oth_lan_indo_ary_lan_ben_p": 164,
+    "bn": 164,
     "ja": 75
   },
   {
-    "lga_code_2016": 54340,
+    "id": 54340,
     "location": "Katanning",
     "vi": 3,
     "ko": 5,
@@ -10968,11 +10968,11 @@
     "el": 0,
     "tl": 15,
     "de": 0,
-    "sp_oth_lan_indo_ary_lan_ben_p": 0,
+    "bn": 0,
     "ja": 0
   },
   {
-    "lga_code_2016": 54410,
+    "id": 54410,
     "location": "Kellerberrin",
     "vi": 0,
     "ko": 0,
@@ -10994,11 +10994,11 @@
     "el": 0,
     "tl": 5,
     "de": 0,
-    "sp_oth_lan_indo_ary_lan_ben_p": 0,
+    "bn": 0,
     "ja": 0
   },
   {
-    "lga_code_2016": 54830,
+    "id": 54830,
     "location": "Kwinana",
     "vi": 103,
     "ko": 125,
@@ -11020,11 +11020,11 @@
     "el": 25,
     "tl": 860,
     "de": 106,
-    "sp_oth_lan_indo_ary_lan_ben_p": 93,
+    "bn": 93,
     "ja": 75
   },
   {
-    "lga_code_2016": 54480,
+    "id": 54480,
     "location": "Kent",
     "vi": 0,
     "ko": 0,
@@ -11046,11 +11046,11 @@
     "el": 0,
     "tl": 0,
     "de": 3,
-    "sp_oth_lan_indo_ary_lan_ben_p": 0,
+    "bn": 0,
     "ja": 0
   },
   {
-    "lga_code_2016": 54550,
+    "id": 54550,
     "location": "Kojonup",
     "vi": 0,
     "ko": 0,
@@ -11072,11 +11072,11 @@
     "el": 0,
     "tl": 19,
     "de": 8,
-    "sp_oth_lan_indo_ary_lan_ben_p": 0,
+    "bn": 0,
     "ja": 0
   },
   {
-    "lga_code_2016": 54900,
+    "id": 54900,
     "location": "Lake Grace",
     "vi": 0,
     "ko": 3,
@@ -11098,11 +11098,11 @@
     "el": 0,
     "tl": 0,
     "de": 4,
-    "sp_oth_lan_indo_ary_lan_ben_p": 0,
+    "bn": 0,
     "ja": 0
   },
   {
-    "lga_code_2016": 57910,
+    "id": 57910,
     "location": "Stirling",
     "vi": 4407,
     "ko": 477,
@@ -11124,11 +11124,11 @@
     "el": 1450,
     "tl": 867,
     "de": 916,
-    "sp_oth_lan_indo_ary_lan_ben_p": 193,
+    "bn": 193,
     "ja": 851
   },
   {
-    "lga_code_2016": 54620,
+    "id": 54620,
     "location": "Kondinin",
     "vi": 0,
     "ko": 0,
@@ -11150,11 +11150,11 @@
     "el": 0,
     "tl": 0,
     "de": 0,
-    "sp_oth_lan_indo_ary_lan_ben_p": 3,
+    "bn": 3,
     "ja": 0
   },
   {
-    "lga_code_2016": 54690,
+    "id": 54690,
     "location": "Koorda",
     "vi": 0,
     "ko": 0,
@@ -11176,11 +11176,11 @@
     "el": 0,
     "tl": 0,
     "de": 0,
-    "sp_oth_lan_indo_ary_lan_ben_p": 0,
+    "bn": 0,
     "ja": 0
   },
   {
-    "lga_code_2016": 54760,
+    "id": 54760,
     "location": "Kulin",
     "vi": 0,
     "ko": 0,
@@ -11202,11 +11202,11 @@
     "el": 0,
     "tl": 0,
     "de": 0,
-    "sp_oth_lan_indo_ary_lan_ben_p": 0,
+    "bn": 0,
     "ja": 0
   },
   {
-    "lga_code_2016": 54970,
+    "id": 54970,
     "location": "Laverton",
     "vi": 3,
     "ko": 3,
@@ -11228,11 +11228,11 @@
     "el": 0,
     "tl": 4,
     "de": 11,
-    "sp_oth_lan_indo_ary_lan_ben_p": 0,
+    "bn": 0,
     "ja": 3
   },
   {
-    "lga_code_2016": 57980,
+    "id": 57980,
     "location": "Subiaco",
     "vi": 101,
     "ko": 95,
@@ -11254,11 +11254,11 @@
     "el": 48,
     "tl": 31,
     "de": 126,
-    "sp_oth_lan_indo_ary_lan_ben_p": 52,
+    "bn": 52,
     "ja": 172
   },
   {
-    "lga_code_2016": 58050,
+    "id": 58050,
     "location": "Swan",
     "vi": 2883,
     "ko": 125,
@@ -11280,11 +11280,11 @@
     "el": 210,
     "tl": 1362,
     "de": 336,
-    "sp_oth_lan_indo_ary_lan_ben_p": 93,
+    "bn": 93,
     "ja": 181
   },
   {
-    "lga_code_2016": 58190,
+    "id": 58190,
     "location": "Tammin",
     "vi": 0,
     "ko": 0,
@@ -11306,11 +11306,11 @@
     "el": 0,
     "tl": 0,
     "de": 0,
-    "sp_oth_lan_indo_ary_lan_ben_p": 0,
+    "bn": 0,
     "ja": 0
   },
   {
-    "lga_code_2016": 55040,
+    "id": 55040,
     "location": "Leonora",
     "vi": 0,
     "ko": 0,
@@ -11332,11 +11332,11 @@
     "el": 3,
     "tl": 5,
     "de": 3,
-    "sp_oth_lan_indo_ary_lan_ben_p": 0,
+    "bn": 0,
     "ja": 0
   },
   {
-    "lga_code_2016": 55110,
+    "id": 55110,
     "location": "Mandurah",
     "vi": 76,
     "ko": 103,
@@ -11358,11 +11358,11 @@
     "el": 43,
     "tl": 348,
     "de": 230,
-    "sp_oth_lan_indo_ary_lan_ben_p": 29,
+    "bn": 29,
     "ja": 96
   },
   {
-    "lga_code_2016": 55180,
+    "id": 55180,
     "location": "Manjimup",
     "vi": 10,
     "ko": 6,
@@ -11384,11 +11384,11 @@
     "el": 8,
     "tl": 16,
     "de": 32,
-    "sp_oth_lan_indo_ary_lan_ben_p": 3,
+    "bn": 3,
     "ja": 3
   },
   {
-    "lga_code_2016": 55250,
+    "id": 55250,
     "location": "Meekatharra",
     "vi": 3,
     "ko": 0,
@@ -11410,11 +11410,11 @@
     "el": 5,
     "tl": 7,
     "de": 3,
-    "sp_oth_lan_indo_ary_lan_ben_p": 0,
+    "bn": 0,
     "ja": 0
   },
   {
-    "lga_code_2016": 55320,
+    "id": 55320,
     "location": "Melville",
     "vi": 287,
     "ko": 592,
@@ -11436,11 +11436,11 @@
     "el": 185,
     "tl": 255,
     "de": 451,
-    "sp_oth_lan_indo_ary_lan_ben_p": 143,
+    "bn": 143,
     "ja": 396
   },
   {
-    "lga_code_2016": 58260,
+    "id": 58260,
     "location": "Three Springs",
     "vi": 0,
     "ko": 0,
@@ -11462,11 +11462,11 @@
     "el": 0,
     "tl": 0,
     "de": 0,
-    "sp_oth_lan_indo_ary_lan_ben_p": 0,
+    "bn": 0,
     "ja": 0
   },
   {
-    "lga_code_2016": 55950,
+    "id": 55950,
     "location": "Mukinbudin",
     "vi": 0,
     "ko": 0,
@@ -11488,11 +11488,11 @@
     "el": 0,
     "tl": 0,
     "de": 3,
-    "sp_oth_lan_indo_ary_lan_ben_p": 0,
+    "bn": 0,
     "ja": 0
   },
   {
-    "lga_code_2016": 55530,
+    "id": 55530,
     "location": "Mingenew",
     "vi": 0,
     "ko": 0,
@@ -11514,11 +11514,11 @@
     "el": 0,
     "tl": 0,
     "de": 0,
-    "sp_oth_lan_indo_ary_lan_ben_p": 0,
+    "bn": 0,
     "ja": 0
   },
   {
-    "lga_code_2016": 56090,
+    "id": 56090,
     "location": "Mundaring",
     "vi": 34,
     "ko": 7,
@@ -11540,11 +11540,11 @@
     "el": 30,
     "tl": 107,
     "de": 196,
-    "sp_oth_lan_indo_ary_lan_ben_p": 10,
+    "bn": 10,
     "ja": 60
   },
   {
-    "lga_code_2016": 55390,
+    "id": 55390,
     "location": "Menzies",
     "vi": 0,
     "ko": 0,
@@ -11566,11 +11566,11 @@
     "el": 0,
     "tl": 13,
     "de": 0,
-    "sp_oth_lan_indo_ary_lan_ben_p": 0,
+    "bn": 0,
     "ja": 0
   },
   {
-    "lga_code_2016": 55460,
+    "id": 55460,
     "location": "Merredin",
     "vi": 0,
     "ko": 0,
@@ -11592,11 +11592,11 @@
     "el": 0,
     "tl": 11,
     "de": 5,
-    "sp_oth_lan_indo_ary_lan_ben_p": 6,
+    "bn": 6,
     "ja": 0
   },
   {
-    "lga_code_2016": 57140,
+    "id": 57140,
     "location": "Pingelly",
     "vi": 0,
     "ko": 0,
@@ -11618,11 +11618,11 @@
     "el": 0,
     "tl": 0,
     "de": 0,
-    "sp_oth_lan_indo_ary_lan_ben_p": 0,
+    "bn": 0,
     "ja": 0
   },
   {
-    "lga_code_2016": 57210,
+    "id": 57210,
     "location": "Plantagenet",
     "vi": 3,
     "ko": 0,
@@ -11644,11 +11644,11 @@
     "el": 0,
     "tl": 12,
     "de": 30,
-    "sp_oth_lan_indo_ary_lan_ben_p": 0,
+    "bn": 0,
     "ja": 3
   },
   {
-    "lga_code_2016": 57280,
+    "id": 57280,
     "location": "Port Hedland",
     "vi": 30,
     "ko": 21,
@@ -11670,11 +11670,11 @@
     "el": 17,
     "tl": 194,
     "de": 31,
-    "sp_oth_lan_indo_ary_lan_ben_p": 31,
+    "bn": 31,
     "ja": 13
   },
   {
-    "lga_code_2016": 55600,
+    "id": 55600,
     "location": "Moora",
     "vi": 0,
     "ko": 0,
@@ -11696,11 +11696,11 @@
     "el": 0,
     "tl": 16,
     "de": 0,
-    "sp_oth_lan_indo_ary_lan_ben_p": 0,
+    "bn": 0,
     "ja": 0
   },
   {
-    "lga_code_2016": 57350,
+    "id": 57350,
     "location": "Quairading",
     "vi": 0,
     "ko": 3,
@@ -11722,11 +11722,11 @@
     "el": 0,
     "tl": 0,
     "de": 0,
-    "sp_oth_lan_indo_ary_lan_ben_p": 0,
+    "bn": 0,
     "ja": 0
   },
   {
-    "lga_code_2016": 57420,
+    "id": 57420,
     "location": "Ravensthorpe",
     "vi": 4,
     "ko": 0,
@@ -11748,11 +11748,11 @@
     "el": 0,
     "tl": 5,
     "de": 0,
-    "sp_oth_lan_indo_ary_lan_ben_p": 0,
+    "bn": 0,
     "ja": 0
   },
   {
-    "lga_code_2016": 57490,
+    "id": 57490,
     "location": "Rockingham",
     "vi": 229,
     "ko": 83,
@@ -11774,11 +11774,11 @@
     "el": 51,
     "tl": 529,
     "de": 362,
-    "sp_oth_lan_indo_ary_lan_ben_p": 43,
+    "bn": 43,
     "ja": 172
   },
   {
-    "lga_code_2016": 55670,
+    "id": 55670,
     "location": "Morawa",
     "vi": 0,
     "ko": 3,
@@ -11800,11 +11800,11 @@
     "el": 0,
     "tl": 0,
     "de": 3,
-    "sp_oth_lan_indo_ary_lan_ben_p": 0,
+    "bn": 0,
     "ja": 0
   },
   {
-    "lga_code_2016": 55810,
+    "id": 55810,
     "location": "Mount Magnet",
     "vi": 0,
     "ko": 0,
@@ -11826,11 +11826,11 @@
     "el": 0,
     "tl": 3,
     "de": 0,
-    "sp_oth_lan_indo_ary_lan_ben_p": 0,
+    "bn": 0,
     "ja": 0
   },
   {
-    "lga_code_2016": 55880,
+    "id": 55880,
     "location": "Mount Marshall",
     "vi": 0,
     "ko": 0,
@@ -11852,11 +11852,11 @@
     "el": 0,
     "tl": 0,
     "de": 0,
-    "sp_oth_lan_indo_ary_lan_ben_p": 0,
+    "bn": 0,
     "ja": 0
   },
   {
-    "lga_code_2016": 56860,
+    "id": 56860,
     "location": "Nungarin",
     "vi": 0,
     "ko": 0,
@@ -11878,11 +11878,11 @@
     "el": 0,
     "tl": 0,
     "de": 0,
-    "sp_oth_lan_indo_ary_lan_ben_p": 0,
+    "bn": 0,
     "ja": 0
   },
   {
-    "lga_code_2016": 56620,
+    "id": 56620,
     "location": "Ngaanyatjarraku",
     "vi": 0,
     "ko": 0,
@@ -11904,11 +11904,11 @@
     "el": 0,
     "tl": 0,
     "de": 0,
-    "sp_oth_lan_indo_ary_lan_ben_p": 0,
+    "bn": 0,
     "ja": 0
   },
   {
-    "lga_code_2016": 65010,
+    "id": 65010,
     "location": "Southern Midlands",
     "vi": 0,
     "ko": 0,
@@ -11930,11 +11930,11 @@
     "el": 7,
     "tl": 0,
     "de": 9,
-    "sp_oth_lan_indo_ary_lan_ben_p": 0,
+    "bn": 0,
     "ja": 3
   },
   {
-    "lga_code_2016": 65210,
+    "id": 65210,
     "location": "Tasman",
     "vi": 3,
     "ko": 0,
@@ -11956,11 +11956,11 @@
     "el": 3,
     "tl": 0,
     "de": 5,
-    "sp_oth_lan_indo_ary_lan_ben_p": 0,
+    "bn": 0,
     "ja": 0
   },
   {
-    "lga_code_2016": 65410,
+    "id": 65410,
     "location": "Waratah/Wynyard",
     "vi": 3,
     "ko": 0,
@@ -11982,11 +11982,11 @@
     "el": 3,
     "tl": 4,
     "de": 22,
-    "sp_oth_lan_indo_ary_lan_ben_p": 0,
+    "bn": 0,
     "ja": 8
   },
   {
-    "lga_code_2016": 55740,
+    "id": 55740,
     "location": "Mosman Park",
     "vi": 18,
     "ko": 18,
@@ -12008,11 +12008,11 @@
     "el": 21,
     "tl": 18,
     "de": 60,
-    "sp_oth_lan_indo_ary_lan_ben_p": 9,
+    "bn": 9,
     "ja": 49
   },
   {
-    "lga_code_2016": 56790,
+    "id": 56790,
     "location": "Northampton",
     "vi": 5,
     "ko": 0,
@@ -12034,11 +12034,11 @@
     "el": 0,
     "tl": 0,
     "de": 29,
-    "sp_oth_lan_indo_ary_lan_ben_p": 0,
+    "bn": 0,
     "ja": 0
   },
   {
-    "lga_code_2016": 65610,
+    "id": 65610,
     "location": "West Coast",
     "vi": 4,
     "ko": 0,
@@ -12060,11 +12060,11 @@
     "el": 0,
     "tl": 3,
     "de": 9,
-    "sp_oth_lan_indo_ary_lan_ben_p": 0,
+    "bn": 0,
     "ja": 0
   },
   {
-    "lga_code_2016": 65810,
+    "id": 65810,
     "location": "West Tamar",
     "vi": 8,
     "ko": 20,
@@ -12086,11 +12086,11 @@
     "el": 24,
     "tl": 12,
     "de": 104,
-    "sp_oth_lan_indo_ary_lan_ben_p": 0,
+    "bn": 0,
     "ja": 23
   },
   {
-    "lga_code_2016": 60810,
+    "id": 60810,
     "location": "Central Coast (TAS)",
     "vi": 3,
     "ko": 0,
@@ -12112,11 +12112,11 @@
     "el": 0,
     "tl": 22,
     "de": 31,
-    "sp_oth_lan_indo_ary_lan_ben_p": 0,
+    "bn": 0,
     "ja": 8
   },
   {
-    "lga_code_2016": 56160,
+    "id": 56160,
     "location": "Murchison",
     "vi": 0,
     "ko": 0,
@@ -12138,11 +12138,11 @@
     "el": 0,
     "tl": 0,
     "de": 0,
-    "sp_oth_lan_indo_ary_lan_ben_p": 0,
+    "bn": 0,
     "ja": 0
   },
   {
-    "lga_code_2016": 56230,
+    "id": 56230,
     "location": "Murray",
     "vi": 5,
     "ko": 0,
@@ -12164,11 +12164,11 @@
     "el": 3,
     "tl": 29,
     "de": 34,
-    "sp_oth_lan_indo_ary_lan_ben_p": 0,
+    "bn": 0,
     "ja": 0
   },
   {
-    "lga_code_2016": 56300,
+    "id": 56300,
     "location": "Nannup",
     "vi": 0,
     "ko": 0,
@@ -12190,11 +12190,11 @@
     "el": 0,
     "tl": 0,
     "de": 9,
-    "sp_oth_lan_indo_ary_lan_ben_p": 0,
+    "bn": 0,
     "ja": 0
   },
   {
-    "lga_code_2016": 56370,
+    "id": 56370,
     "location": "Narembeen",
     "vi": 0,
     "ko": 0,
@@ -12216,11 +12216,11 @@
     "el": 0,
     "tl": 5,
     "de": 3,
-    "sp_oth_lan_indo_ary_lan_ben_p": 0,
+    "bn": 0,
     "ja": 0
   },
   {
-    "lga_code_2016": 57700,
+    "id": 57700,
     "location": "Serpentine-Jarrahdale",
     "vi": 25,
     "ko": 11,
@@ -12242,11 +12242,11 @@
     "el": 17,
     "tl": 77,
     "de": 59,
-    "sp_oth_lan_indo_ary_lan_ben_p": 9,
+    "bn": 9,
     "ja": 13
   },
   {
-    "lga_code_2016": 57770,
+    "id": 57770,
     "location": "Shark Bay",
     "vi": 0,
     "ko": 3,
@@ -12268,11 +12268,11 @@
     "el": 4,
     "tl": 11,
     "de": 11,
-    "sp_oth_lan_indo_ary_lan_ben_p": 0,
+    "bn": 0,
     "ja": 0
   },
   {
-    "lga_code_2016": 57840,
+    "id": 57840,
     "location": "South Perth",
     "vi": 267,
     "ko": 279,
@@ -12294,11 +12294,11 @@
     "el": 149,
     "tl": 89,
     "de": 165,
-    "sp_oth_lan_indo_ary_lan_ben_p": 57,
+    "bn": 57,
     "ja": 234
   },
   {
-    "lga_code_2016": 56460,
+    "id": 56460,
     "location": "Narrogin",
     "vi": 6,
     "ko": 0,
@@ -12320,11 +12320,11 @@
     "el": 0,
     "tl": 39,
     "de": 8,
-    "sp_oth_lan_indo_ary_lan_ben_p": 0,
+    "bn": 0,
     "ja": 0
   },
   {
-    "lga_code_2016": 56580,
+    "id": 56580,
     "location": "Nedlands",
     "vi": 52,
     "ko": 31,
@@ -12346,11 +12346,11 @@
     "el": 96,
     "tl": 17,
     "de": 131,
-    "sp_oth_lan_indo_ary_lan_ben_p": 23,
+    "bn": 23,
     "ja": 80
   },
   {
-    "lga_code_2016": 56730,
+    "id": 56730,
     "location": "Northam",
     "vi": 16,
     "ko": 0,
@@ -12372,11 +12372,11 @@
     "el": 3,
     "tl": 114,
     "de": 36,
-    "sp_oth_lan_indo_ary_lan_ben_p": 0,
+    "bn": 0,
     "ja": 3
   },
   {
-    "lga_code_2016": 56930,
+    "id": 56930,
     "location": "Peppermint Grove",
     "vi": 0,
     "ko": 0,
@@ -12398,11 +12398,11 @@
     "el": 9,
     "tl": 0,
     "de": 0,
-    "sp_oth_lan_indo_ary_lan_ben_p": 4,
+    "bn": 4,
     "ja": 3
   },
   {
-    "lga_code_2016": 57630,
+    "id": 57630,
     "location": "Sandstone",
     "vi": 0,
     "ko": 0,
@@ -12424,11 +12424,11 @@
     "el": 0,
     "tl": 0,
     "de": 3,
-    "sp_oth_lan_indo_ary_lan_ben_p": 0,
+    "bn": 0,
     "ja": 0
   },
   {
-    "lga_code_2016": 57000,
+    "id": 57000,
     "location": "Perenjori",
     "vi": 0,
     "ko": 0,
@@ -12450,11 +12450,11 @@
     "el": 0,
     "tl": 3,
     "de": 3,
-    "sp_oth_lan_indo_ary_lan_ben_p": 0,
+    "bn": 0,
     "ja": 0
   },
   {
-    "lga_code_2016": 57080,
+    "id": 57080,
     "location": "Perth (WA)",
     "vi": 179,
     "ko": 590,
@@ -12476,11 +12476,11 @@
     "el": 77,
     "tl": 96,
     "de": 139,
-    "sp_oth_lan_indo_ary_lan_ben_p": 79,
+    "bn": 79,
     "ja": 354
   },
   {
-    "lga_code_2016": 58330,
+    "id": 58330,
     "location": "Toodyay",
     "vi": 3,
     "ko": 3,
@@ -12502,11 +12502,11 @@
     "el": 3,
     "tl": 0,
     "de": 22,
-    "sp_oth_lan_indo_ary_lan_ben_p": 0,
+    "bn": 0,
     "ja": 3
   },
   {
-    "lga_code_2016": 70200,
+    "id": 70200,
     "location": "Alice Springs",
     "vi": 88,
     "ko": 43,
@@ -12528,11 +12528,11 @@
     "el": 36,
     "tl": 229,
     "de": 130,
-    "sp_oth_lan_indo_ary_lan_ben_p": 22,
+    "bn": 22,
     "ja": 53
   },
   {
-    "lga_code_2016": 61010,
+    "id": 61010,
     "location": "Central Highlands (TAS)",
     "vi": 0,
     "ko": 0,
@@ -12554,11 +12554,11 @@
     "el": 3,
     "tl": 4,
     "de": 3,
-    "sp_oth_lan_indo_ary_lan_ben_p": 0,
+    "bn": 0,
     "ja": 0
   },
   {
-    "lga_code_2016": 61210,
+    "id": 61210,
     "location": "Circular Head",
     "vi": 0,
     "ko": 24,
@@ -12580,11 +12580,11 @@
     "el": 0,
     "tl": 25,
     "de": 13,
-    "sp_oth_lan_indo_ary_lan_ben_p": 0,
+    "bn": 0,
     "ja": 3
   },
   {
-    "lga_code_2016": 58400,
+    "id": 58400,
     "location": "Trayning",
     "vi": 0,
     "ko": 0,
@@ -12606,11 +12606,11 @@
     "el": 0,
     "tl": 0,
     "de": 0,
-    "sp_oth_lan_indo_ary_lan_ben_p": 0,
+    "bn": 0,
     "ja": 0
   },
   {
-    "lga_code_2016": 58760,
+    "id": 58760,
     "location": "Wanneroo",
     "vi": 4973,
     "ko": 171,
@@ -12632,11 +12632,11 @@
     "el": 344,
     "tl": 1044,
     "de": 574,
-    "sp_oth_lan_indo_ary_lan_ben_p": 146,
+    "bn": 146,
     "ja": 244
   },
   {
-    "lga_code_2016": 58820,
+    "id": 58820,
     "location": "Waroona",
     "vi": 0,
     "ko": 0,
@@ -12658,11 +12658,11 @@
     "el": 0,
     "tl": 21,
     "de": 11,
-    "sp_oth_lan_indo_ary_lan_ben_p": 4,
+    "bn": 4,
     "ja": 0
   },
   {
-    "lga_code_2016": 58890,
+    "id": 58890,
     "location": "West Arthur",
     "vi": 0,
     "ko": 0,
@@ -12684,11 +12684,11 @@
     "el": 0,
     "tl": 3,
     "de": 0,
-    "sp_oth_lan_indo_ary_lan_ben_p": 0,
+    "bn": 0,
     "ja": 0
   },
   {
-    "lga_code_2016": 61410,
+    "id": 61410,
     "location": "Clarence",
     "vi": 32,
     "ko": 35,
@@ -12710,11 +12710,11 @@
     "el": 234,
     "tl": 29,
     "de": 163,
-    "sp_oth_lan_indo_ary_lan_ben_p": 15,
+    "bn": 15,
     "ja": 83
   },
   {
-    "lga_code_2016": 61510,
+    "id": 61510,
     "location": "Derwent Valley",
     "vi": 3,
     "ko": 0,
@@ -12736,11 +12736,11 @@
     "el": 9,
     "tl": 0,
     "de": 9,
-    "sp_oth_lan_indo_ary_lan_ben_p": 0,
+    "bn": 0,
     "ja": 3
   },
   {
-    "lga_code_2016": 58470,
+    "id": 58470,
     "location": "Upper Gascoyne",
     "vi": 0,
     "ko": 0,
@@ -12762,11 +12762,11 @@
     "el": 0,
     "tl": 0,
     "de": 3,
-    "sp_oth_lan_indo_ary_lan_ben_p": 0,
+    "bn": 0,
     "ja": 0
   },
   {
-    "lga_code_2016": 58510,
+    "id": 58510,
     "location": "Victoria Park",
     "vi": 275,
     "ko": 417,
@@ -12788,11 +12788,11 @@
     "el": 56,
     "tl": 186,
     "de": 164,
-    "sp_oth_lan_indo_ary_lan_ben_p": 119,
+    "bn": 119,
     "ja": 164
   },
   {
-    "lga_code_2016": 61610,
+    "id": 61610,
     "location": "Devonport",
     "vi": 12,
     "ko": 10,
@@ -12814,11 +12814,11 @@
     "el": 28,
     "tl": 40,
     "de": 24,
-    "sp_oth_lan_indo_ary_lan_ben_p": 4,
+    "bn": 4,
     "ja": 17
   },
   {
-    "lga_code_2016": 61810,
+    "id": 61810,
     "location": "Dorset",
     "vi": 0,
     "ko": 4,
@@ -12840,11 +12840,11 @@
     "el": 5,
     "tl": 3,
     "de": 21,
-    "sp_oth_lan_indo_ary_lan_ben_p": 0,
+    "bn": 0,
     "ja": 0
   },
   {
-    "lga_code_2016": 58540,
+    "id": 58540,
     "location": "Victoria Plains",
     "vi": 0,
     "ko": 0,
@@ -12866,11 +12866,11 @@
     "el": 0,
     "tl": 15,
     "de": 0,
-    "sp_oth_lan_indo_ary_lan_ben_p": 0,
+    "bn": 0,
     "ja": 0
   },
   {
-    "lga_code_2016": 62010,
+    "id": 62010,
     "location": "Flinders (TAS)",
     "vi": 0,
     "ko": 0,
@@ -12892,11 +12892,11 @@
     "el": 0,
     "tl": 0,
     "de": 5,
-    "sp_oth_lan_indo_ary_lan_ben_p": 0,
+    "bn": 0,
     "ja": 0
   },
   {
-    "lga_code_2016": 62210,
+    "id": 62210,
     "location": "George Town",
     "vi": 0,
     "ko": 0,
@@ -12918,11 +12918,11 @@
     "el": 0,
     "tl": 3,
     "de": 15,
-    "sp_oth_lan_indo_ary_lan_ben_p": 0,
+    "bn": 0,
     "ja": 3
   },
   {
-    "lga_code_2016": 62410,
+    "id": 62410,
     "location": "Glamorgan/Spring Bay",
     "vi": 3,
     "ko": 0,
@@ -12944,11 +12944,11 @@
     "el": 0,
     "tl": 0,
     "de": 14,
-    "sp_oth_lan_indo_ary_lan_ben_p": 0,
+    "bn": 0,
     "ja": 6
   },
   {
-    "lga_code_2016": 62610,
+    "id": 62610,
     "location": "Glenorchy",
     "vi": 98,
     "ko": 30,
@@ -12970,11 +12970,11 @@
     "el": 181,
     "tl": 125,
     "de": 122,
-    "sp_oth_lan_indo_ary_lan_ben_p": 10,
+    "bn": 10,
     "ja": 57
   },
   {
-    "lga_code_2016": 58570,
+    "id": 58570,
     "location": "Vincent",
     "vi": 573,
     "ko": 214,
@@ -12996,11 +12996,11 @@
     "el": 301,
     "tl": 77,
     "de": 205,
-    "sp_oth_lan_indo_ary_lan_ben_p": 23,
+    "bn": 23,
     "ja": 188
   },
   {
-    "lga_code_2016": 58610,
+    "id": 58610,
     "location": "Wagin",
     "vi": 4,
     "ko": 0,
@@ -13022,11 +13022,11 @@
     "el": 0,
     "tl": 4,
     "de": 3,
-    "sp_oth_lan_indo_ary_lan_ben_p": 0,
+    "bn": 0,
     "ja": 0
   },
   {
-    "lga_code_2016": 58680,
+    "id": 58680,
     "location": "Wandering",
     "vi": 0,
     "ko": 0,
@@ -13048,11 +13048,11 @@
     "el": 0,
     "tl": 0,
     "de": 0,
-    "sp_oth_lan_indo_ary_lan_ben_p": 0,
+    "bn": 0,
     "ja": 0
   },
   {
-    "lga_code_2016": 59030,
+    "id": 59030,
     "location": "Westonia",
     "vi": 0,
     "ko": 0,
@@ -13074,11 +13074,11 @@
     "el": 0,
     "tl": 0,
     "de": 8,
-    "sp_oth_lan_indo_ary_lan_ben_p": 0,
+    "bn": 0,
     "ja": 0
   },
   {
-    "lga_code_2016": 74560,
+    "id": 74560,
     "location": "Wagait",
     "vi": 0,
     "ko": 0,
@@ -13100,11 +13100,11 @@
     "el": 0,
     "tl": 0,
     "de": 3,
-    "sp_oth_lan_indo_ary_lan_ben_p": 0,
+    "bn": 0,
     "ja": 0
   },
   {
-    "lga_code_2016": 74660,
+    "id": 74660,
     "location": "West Arnhem",
     "vi": 0,
     "ko": 0,
@@ -13126,11 +13126,11 @@
     "el": 3,
     "tl": 6,
     "de": 32,
-    "sp_oth_lan_indo_ary_lan_ben_p": 3,
+    "bn": 3,
     "ja": 5
   },
   {
-    "lga_code_2016": 72800,
+    "id": 72800,
     "location": "Palmerston",
     "vi": 199,
     "ko": 38,
@@ -13152,11 +13152,11 @@
     "el": 294,
     "tl": 711,
     "de": 97,
-    "sp_oth_lan_indo_ary_lan_ben_p": 90,
+    "bn": 90,
     "ja": 41
   },
   {
-    "lga_code_2016": 73600,
+    "id": 73600,
     "location": "Roper Gulf",
     "vi": 4,
     "ko": 0,
@@ -13178,11 +13178,11 @@
     "el": 3,
     "tl": 3,
     "de": 17,
-    "sp_oth_lan_indo_ary_lan_ben_p": 0,
+    "bn": 0,
     "ja": 0
   },
   {
-    "lga_code_2016": 74050,
+    "id": 74050,
     "location": "Tiwi Islands",
     "vi": 4,
     "ko": 0,
@@ -13204,11 +13204,11 @@
     "el": 0,
     "tl": 3,
     "de": 0,
-    "sp_oth_lan_indo_ary_lan_ben_p": 0,
+    "bn": 0,
     "ja": 0
   },
   {
-    "lga_code_2016": 74550,
+    "id": 74550,
     "location": "Victoria Daly",
     "vi": 0,
     "ko": 0,
@@ -13230,11 +13230,11 @@
     "el": 0,
     "tl": 0,
     "de": 3,
-    "sp_oth_lan_indo_ary_lan_ben_p": 0,
+    "bn": 0,
     "ja": 0
   },
   {
-    "lga_code_2016": 74680,
+    "id": 74680,
     "location": "West Daly",
     "vi": 0,
     "ko": 3,
@@ -13256,11 +13256,11 @@
     "el": 0,
     "tl": 4,
     "de": 0,
-    "sp_oth_lan_indo_ary_lan_ben_p": 0,
+    "bn": 0,
     "ja": 0
   },
   {
-    "lga_code_2016": 79399,
+    "id": 79399,
     "location": "Unincorporated NT",
     "vi": 78,
     "ko": 19,
@@ -13282,11 +13282,11 @@
     "el": 9,
     "tl": 29,
     "de": 46,
-    "sp_oth_lan_indo_ary_lan_ben_p": 0,
+    "bn": 0,
     "ja": 67
   },
   {
-    "lga_code_2016": 62810,
+    "id": 62810,
     "location": "Hobart",
     "vi": 143,
     "ko": 167,
@@ -13308,11 +13308,11 @@
     "el": 469,
     "tl": 60,
     "de": 298,
-    "sp_oth_lan_indo_ary_lan_ben_p": 69,
+    "bn": 69,
     "ja": 172
   },
   {
-    "lga_code_2016": 59100,
+    "id": 59100,
     "location": "Wickepin",
     "vi": 0,
     "ko": 0,
@@ -13334,11 +13334,11 @@
     "el": 0,
     "tl": 0,
     "de": 3,
-    "sp_oth_lan_indo_ary_lan_ben_p": 0,
+    "bn": 0,
     "ja": 0
   },
   {
-    "lga_code_2016": 59330,
+    "id": 59330,
     "location": "Wyalkatchem",
     "vi": 0,
     "ko": 0,
@@ -13360,11 +13360,11 @@
     "el": 0,
     "tl": 0,
     "de": 0,
-    "sp_oth_lan_indo_ary_lan_ben_p": 0,
+    "bn": 0,
     "ja": 0
   },
   {
-    "lga_code_2016": 59340,
+    "id": 59340,
     "location": "Wyndham-East Kimberley",
     "vi": 32,
     "ko": 14,
@@ -13386,11 +13386,11 @@
     "el": 3,
     "tl": 28,
     "de": 64,
-    "sp_oth_lan_indo_ary_lan_ben_p": 0,
+    "bn": 0,
     "ja": 11
   },
   {
-    "lga_code_2016": 59350,
+    "id": 59350,
     "location": "Yalgoo",
     "vi": 3,
     "ko": 0,
@@ -13412,11 +13412,11 @@
     "el": 0,
     "tl": 0,
     "de": 0,
-    "sp_oth_lan_indo_ary_lan_ben_p": 0,
+    "bn": 0,
     "ja": 0
   },
   {
-    "lga_code_2016": 63010,
+    "id": 63010,
     "location": "Huon Valley",
     "vi": 9,
     "ko": 8,
@@ -13438,11 +13438,11 @@
     "el": 13,
     "tl": 14,
     "de": 120,
-    "sp_oth_lan_indo_ary_lan_ben_p": 0,
+    "bn": 0,
     "ja": 24
   },
   {
-    "lga_code_2016": 59170,
+    "id": 59170,
     "location": "Williams",
     "vi": 0,
     "ko": 0,
@@ -13464,11 +13464,11 @@
     "el": 0,
     "tl": 0,
     "de": 3,
-    "sp_oth_lan_indo_ary_lan_ben_p": 0,
+    "bn": 0,
     "ja": 0
   },
   {
-    "lga_code_2016": 59250,
+    "id": 59250,
     "location": "Wiluna",
     "vi": 0,
     "ko": 0,
@@ -13490,11 +13490,11 @@
     "el": 0,
     "tl": 0,
     "de": 3,
-    "sp_oth_lan_indo_ary_lan_ben_p": 0,
+    "bn": 0,
     "ja": 0
   },
   {
-    "lga_code_2016": 89399,
+    "id": 89399,
     "location": "Unincorporated ACT",
     "vi": 4203,
     "ko": 2384,
@@ -13516,11 +13516,11 @@
     "el": 2419,
     "tl": 1697,
     "de": 1890,
-    "sp_oth_lan_indo_ary_lan_ben_p": 1949,
+    "bn": 1949,
     "ja": 1110
   },
   {
-    "lga_code_2016": 99399,
+    "id": 99399,
     "location": "Unincorp. Other Territories",
     "vi": 9,
     "ko": 0,
@@ -13542,11 +13542,11 @@
     "el": 4,
     "tl": 37,
     "de": 10,
-    "sp_oth_lan_indo_ary_lan_ben_p": 0,
+    "bn": 0,
     "ja": 0
   },
   {
-    "lga_code_2016": 60610,
+    "id": 60610,
     "location": "Burnie",
     "vi": 9,
     "ko": 0,
@@ -13568,11 +13568,11 @@
     "el": 12,
     "tl": 25,
     "de": 42,
-    "sp_oth_lan_indo_ary_lan_ben_p": 12,
+    "bn": 12,
     "ja": 12
   },
   {
-    "lga_code_2016": 59310,
+    "id": 59310,
     "location": "Wongan-Ballidu",
     "vi": 0,
     "ko": 0,
@@ -13594,11 +13594,11 @@
     "el": 0,
     "tl": 11,
     "de": 0,
-    "sp_oth_lan_indo_ary_lan_ben_p": 0,
+    "bn": 0,
     "ja": 0
   },
   {
-    "lga_code_2016": 59320,
+    "id": 59320,
     "location": "Woodanilling",
     "vi": 0,
     "ko": 0,
@@ -13620,11 +13620,11 @@
     "el": 0,
     "tl": 0,
     "de": 0,
-    "sp_oth_lan_indo_ary_lan_ben_p": 0,
+    "bn": 0,
     "ja": 0
   },
   {
-    "lga_code_2016": 59360,
+    "id": 59360,
     "location": "Yilgarn",
     "vi": 0,
     "ko": 0,
@@ -13646,11 +13646,11 @@
     "el": 3,
     "tl": 10,
     "de": 0,
-    "sp_oth_lan_indo_ary_lan_ben_p": 0,
+    "bn": 0,
     "ja": 0
   },
   {
-    "lga_code_2016": 59370,
+    "id": 59370,
     "location": "York",
     "vi": 4,
     "ko": 0,
@@ -13672,11 +13672,11 @@
     "el": 0,
     "tl": 5,
     "de": 9,
-    "sp_oth_lan_indo_ary_lan_ben_p": 0,
+    "bn": 0,
     "ja": 0
   },
   {
-    "lga_code_2016": 60210,
+    "id": 60210,
     "location": "Break O'Day",
     "vi": 0,
     "ko": 0,
@@ -13698,11 +13698,11 @@
     "el": 4,
     "tl": 3,
     "de": 22,
-    "sp_oth_lan_indo_ary_lan_ben_p": 0,
+    "bn": 0,
     "ja": 7
   },
   {
-    "lga_code_2016": 60410,
+    "id": 60410,
     "location": "Brighton",
     "vi": 7,
     "ko": 0,
@@ -13724,11 +13724,11 @@
     "el": 23,
     "tl": 24,
     "de": 21,
-    "sp_oth_lan_indo_ary_lan_ben_p": 0,
+    "bn": 0,
     "ja": 3
   },
   {
-    "lga_code_2016": 63210,
+    "id": 63210,
     "location": "Kentish",
     "vi": 0,
     "ko": 5,
@@ -13750,11 +13750,11 @@
     "el": 3,
     "tl": 11,
     "de": 28,
-    "sp_oth_lan_indo_ary_lan_ben_p": 3,
+    "bn": 3,
     "ja": 15
   },
   {
-    "lga_code_2016": 63410,
+    "id": 63410,
     "location": "King Island",
     "vi": 0,
     "ko": 0,
@@ -13776,11 +13776,11 @@
     "el": 3,
     "tl": 3,
     "de": 11,
-    "sp_oth_lan_indo_ary_lan_ben_p": 0,
+    "bn": 0,
     "ja": 0
   },
   {
-    "lga_code_2016": 63610,
+    "id": 63610,
     "location": "Kingborough",
     "vi": 10,
     "ko": 81,
@@ -13802,11 +13802,11 @@
     "el": 66,
     "tl": 50,
     "de": 192,
-    "sp_oth_lan_indo_ary_lan_ben_p": 9,
+    "bn": 9,
     "ja": 69
   },
   {
-    "lga_code_2016": 63810,
+    "id": 63810,
     "location": "Latrobe (TAS)",
     "vi": 4,
     "ko": 4,
@@ -13828,11 +13828,11 @@
     "el": 0,
     "tl": 4,
     "de": 19,
-    "sp_oth_lan_indo_ary_lan_ben_p": 0,
+    "bn": 0,
     "ja": 5
   },
   {
-    "lga_code_2016": 64010,
+    "id": 64010,
     "location": "Launceston",
     "vi": 87,
     "ko": 96,
@@ -13854,11 +13854,11 @@
     "el": 54,
     "tl": 96,
     "de": 145,
-    "sp_oth_lan_indo_ary_lan_ben_p": 40,
+    "bn": 40,
     "ja": 63
   },
   {
-    "lga_code_2016": 64210,
+    "id": 64210,
     "location": "Meander Valley",
     "vi": 0,
     "ko": 14,
@@ -13880,11 +13880,11 @@
     "el": 6,
     "tl": 32,
     "de": 39,
-    "sp_oth_lan_indo_ary_lan_ben_p": 0,
+    "bn": 0,
     "ja": 11
   },
   {
-    "lga_code_2016": 64610,
+    "id": 64610,
     "location": "Northern Midlands",
     "vi": 7,
     "ko": 3,
@@ -13906,11 +13906,11 @@
     "el": 4,
     "tl": 6,
     "de": 15,
-    "sp_oth_lan_indo_ary_lan_ben_p": 0,
+    "bn": 0,
     "ja": 6
   },
   {
-    "lga_code_2016": 64810,
+    "id": 64810,
     "location": "Sorell",
     "vi": 0,
     "ko": 0,
@@ -13932,11 +13932,11 @@
     "el": 22,
     "tl": 12,
     "de": 34,
-    "sp_oth_lan_indo_ary_lan_ben_p": 0,
+    "bn": 0,
     "ja": 5
   },
   {
-    "lga_code_2016": 70700,
+    "id": 70700,
     "location": "Coomalie",
     "vi": 0,
     "ko": 0,
@@ -13958,11 +13958,11 @@
     "el": 0,
     "tl": 9,
     "de": 3,
-    "sp_oth_lan_indo_ary_lan_ben_p": 0,
+    "bn": 0,
     "ja": 3
   },
   {
-    "lga_code_2016": 71000,
+    "id": 71000,
     "location": "Darwin",
     "vi": 596,
     "ko": 207,
@@ -13984,11 +13984,11 @@
     "el": 2780,
     "tl": 1762,
     "de": 422,
-    "sp_oth_lan_indo_ary_lan_ben_p": 311,
+    "bn": 311,
     "ja": 314
   },
   {
-    "lga_code_2016": 71300,
+    "id": 71300,
     "location": "East Arnhem",
     "vi": 4,
     "ko": 0,
@@ -14010,11 +14010,11 @@
     "el": 0,
     "tl": 0,
     "de": 5,
-    "sp_oth_lan_indo_ary_lan_ben_p": 0,
+    "bn": 0,
     "ja": 0
   },
   {
-    "lga_code_2016": 72200,
+    "id": 72200,
     "location": "Katherine",
     "vi": 19,
     "ko": 15,
@@ -14036,11 +14036,11 @@
     "el": 6,
     "tl": 115,
     "de": 27,
-    "sp_oth_lan_indo_ary_lan_ben_p": 0,
+    "bn": 0,
     "ja": 8
   },
   {
-    "lga_code_2016": 72300,
+    "id": 72300,
     "location": "Litchfield",
     "vi": 228,
     "ko": 31,
@@ -14062,11 +14062,11 @@
     "el": 87,
     "tl": 118,
     "de": 79,
-    "sp_oth_lan_indo_ary_lan_ben_p": 0,
+    "bn": 0,
     "ja": 4
   },
   {
-    "lga_code_2016": 70420,
+    "id": 70420,
     "location": "Barkly",
     "vi": 0,
     "ko": 4,
@@ -14088,11 +14088,11 @@
     "el": 30,
     "tl": 21,
     "de": 20,
-    "sp_oth_lan_indo_ary_lan_ben_p": 0,
+    "bn": 0,
     "ja": 0
   },
   {
-    "lga_code_2016": 70540,
+    "id": 70540,
     "location": "Belyuen",
     "vi": 0,
     "ko": 0,
@@ -14114,11 +14114,11 @@
     "el": 0,
     "tl": 0,
     "de": 0,
-    "sp_oth_lan_indo_ary_lan_ben_p": 0,
+    "bn": 0,
     "ja": 0
   },
   {
-    "lga_code_2016": 70620,
+    "id": 70620,
     "location": "Central Desert",
     "vi": 0,
     "ko": 0,
@@ -14140,11 +14140,11 @@
     "el": 0,
     "tl": 0,
     "de": 3,
-    "sp_oth_lan_indo_ary_lan_ben_p": 0,
+    "bn": 0,
     "ja": 0
   },
   {
-    "lga_code_2016": 72330,
+    "id": 72330,
     "location": "MacDonnell",
     "vi": 5,
     "ko": 3,
@@ -14166,7 +14166,7 @@
     "el": 0,
     "tl": 3,
     "de": 19,
-    "sp_oth_lan_indo_ary_lan_ben_p": 3,
+    "bn": 3,
     "ja": 7
   }
 ]
