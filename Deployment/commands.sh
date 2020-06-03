@@ -3,6 +3,7 @@
 # This is a scratchpad of commands for the project. Not for execution in whole.
 # Simon Cozens 1071589
 # Solmaz Maabi 871603
+# Wenkang Dang 1009151
 
 # Format volumes
 mkfs.ext4 /dev/vdb
