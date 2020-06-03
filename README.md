@@ -15,6 +15,10 @@ The Deployment folder contains Ansible playbooks describing the deployment of th
 
 The frontend intent is to provide a one-page application to visualise the insights drawn from the system.
 
+## Video of the Databse and Harvester Running
+
+https://youtu.be/fu3QS9ndV4M
+
 ## Contributers
 
 Simon Cozens
