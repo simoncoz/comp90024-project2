@@ -1,8 +1,3 @@
-# 2020 COMP90024 Project2
-# Simon Cozens 1071589
-# Solmaz Maabi 871603
-
-
 - hosts: localhost
   vars_files:
     - host_vars/nectar.yaml
@@ -20,7 +15,7 @@
 
   roles:
     - role: th-common
-#    - role: th-volumes
+    - role: th-volumes
     - role: th-docker
     - role: install-couchdb
     - role: th-harvester

@@ -1,0 +1,21 @@
+version: '3.7'
+
+env_file:
+  -/common.env
+environment:
+  node: 172.26.131.226
+services:
+  couchdb3:
+    image: ibmcom/couchdb3:"{{VERSION}}"
+    restart: always
+    ports:
+      - 4369:4369
+      - 5984:5984
+      - 9100-9200:9100-9200
+    environment:
+      COUCHDB_USER: "{{user}}"
+      COUCHDB_PASSWORD: "{{pass}}"
+      COUCHDB_SECRET: "{{cookie}}"
+      ERL_FLAGS: "-setcookie \{{cookie}}\" -name \"couchdb@{{node}}\""
+    volumes:
+      - ./mnt/home/couchdb/data:/opt/couchdb/data
