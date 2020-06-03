@@ -39,7 +39,8 @@ maxTweets = 50000 # Some arbitrary large number
 max_id = -1
 tweetCount = 0
 print("Downloading max {0} tweets".format(maxTweets))
- 
+
+# Need to handle API rate limiting in this loop.
 while tweetCount < maxTweets:
     try:
       if (max_id <= 0):
