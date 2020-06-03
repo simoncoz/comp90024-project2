@@ -2,6 +2,7 @@
   <div>
     <div style="height: 1000px;border:1px solid rgb(180,180,180)" id="citydistri"></div>
     <div style="height: 1000px;border:1px solid rgb(180,180,180)" id="echartss"></div>
+    <div style="height: 1000px;border:1px solid rgb(180,180,180)" id="map"></div>
   </div>
 </template>
 
@@ -30,7 +31,7 @@ export default {
         legend: {
           left: 'center',
           top: 'bottom',
-          data: ['rose1', 'rose2', 'rose3', 'rose4', 'rose5', 'rose6', 'rose7', 'rose8'],
+          data: ['en', 'fr', 'es', 'it', 'zh', 'de', 'ar', 'ja'],
         },
         toolbox: {
           show: true,
@@ -46,46 +47,21 @@ export default {
           },
         },
         series: [
-          // {
-          //   name: '半径模式',
-          //   type: 'pie',
-          //   radius: [20, 110],
-          //   center: ['25%', '50%'],
-          //   roseType: 'radius',
-          //   label: {
-          //     show: false,
-          //   },
-          //   emphasis: {
-          //     label: {
-          //       show: true,
-          //     },
-          //   },
-          //   data: [
-          //     { value: 10, name: 'rose1' },
-          //     { value: 5, name: 'rose2' },
-          //     { value: 15, name: 'rose3' },
-          //     { value: 25, name: 'rose4' },
-          //     { value: 20, name: 'rose5' },
-          //     { value: 35, name: 'rose6' },
-          //     { value: 30, name: 'rose7' },
-          //     { value: 40, name: 'rose8' },
-          //   ],
-          // },
           {
             name: 'Area',
             type: 'pie',
-            radius: [80, 250],
+            radius: [120, 250],
             center: ['50%', '50%'],
             roseType: 'area',
             data: [
-              { value: 10, name: 'rose1' },
-              { value: 5, name: 'rose2' },
-              { value: 15, name: 'rose3' },
-              { value: 25, name: 'rose4' },
-              { value: 20, name: 'rose5' },
-              { value: 35, name: 'rose6' },
-              { value: 30, name: 'rose7' },
-              { value: 40, name: 'rose8' },
+              { value: 200, name: 'en' },
+              { value: 5, name: 'es' },
+              { value: 15, name: 'fr' },
+              { value: 45, name: 'zh' },
+              { value: 20, name: 'it' },
+              { value: 35, name: 'de' },
+              { value: 30, name: 'ar' },
+              { value: 20, name: 'ja' },
             ],
           },
         ],
